@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:10d8223710deb630ecb3318483fbefc448b0c3fa@merlin-cinemas-calendar
-DTSTAMP:20260304T000000Z
-DTSTART;VALUE=DATE:20260304
-DTEND;VALUE=DATE:20260305
+UID:0344b2408d93ea181cdd45534c91264c7c7718e6@merlin-cinemas-calendar
+DTSTAMP:20260305T000000Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
 SUMMARY:Wuthering Heights @ Merlin Bodmin
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate

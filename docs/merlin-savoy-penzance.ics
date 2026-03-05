@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:2a799a218b0f8fc7ed761543e38d8f81a23d715e@merlin-cinemas-calendar
-DTSTAMP:20260304T000000Z
-DTSTART;VALUE=DATE:20260304
-DTEND;VALUE=DATE:20260305
+UID:c1ac816fe61586c62443a8c2aae3e3b5785c99bb@merlin-cinemas-calendar
+DTSTAMP:20260305T000000Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
 SUMMARY:Wuthering Heights @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate
