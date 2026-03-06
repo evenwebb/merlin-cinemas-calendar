@@ -7,25 +7,6 @@ X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:0344b2408d93ea181cdd45534c91264c7c7718e6@merlin-cinemas-calendar
-DTSTAMP:20260305T000000Z
-DTSTART;VALUE=DATE:20260305
-DTEND;VALUE=DATE:20260306
-SUMMARY:Wuthering Heights @ Merlin Bodmin
-DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
- liff is adopted by the wealthy Earnshaw family and moves into their estate
- , Wuthering Heights. Soon, the new resident falls for his compassionate fo
- ster sister, Cathy. The two share a remarkable bond that seems unbreakable
-  until Cathy, feeling the pressure of social convention, suppresses her fe
- elings and marries Edgar Linton, a man of means who befits her stature. He
- athcliff vows to win her back.\n\nStarring: Juliette Binoche, Ralph Fienne
- s, Janet McTeer, Sophie Ward, Simon Shepherd, Jeremy Northam\n\nFilm relea
- se at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co
- .uk/film/105263-wuthering-heights
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/105263-wuthering-heights
-END:VEVENT
-BEGIN:VEVENT
 UID:d9bffbade62e7e9caa6f11e88765d5da46c12c79@merlin-cinemas-calendar
 DTSTAMP:20260306T000000Z
 DTSTART;VALUE=DATE:20260306
@@ -56,6 +37,25 @@ DESCRIPTION:The Bride!\n★★★★☆\nScience Fiction, Horror, Comedy\n\nA lo
  7-the-bride
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/102497-the-bride
+END:VEVENT
+BEGIN:VEVENT
+UID:554ddf98c79a5c083abb9a0901c42e147380ea7d@merlin-cinemas-calendar
+DTSTAMP:20260307T000000Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:Wuthering Heights @ Merlin Bodmin
+DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
+ liff is adopted by the wealthy Earnshaw family and moves into their estate
+ , Wuthering Heights. Soon, the new resident falls for his compassionate fo
+ ster sister, Cathy. The two share a remarkable bond that seems unbreakable
+  until Cathy, feeling the pressure of social convention, suppresses her fe
+ elings and marries Edgar Linton, a man of means who befits her stature. He
+ athcliff vows to win her back.\n\nStarring: Juliette Binoche, Ralph Fienne
+ s, Janet McTeer, Sophie Ward, Simon Shepherd, Jeremy Northam\n\nFilm relea
+ se at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co
+ .uk/film/105263-wuthering-heights
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/105263-wuthering-heights
 END:VEVENT
 BEGIN:VEVENT
 UID:30c9876593a173206a1b836e74f5888abed60d7f@merlin-cinemas-calendar
@@ -114,6 +114,26 @@ LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/100576-project-hail-mary
 END:VEVENT
 BEGIN:VEVENT
+UID:337e74fd3e8212b1a19260cf15866501be567713@merlin-cinemas-calendar
+DTSTAMP:20260320T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Ready Or Not 2: Here I Come @ Merlin Bodmin
+DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
+ rviving an all-out attack from the Le Domas family, Grace discovers she’s 
+ reached the next level of the nightmarish game — and this time with her es
+ tranged sister Faith at her side. Grace has one chance to survive, keep he
+ r sister alive, and claim the High Seat of the Council that controls the w
+ orld. Four rival families are hunting her for the throne, and whoever wins
+  rules it all.\n\nStarring: Samara Weaving, Kathryn Newton, Sarah Michelle
+  Gellar, Shawn Hatosy, Nestor Carbonell, David Cronenberg\n\nFilm release 
+ at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk
+ /film/106037-ready-or-not-2-here-i-come
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-co
+ me
+END:VEVENT
+BEGIN:VEVENT
 UID:89918debaf83ec7bed3ee2269af0a7e60a69edcf@merlin-cinemas-calendar
 DTSTAMP:20260327T000000Z
 DTSTART;VALUE=DATE:20260327
@@ -167,26 +187,6 @@ DESCRIPTION:The Super Mario Galaxy Movie\nFamily, Fantasy, Comedy, Adventur
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/102277-the-super-mario-galaxy-m
  ovie
-END:VEVENT
-BEGIN:VEVENT
-UID:2708688a89120b3d0ae3d92377f2a9e31a79383c@merlin-cinemas-calendar
-DTSTAMP:20260410T000000Z
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260411
-SUMMARY:Ready Or Not 2: Here I Come @ Merlin Bodmin
-DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
- rviving an all-out attack from the Le Domas family, Grace discovers she’s 
- reached the next level of the nightmarish game — and this time with her es
- tranged sister Faith at her side. Grace has one chance to survive, keep he
- r sister alive, and claim the High Seat of the Council that controls the w
- orld. Four rival families are hunting her for the throne, and whoever wins
-  rules it all.\n\nStarring: Samara Weaving, Kathryn Newton, Sarah Michelle
-  Gellar, Shawn Hatosy, Nestor Carbonell, David Cronenberg\n\nFilm release 
- at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk
- /film/106037-ready-or-not-2-here-i-come
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-co
- me
 END:VEVENT
 BEGIN:VEVENT
 UID:e10273084fbf4df0a725c11b7e9a13ea8a3a7197@merlin-cinemas-calendar

@@ -7,25 +7,6 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:d26d73de75dc8f865ebbf933de61139b14be6a7f@merlin-cinemas-calendar
-DTSTAMP:20260305T000000Z
-DTSTART;VALUE=DATE:20260305
-DTEND;VALUE=DATE:20260306
-SUMMARY:Wuthering Heights @ Merlin Redruth
-DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
- liff is adopted by the wealthy Earnshaw family and moves into their estate
- , Wuthering Heights. Soon, the new resident falls for his compassionate fo
- ster sister, Cathy. The two share a remarkable bond that seems unbreakable
-  until Cathy, feeling the pressure of social convention, suppresses her fe
- elings and marries Edgar Linton, a man of means who befits her stature. He
- athcliff vows to win her back.\n\nStarring: Juliette Binoche, Ralph Fienne
- s, Janet McTeer, Sophie Ward, Simon Shepherd, Jeremy Northam\n\nFilm relea
- se at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.
- co.uk/film/105263-wuthering-heights
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/105263-wuthering-heights
-END:VEVENT
-BEGIN:VEVENT
 UID:b1329c11fe8e2a38fb318e75b33f60902f0ce5c8@merlin-cinemas-calendar
 DTSTAMP:20260306T000000Z
 DTSTART;VALUE=DATE:20260306
@@ -56,6 +37,25 @@ DESCRIPTION:The Bride!\n★★★★☆\nScience Fiction, Horror, Comedy\n\nA lo
  497-the-bride
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/102497-the-bride
+END:VEVENT
+BEGIN:VEVENT
+UID:6ab759445ee465d1136498f0161da0e1a852bce9@merlin-cinemas-calendar
+DTSTAMP:20260306T000000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Wuthering Heights @ Merlin Redruth
+DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
+ liff is adopted by the wealthy Earnshaw family and moves into their estate
+ , Wuthering Heights. Soon, the new resident falls for his compassionate fo
+ ster sister, Cathy. The two share a remarkable bond that seems unbreakable
+  until Cathy, feeling the pressure of social convention, suppresses her fe
+ elings and marries Edgar Linton, a man of means who befits her stature. He
+ athcliff vows to win her back.\n\nStarring: Juliette Binoche, Ralph Fienne
+ s, Janet McTeer, Sophie Ward, Simon Shepherd, Jeremy Northam\n\nFilm relea
+ se at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.
+ co.uk/film/105263-wuthering-heights
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/105263-wuthering-heights
 END:VEVENT
 BEGIN:VEVENT
 UID:55f1293e8de5c7afc1f14ea3228869177b4c1916@merlin-cinemas-calendar
@@ -114,6 +114,26 @@ LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/100576-project-hail-mary
 END:VEVENT
 BEGIN:VEVENT
+UID:826757909ea147e47afc3a1871b8b5cb1c76d53f@merlin-cinemas-calendar
+DTSTAMP:20260320T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Ready Or Not 2: Here I Come @ Merlin Redruth
+DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
+ rviving an all-out attack from the Le Domas family, Grace discovers she’s 
+ reached the next level of the nightmarish game — and this time with her es
+ tranged sister Faith at her side. Grace has one chance to survive, keep he
+ r sister alive, and claim the High Seat of the Council that controls the w
+ orld. Four rival families are hunting her for the throne, and whoever wins
+  rules it all.\n\nStarring: Samara Weaving, Kathryn Newton, Sarah Michelle
+  Gellar, Shawn Hatosy, Nestor Carbonell, David Cronenberg\n\nFilm release 
+ at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.
+ uk/film/106037-ready-or-not-2-here-i-come
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-c
+ ome
+END:VEVENT
+BEGIN:VEVENT
 UID:91a40fb8c55e43be211b60c4ead8bae1579751bc@merlin-cinemas-calendar
 DTSTAMP:20260327T000000Z
 DTSTART;VALUE=DATE:20260327
@@ -167,26 +187,6 @@ DESCRIPTION:The Super Mario Galaxy Movie\nFamily, Fantasy, Comedy, Adventur
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/102277-the-super-mario-galaxy-
  movie
-END:VEVENT
-BEGIN:VEVENT
-UID:3cccd188a9f291c3eb2856fd2082c87bbcdfdb01@merlin-cinemas-calendar
-DTSTAMP:20260410T000000Z
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260411
-SUMMARY:Ready Or Not 2: Here I Come @ Merlin Redruth
-DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
- rviving an all-out attack from the Le Domas family, Grace discovers she’s 
- reached the next level of the nightmarish game — and this time with her es
- tranged sister Faith at her side. Grace has one chance to survive, keep he
- r sister alive, and claim the High Seat of the Council that controls the w
- orld. Four rival families are hunting her for the throne, and whoever wins
-  rules it all.\n\nStarring: Samara Weaving, Kathryn Newton, Sarah Michelle
-  Gellar, Shawn Hatosy, Nestor Carbonell, David Cronenberg\n\nFilm release 
- at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.
- uk/film/106037-ready-or-not-2-here-i-come
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-c
- ome
 END:VEVENT
 BEGIN:VEVENT
 UID:d2a833d755d3b5d334f88001d7bd096f002ab2cd@merlin-cinemas-calendar
