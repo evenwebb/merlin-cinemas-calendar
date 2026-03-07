@@ -7,38 +7,6 @@ X-WR-CALNAME:Merlin St Ives Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas St Ives
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:ce3c91166dcc1eb2158ac821306f7624a8ceaf64@merlin-cinemas-calendar
-DTSTAMP:20260306T000000Z
-DTSTART;VALUE=DATE:20260306
-DTEND;VALUE=DATE:20260307
-SUMMARY:Mother's Pride @ Merlin St Ives
-DESCRIPTION:Mother's Pride\nComedy, Drama\n\nA comedy about a failing pub, 
- a divided community and a grieving family whose lives are changed by brewi
- ng real ale and entering the Great British Beer Awards.\n\nStarring: Jonno
-  Davies, James Buckley, Martin Clunes, Mark Addy, Gabriella Wilde, Luke Tr
- eadaway\n\nFilm release at Merlin Cinemas St Ives\nBook tickets: https://s
- t-ives.merlincinemas.co.uk/film/104162-mothers-pride
-LOCATION:Merlin Cinemas St Ives
-URL:https://st-ives.merlincinemas.co.uk/film/104162-mothers-pride
-END:VEVENT
-BEGIN:VEVENT
-UID:a3b284281bda281d44f3ee74eddc60c2455e3587@merlin-cinemas-calendar
-DTSTAMP:20260306T000000Z
-DTSTART;VALUE=DATE:20260306
-DTEND;VALUE=DATE:20260307
-SUMMARY:The Bride! @ Merlin St Ives
-DESCRIPTION:The Bride!\n★★★★☆\nScience Fiction, Horror, Comedy\n\nA lonely 
- Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. 
- Euphronious to create a companion for him. The two revive a murdered young
-  woman and The Bride is born. But what ensues is beyond what either of the
- m imagined.\n\nStarring: Jessie Buckley, Christian Bale, Jake Gyllenhaal, 
- Annette Bening, Peter Sarsgaard, Penélope Cruz\n\nFilm release at Merlin C
- inemas St Ives\nBook tickets: https://st-ives.merlincinemas.co.uk/film/102
- 497-the-bride
-LOCATION:Merlin Cinemas St Ives
-URL:https://st-ives.merlincinemas.co.uk/film/102497-the-bride
-END:VEVENT
-BEGIN:VEVENT
 UID:ba9dd4ee792ed619d47311a0208fca825f2f0fae@merlin-cinemas-calendar
 DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260313
