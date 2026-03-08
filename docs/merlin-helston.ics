@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Helston Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Helston
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:23cac0d1f665e13a0e6727de9bcac5a318f4c03e@merlin-cinemas-calendar
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260307
-DTEND;VALUE=DATE:20260308
+UID:72db7728655145063e47968e1515100033092d45@merlin-cinemas-calendar
+DTSTAMP:20260308T000000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
 SUMMARY:Mother's Pride @ Merlin Helston
 DESCRIPTION:Mother's Pride\nComedy, Drama\n\nA comedy about a failing pub, 
  a divided community and a grieving family whose lives are changed by brewi
@@ -22,10 +22,10 @@ LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/104162-mothers-pride
 END:VEVENT
 BEGIN:VEVENT
-UID:ce5417fd96afd84d1e4634d142d2676748886b66@merlin-cinemas-calendar
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260307
-DTEND;VALUE=DATE:20260308
+UID:a14cf5f43407a4ac5772c40885face74ca2b0fd1@merlin-cinemas-calendar
+DTSTAMP:20260308T000000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
 SUMMARY:The Bride! @ Merlin Helston
 DESCRIPTION:The Bride!\n★★★★☆\nScience Fiction, Horror, Comedy\n\nA lonely 
  Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. 
