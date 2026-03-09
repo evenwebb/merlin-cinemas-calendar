@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:69135d5e0c45b8385aaf8d94d22dc993f8f91589@merlin-cinemas-calendar
-DTSTAMP:20260308T000000Z
-DTSTART;VALUE=DATE:20260308
-DTEND;VALUE=DATE:20260309
+UID:3d0cff5a32b224aee0fbb493bdfd09e6e5fc7a5b@merlin-cinemas-calendar
+DTSTAMP:20260309T000000Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
 SUMMARY:Mother's Pride @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:Mother's Pride\nComedy, Drama\n\nA comedy about a failing pub, 
  a divided community and a grieving family whose lives are changed by brewi
@@ -22,10 +22,10 @@ LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/104162-mothers-pride
 END:VEVENT
 BEGIN:VEVENT
-UID:6eca6f9a093125a709f98012b5f194f622fbd8a6@merlin-cinemas-calendar
-DTSTAMP:20260308T000000Z
-DTSTART;VALUE=DATE:20260308
-DTEND;VALUE=DATE:20260309
+UID:4e0f9fa42339791d3fc4b61340460705f22fda2c@merlin-cinemas-calendar
+DTSTAMP:20260309T000000Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
 SUMMARY:The Bride! @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:The Bride!\n★★★★☆\nScience Fiction, Horror, Comedy\n\nA lonely 
  Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. 
@@ -39,10 +39,10 @@ LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/102497-the-bride
 END:VEVENT
 BEGIN:VEVENT
-UID:1a1232c0256dc85edf8c2373a08e9c52fc3775cc@merlin-cinemas-calendar
-DTSTAMP:20260308T000000Z
-DTSTART;VALUE=DATE:20260308
-DTEND;VALUE=DATE:20260309
+UID:23af6bb0987a4ec40bce8490a3a0414523f9df51@merlin-cinemas-calendar
+DTSTAMP:20260311T000000Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
 SUMMARY:Wuthering Heights @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate

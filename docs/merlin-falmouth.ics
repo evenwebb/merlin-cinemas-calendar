@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Falmouth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Falmouth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:6613d9bd4e24f3e1c8c663a71e12e6b4cb308a38@merlin-cinemas-calendar
-DTSTAMP:20260308T000000Z
-DTSTART;VALUE=DATE:20260308
-DTEND;VALUE=DATE:20260309
+UID:884c0c64f2adb5943181eb7f82a1aa23d8782160@merlin-cinemas-calendar
+DTSTAMP:20260309T000000Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
 SUMMARY:Mother's Pride @ Merlin Falmouth
 DESCRIPTION:Mother's Pride\nComedy, Drama\n\nA comedy about a failing pub, 
  a divided community and a grieving family whose lives are changed by brewi
@@ -22,10 +22,10 @@ LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/104162-mothers-pride
 END:VEVENT
 BEGIN:VEVENT
-UID:402a0abae0ef8853e52343abe8df317310d5797a@merlin-cinemas-calendar
-DTSTAMP:20260308T000000Z
-DTSTART;VALUE=DATE:20260308
-DTEND;VALUE=DATE:20260309
+UID:af785f9eea07960bcb68e60a735f63fc48c60794@merlin-cinemas-calendar
+DTSTAMP:20260309T000000Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
 SUMMARY:The Bride! @ Merlin Falmouth
 DESCRIPTION:The Bride!\n★★★★☆\nScience Fiction, Horror, Comedy\n\nA lonely 
  Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. 
@@ -39,10 +39,10 @@ LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/102497-the-bride
 END:VEVENT
 BEGIN:VEVENT
-UID:7e8b35fb7212950850a8660333472f35d5042ba6@merlin-cinemas-calendar
-DTSTAMP:20260308T000000Z
-DTSTART;VALUE=DATE:20260308
-DTEND;VALUE=DATE:20260309
+UID:0c2b694e9a3521a08e56d9842d4365eb0fc71a2d@merlin-cinemas-calendar
+DTSTAMP:20260309T000000Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
 SUMMARY:Wuthering Heights @ Merlin Falmouth
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate

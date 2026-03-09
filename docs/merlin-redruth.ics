@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:a74c71e3d8f1ded8e9c4895b9a4c2fff818d43a2@merlin-cinemas-calendar
-DTSTAMP:20260308T000000Z
-DTSTART;VALUE=DATE:20260308
-DTEND;VALUE=DATE:20260309
+UID:ec9d1cde47ffd876412024c59e813c9274b66ef6@merlin-cinemas-calendar
+DTSTAMP:20260309T000000Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
 SUMMARY:Mother's Pride @ Merlin Redruth
 DESCRIPTION:Mother's Pride\nComedy, Drama\n\nA comedy about a failing pub, 
  a divided community and a grieving family whose lives are changed by brewi
@@ -22,10 +22,10 @@ LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/104162-mothers-pride
 END:VEVENT
 BEGIN:VEVENT
-UID:fd2e53f26f43476f4dd8ae1dce77c2337f21659b@merlin-cinemas-calendar
-DTSTAMP:20260308T000000Z
-DTSTART;VALUE=DATE:20260308
-DTEND;VALUE=DATE:20260309
+UID:7e4308db5fa29ca9eb5d2870253f211fb27bb860@merlin-cinemas-calendar
+DTSTAMP:20260309T000000Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
 SUMMARY:The Bride! @ Merlin Redruth
 DESCRIPTION:The Bride!\n★★★★☆\nScience Fiction, Horror, Comedy\n\nA lonely 
  Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. 
@@ -39,10 +39,10 @@ LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/102497-the-bride
 END:VEVENT
 BEGIN:VEVENT
-UID:75b5dc17148d35033e0d4ed134446e86efc0e935@merlin-cinemas-calendar
-DTSTAMP:20260308T000000Z
-DTSTART;VALUE=DATE:20260308
-DTEND;VALUE=DATE:20260309
+UID:f5de3e6e62bd9636d98cc3b181db0beae523e01c@merlin-cinemas-calendar
+DTSTAMP:20260309T000000Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
 SUMMARY:Wuthering Heights @ Merlin Redruth
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate
