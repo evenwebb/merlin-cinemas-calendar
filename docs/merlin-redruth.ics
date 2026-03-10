@@ -7,42 +7,10 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:ec9d1cde47ffd876412024c59e813c9274b66ef6@merlin-cinemas-calendar
-DTSTAMP:20260309T000000Z
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260310
-SUMMARY:Mother's Pride @ Merlin Redruth
-DESCRIPTION:Mother's Pride\nComedy, Drama\n\nA comedy about a failing pub, 
- a divided community and a grieving family whose lives are changed by brewi
- ng real ale and entering the Great British Beer Awards.\n\nStarring: Jonno
-  Davies, James Buckley, Martin Clunes, Mark Addy, Gabriella Wilde, Luke Tr
- eadaway\n\nFilm release at Merlin Cinemas Redruth\nBook tickets: https://r
- edruth.merlincinemas.co.uk/film/104162-mothers-pride
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/104162-mothers-pride
-END:VEVENT
-BEGIN:VEVENT
-UID:7e4308db5fa29ca9eb5d2870253f211fb27bb860@merlin-cinemas-calendar
-DTSTAMP:20260309T000000Z
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260310
-SUMMARY:The Bride! @ Merlin Redruth
-DESCRIPTION:The Bride!\n★★★★☆\nScience Fiction, Horror, Comedy\n\nA lonely 
- Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. 
- Euphronious to create a companion for him. The two revive a murdered young
-  woman and The Bride is born. But what ensues is beyond what either of the
- m imagined.\n\nStarring: Jessie Buckley, Christian Bale, Jake Gyllenhaal, 
- Annette Bening, Peter Sarsgaard, Penélope Cruz\n\nFilm release at Merlin C
- inemas Redruth\nBook tickets: https://redruth.merlincinemas.co.uk/film/102
- 497-the-bride
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/102497-the-bride
-END:VEVENT
-BEGIN:VEVENT
-UID:f5de3e6e62bd9636d98cc3b181db0beae523e01c@merlin-cinemas-calendar
-DTSTAMP:20260309T000000Z
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260310
+UID:f6d04b4f5bbbde627927d92ae90581a9ba2128e4@merlin-cinemas-calendar
+DTSTAMP:20260311T000000Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
 SUMMARY:Wuthering Heights @ Merlin Redruth
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate
@@ -56,24 +24,6 @@ DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan H
  co.uk/film/105263-wuthering-heights
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/105263-wuthering-heights
-END:VEVENT
-BEGIN:VEVENT
-UID:55f1293e8de5c7afc1f14ea3228869177b4c1916@merlin-cinemas-calendar
-DTSTAMP:20260313T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-SUMMARY:Reminders Of Him @ Merlin Redruth
-DESCRIPTION:Reminders Of Him\nDrama, Romance\n\nWhen Diem's custodial grand
- parents adamantly refuse Kenna's attempts to see her daughter, Kenna disco
- vers unexpected compassion, and then something truer and deeper, with form
- er NFL player and local bar owner Ledger. As their secret romance develops
- , so do the dangers for both of them, leading Kenna toward heartbreak and,
-  ultimately, the hope for a second chance.\n\nStarring: Maika Monroe, Tyri
- q Withers, Rudy Pankow, Lainey Wilson, Lauren Graham, Bradley Whitford\n\n
- Film release at Merlin Cinemas Redruth\nBook tickets: https://redruth.merl
- incinemas.co.uk/film/103788-reminders-of-him
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/103788-reminders-of-him
 END:VEVENT
 BEGIN:VEVENT
 UID:a786d6aeeedada36f1930f7d83190a3d62b723bf@merlin-cinemas-calendar
@@ -93,25 +43,6 @@ DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/106898-donald-mackenzie-accomp
  anying-the-general
-END:VEVENT
-BEGIN:VEVENT
-UID:8682923fd0befa9a46078e31984e5eebc50e8c1d@merlin-cinemas-calendar
-DTSTAMP:20260320T000000Z
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
-SUMMARY:Project Hail Mary @ Merlin Redruth
-DESCRIPTION:Project Hail Mary\nScience Fiction, Adventure, Mystery\n\nScien
- ce teacher Ryland Grace wakes up on a spaceship light years from home with
-  no recollection of who he is or how he got there. As his memory returns, 
- he begins to uncover his mission: solve the riddle of the mysterious subst
- ance causing the sun to die out. He must call on his scientific knowledge 
- and unorthodox ideas to save everything on Earth from extinction… but an u
- nexpected friendship means he may not have to do it alone.\n\nStarring: Ry
- an Gosling, Sandra Hüller, Lionel Boyce, Ken Leung, Milana Vayntrub, Liz K
- ingsman\n\nFilm release at Merlin Cinemas Redruth\nBook tickets: https://r
- edruth.merlincinemas.co.uk/film/100576-project-hail-mary
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/100576-project-hail-mary
 END:VEVENT
 BEGIN:VEVENT
 UID:826757909ea147e47afc3a1871b8b5cb1c76d53f@merlin-cinemas-calendar

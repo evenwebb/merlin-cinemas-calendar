@@ -7,24 +7,6 @@ X-WR-CALNAME:Merlin St Ives Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas St Ives
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:ba9dd4ee792ed619d47311a0208fca825f2f0fae@merlin-cinemas-calendar
-DTSTAMP:20260313T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-SUMMARY:Reminders Of Him @ Merlin St Ives
-DESCRIPTION:Reminders Of Him\nDrama, Romance\n\nWhen Diem's custodial grand
- parents adamantly refuse Kenna's attempts to see her daughter, Kenna disco
- vers unexpected compassion, and then something truer and deeper, with form
- er NFL player and local bar owner Ledger. As their secret romance develops
- , so do the dangers for both of them, leading Kenna toward heartbreak and,
-  ultimately, the hope for a second chance.\n\nStarring: Maika Monroe, Tyri
- q Withers, Rudy Pankow, Lainey Wilson, Lauren Graham, Bradley Whitford\n\n
- Film release at Merlin Cinemas St Ives\nBook tickets: https://st-ives.merl
- incinemas.co.uk/film/103788-reminders-of-him
-LOCATION:Merlin Cinemas St Ives
-URL:https://st-ives.merlincinemas.co.uk/film/103788-reminders-of-him
-END:VEVENT
-BEGIN:VEVENT
 UID:1418eb11f13dbab3ae800eb76af769062c262cd6@merlin-cinemas-calendar
 DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260315
@@ -42,25 +24,6 @@ DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/106898-donald-mackenzie-accomp
  anying-the-general
-END:VEVENT
-BEGIN:VEVENT
-UID:d402cbf1a23feab78802e3d2aa48fc6ef35a5039@merlin-cinemas-calendar
-DTSTAMP:20260320T000000Z
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
-SUMMARY:Project Hail Mary @ Merlin St Ives
-DESCRIPTION:Project Hail Mary\nScience Fiction, Adventure, Mystery\n\nScien
- ce teacher Ryland Grace wakes up on a spaceship light years from home with
-  no recollection of who he is or how he got there. As his memory returns, 
- he begins to uncover his mission: solve the riddle of the mysterious subst
- ance causing the sun to die out. He must call on his scientific knowledge 
- and unorthodox ideas to save everything on Earth from extinction… but an u
- nexpected friendship means he may not have to do it alone.\n\nStarring: Ry
- an Gosling, Sandra Hüller, Lionel Boyce, Ken Leung, Milana Vayntrub, Liz K
- ingsman\n\nFilm release at Merlin Cinemas St Ives\nBook tickets: https://s
- t-ives.merlincinemas.co.uk/film/100576-project-hail-mary
-LOCATION:Merlin Cinemas St Ives
-URL:https://st-ives.merlincinemas.co.uk/film/100576-project-hail-mary
 END:VEVENT
 BEGIN:VEVENT
 UID:9ea21e5bc836c4e7b4657f6b88f9587407f237e9@merlin-cinemas-calendar

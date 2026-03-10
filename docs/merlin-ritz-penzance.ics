@@ -7,24 +7,6 @@ X-WR-CALNAME:Merlin The Ritz, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas The Ritz, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:29d984db9dfd19a22ae06a2b457dee287cc07755@merlin-cinemas-calendar
-DTSTAMP:20260313T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-SUMMARY:Reminders Of Him @ Merlin The Ritz, Penzance
-DESCRIPTION:Reminders Of Him\nDrama, Romance\n\nWhen Diem's custodial grand
- parents adamantly refuse Kenna's attempts to see her daughter, Kenna disco
- vers unexpected compassion, and then something truer and deeper, with form
- er NFL player and local bar owner Ledger. As their secret romance develops
- , so do the dangers for both of them, leading Kenna toward heartbreak and,
-  ultimately, the hope for a second chance.\n\nStarring: Maika Monroe, Tyri
- q Withers, Rudy Pankow, Lainey Wilson, Lauren Graham, Bradley Whitford\n\n
- Film release at Merlin Cinemas The Ritz, Penzance\nBook tickets: https://r
- itz.merlincinemas.co.uk/film/103788-reminders-of-him
-LOCATION:Merlin Cinemas The Ritz, Penzance
-URL:https://ritz.merlincinemas.co.uk/film/103788-reminders-of-him
-END:VEVENT
-BEGIN:VEVENT
 UID:f790a4704c7a961ad6b81e72c5dcc8b7a088e7be@merlin-cinemas-calendar
 DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260315
@@ -42,25 +24,6 @@ DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/106898-donald-mackenzie-accompany
  ing-the-general
-END:VEVENT
-BEGIN:VEVENT
-UID:e53d4867ed0fd4ae2d1cbc4267e3c18daf746817@merlin-cinemas-calendar
-DTSTAMP:20260320T000000Z
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
-SUMMARY:Project Hail Mary @ Merlin The Ritz, Penzance
-DESCRIPTION:Project Hail Mary\nScience Fiction, Adventure, Mystery\n\nScien
- ce teacher Ryland Grace wakes up on a spaceship light years from home with
-  no recollection of who he is or how he got there. As his memory returns, 
- he begins to uncover his mission: solve the riddle of the mysterious subst
- ance causing the sun to die out. He must call on his scientific knowledge 
- and unorthodox ideas to save everything on Earth from extinction… but an u
- nexpected friendship means he may not have to do it alone.\n\nStarring: Ry
- an Gosling, Sandra Hüller, Lionel Boyce, Ken Leung, Milana Vayntrub, Liz K
- ingsman\n\nFilm release at Merlin Cinemas The Ritz, Penzance\nBook tickets
- : https://ritz.merlincinemas.co.uk/film/100576-project-hail-mary
-LOCATION:Merlin Cinemas The Ritz, Penzance
-URL:https://ritz.merlincinemas.co.uk/film/100576-project-hail-mary
 END:VEVENT
 BEGIN:VEVENT
 UID:28b5ee62900c74dbe2cb599ec9344e38c71e5ad7@merlin-cinemas-calendar

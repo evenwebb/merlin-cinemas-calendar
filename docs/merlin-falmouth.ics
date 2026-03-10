@@ -7,42 +7,10 @@ X-WR-CALNAME:Merlin Falmouth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Falmouth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:884c0c64f2adb5943181eb7f82a1aa23d8782160@merlin-cinemas-calendar
-DTSTAMP:20260309T000000Z
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260310
-SUMMARY:Mother's Pride @ Merlin Falmouth
-DESCRIPTION:Mother's Pride\nComedy, Drama\n\nA comedy about a failing pub, 
- a divided community and a grieving family whose lives are changed by brewi
- ng real ale and entering the Great British Beer Awards.\n\nStarring: Jonno
-  Davies, James Buckley, Martin Clunes, Mark Addy, Gabriella Wilde, Luke Tr
- eadaway\n\nFilm release at Merlin Cinemas Falmouth\nBook tickets: https://
- falmouth.merlincinemas.co.uk/film/104162-mothers-pride
-LOCATION:Merlin Cinemas Falmouth
-URL:https://falmouth.merlincinemas.co.uk/film/104162-mothers-pride
-END:VEVENT
-BEGIN:VEVENT
-UID:af785f9eea07960bcb68e60a735f63fc48c60794@merlin-cinemas-calendar
-DTSTAMP:20260309T000000Z
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260310
-SUMMARY:The Bride! @ Merlin Falmouth
-DESCRIPTION:The Bride!\n★★★★☆\nScience Fiction, Horror, Comedy\n\nA lonely 
- Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. 
- Euphronious to create a companion for him. The two revive a murdered young
-  woman and The Bride is born. But what ensues is beyond what either of the
- m imagined.\n\nStarring: Jessie Buckley, Christian Bale, Jake Gyllenhaal, 
- Annette Bening, Peter Sarsgaard, Penélope Cruz\n\nFilm release at Merlin C
- inemas Falmouth\nBook tickets: https://falmouth.merlincinemas.co.uk/film/1
- 02497-the-bride
-LOCATION:Merlin Cinemas Falmouth
-URL:https://falmouth.merlincinemas.co.uk/film/102497-the-bride
-END:VEVENT
-BEGIN:VEVENT
-UID:0c2b694e9a3521a08e56d9842d4365eb0fc71a2d@merlin-cinemas-calendar
-DTSTAMP:20260309T000000Z
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260310
+UID:00252bd1600c7802626b83889cfe787017126684@merlin-cinemas-calendar
+DTSTAMP:20260310T000000Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
 SUMMARY:Wuthering Heights @ Merlin Falmouth
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate
@@ -56,24 +24,6 @@ DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan H
  s.co.uk/film/105263-wuthering-heights
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/105263-wuthering-heights
-END:VEVENT
-BEGIN:VEVENT
-UID:5ea1f3bbe1115f64f6f69a3f63ec9eaab8d02410@merlin-cinemas-calendar
-DTSTAMP:20260313T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-SUMMARY:Reminders Of Him @ Merlin Falmouth
-DESCRIPTION:Reminders Of Him\nDrama, Romance\n\nWhen Diem's custodial grand
- parents adamantly refuse Kenna's attempts to see her daughter, Kenna disco
- vers unexpected compassion, and then something truer and deeper, with form
- er NFL player and local bar owner Ledger. As their secret romance develops
- , so do the dangers for both of them, leading Kenna toward heartbreak and,
-  ultimately, the hope for a second chance.\n\nStarring: Maika Monroe, Tyri
- q Withers, Rudy Pankow, Lainey Wilson, Lauren Graham, Bradley Whitford\n\n
- Film release at Merlin Cinemas Falmouth\nBook tickets: https://falmouth.me
- rlincinemas.co.uk/film/103788-reminders-of-him
-LOCATION:Merlin Cinemas Falmouth
-URL:https://falmouth.merlincinemas.co.uk/film/103788-reminders-of-him
 END:VEVENT
 BEGIN:VEVENT
 UID:c33ec9b713f5a378d891b0de277dacaf77f1c861@merlin-cinemas-calendar
@@ -93,25 +43,6 @@ DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/106898-donald-mackenzie-accom
  panying-the-general
-END:VEVENT
-BEGIN:VEVENT
-UID:8b70ba242538b76dd8ab6e284ea67bade1a1c043@merlin-cinemas-calendar
-DTSTAMP:20260320T000000Z
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
-SUMMARY:Project Hail Mary @ Merlin Falmouth
-DESCRIPTION:Project Hail Mary\nScience Fiction, Adventure, Mystery\n\nScien
- ce teacher Ryland Grace wakes up on a spaceship light years from home with
-  no recollection of who he is or how he got there. As his memory returns, 
- he begins to uncover his mission: solve the riddle of the mysterious subst
- ance causing the sun to die out. He must call on his scientific knowledge 
- and unorthodox ideas to save everything on Earth from extinction… but an u
- nexpected friendship means he may not have to do it alone.\n\nStarring: Ry
- an Gosling, Sandra Hüller, Lionel Boyce, Ken Leung, Milana Vayntrub, Liz K
- ingsman\n\nFilm release at Merlin Cinemas Falmouth\nBook tickets: https://
- falmouth.merlincinemas.co.uk/film/100576-project-hail-mary
-LOCATION:Merlin Cinemas Falmouth
-URL:https://falmouth.merlincinemas.co.uk/film/100576-project-hail-mary
 END:VEVENT
 BEGIN:VEVENT
 UID:b70254ae10f4216997f1f8a2970185a270f9f12f@merlin-cinemas-calendar

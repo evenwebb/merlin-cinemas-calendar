@@ -7,38 +7,6 @@ X-WR-CALNAME:Merlin Helston Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Helston
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:44cc2fd40c9b4bb5e02413abec1e23ac48255071@merlin-cinemas-calendar
-DTSTAMP:20260309T000000Z
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260310
-SUMMARY:Mother's Pride @ Merlin Helston
-DESCRIPTION:Mother's Pride\nComedy, Drama\n\nA comedy about a failing pub, 
- a divided community and a grieving family whose lives are changed by brewi
- ng real ale and entering the Great British Beer Awards.\n\nStarring: Jonno
-  Davies, James Buckley, Martin Clunes, Mark Addy, Gabriella Wilde, Luke Tr
- eadaway\n\nFilm release at Merlin Cinemas Helston\nBook tickets: https://h
- elston.merlincinemas.co.uk/film/104162-mothers-pride
-LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/104162-mothers-pride
-END:VEVENT
-BEGIN:VEVENT
-UID:0600c2f0427553fcaf33160e93bdc61a19c1b2d9@merlin-cinemas-calendar
-DTSTAMP:20260309T000000Z
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260310
-SUMMARY:The Bride! @ Merlin Helston
-DESCRIPTION:The Bride!\n★★★★☆\nScience Fiction, Horror, Comedy\n\nA lonely 
- Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. 
- Euphronious to create a companion for him. The two revive a murdered young
-  woman and The Bride is born. But what ensues is beyond what either of the
- m imagined.\n\nStarring: Jessie Buckley, Christian Bale, Jake Gyllenhaal, 
- Annette Bening, Peter Sarsgaard, Penélope Cruz\n\nFilm release at Merlin C
- inemas Helston\nBook tickets: https://helston.merlincinemas.co.uk/film/102
- 497-the-bride
-LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/102497-the-bride
-END:VEVENT
-BEGIN:VEVENT
 UID:1ce8de81bb065ba7a725d094db3647a1e47126f5@merlin-cinemas-calendar
 DTSTAMP:20260312T000000Z
 DTSTART;VALUE=DATE:20260312
@@ -58,24 +26,6 @@ LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/105263-wuthering-heights
 END:VEVENT
 BEGIN:VEVENT
-UID:88dc1b726eca7f69c0465e47db13685fcfbeee5a@merlin-cinemas-calendar
-DTSTAMP:20260313T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-SUMMARY:Reminders Of Him @ Merlin Helston
-DESCRIPTION:Reminders Of Him\nDrama, Romance\n\nWhen Diem's custodial grand
- parents adamantly refuse Kenna's attempts to see her daughter, Kenna disco
- vers unexpected compassion, and then something truer and deeper, with form
- er NFL player and local bar owner Ledger. As their secret romance develops
- , so do the dangers for both of them, leading Kenna toward heartbreak and,
-  ultimately, the hope for a second chance.\n\nStarring: Maika Monroe, Tyri
- q Withers, Rudy Pankow, Lainey Wilson, Lauren Graham, Bradley Whitford\n\n
- Film release at Merlin Cinemas Helston\nBook tickets: https://helston.merl
- incinemas.co.uk/film/103788-reminders-of-him
-LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/103788-reminders-of-him
-END:VEVENT
-BEGIN:VEVENT
 UID:2a2471ae277d77fbfb2385c9d32d14b5bd053d89@merlin-cinemas-calendar
 DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260315
@@ -93,25 +43,6 @@ DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/106898-donald-mackenzie-accomp
  anying-the-general
-END:VEVENT
-BEGIN:VEVENT
-UID:17c59274a52640a318f199aaec5d73dfbfff1bdd@merlin-cinemas-calendar
-DTSTAMP:20260320T000000Z
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
-SUMMARY:Project Hail Mary @ Merlin Helston
-DESCRIPTION:Project Hail Mary\nScience Fiction, Adventure, Mystery\n\nScien
- ce teacher Ryland Grace wakes up on a spaceship light years from home with
-  no recollection of who he is or how he got there. As his memory returns, 
- he begins to uncover his mission: solve the riddle of the mysterious subst
- ance causing the sun to die out. He must call on his scientific knowledge 
- and unorthodox ideas to save everything on Earth from extinction… but an u
- nexpected friendship means he may not have to do it alone.\n\nStarring: Ry
- an Gosling, Sandra Hüller, Lionel Boyce, Ken Leung, Milana Vayntrub, Liz K
- ingsman\n\nFilm release at Merlin Cinemas Helston\nBook tickets: https://h
- elston.merlincinemas.co.uk/film/100576-project-hail-mary
-LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/100576-project-hail-mary
 END:VEVENT
 BEGIN:VEVENT
 UID:daf366cdf0c350e0e3145542a2d01b1c61bec8e1@merlin-cinemas-calendar

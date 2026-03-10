@@ -7,38 +7,6 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:3d0cff5a32b224aee0fbb493bdfd09e6e5fc7a5b@merlin-cinemas-calendar
-DTSTAMP:20260309T000000Z
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260310
-SUMMARY:Mother's Pride @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:Mother's Pride\nComedy, Drama\n\nA comedy about a failing pub, 
- a divided community and a grieving family whose lives are changed by brewi
- ng real ale and entering the Great British Beer Awards.\n\nStarring: Jonno
-  Davies, James Buckley, Martin Clunes, Mark Addy, Gabriella Wilde, Luke Tr
- eadaway\n\nFilm release at Merlin Cinemas Savoy Cinema, Penzance\nBook tic
- kets: https://penzance.merlincinemas.co.uk/film/104162-mothers-pride
-LOCATION:Merlin Cinemas Savoy Cinema, Penzance
-URL:https://penzance.merlincinemas.co.uk/film/104162-mothers-pride
-END:VEVENT
-BEGIN:VEVENT
-UID:4e0f9fa42339791d3fc4b61340460705f22fda2c@merlin-cinemas-calendar
-DTSTAMP:20260309T000000Z
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260310
-SUMMARY:The Bride! @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:The Bride!\n★★★★☆\nScience Fiction, Horror, Comedy\n\nA lonely 
- Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. 
- Euphronious to create a companion for him. The two revive a murdered young
-  woman and The Bride is born. But what ensues is beyond what either of the
- m imagined.\n\nStarring: Jessie Buckley, Christian Bale, Jake Gyllenhaal, 
- Annette Bening, Peter Sarsgaard, Penélope Cruz\n\nFilm release at Merlin C
- inemas Savoy Cinema, Penzance\nBook tickets: https://penzance.merlincinema
- s.co.uk/film/102497-the-bride
-LOCATION:Merlin Cinemas Savoy Cinema, Penzance
-URL:https://penzance.merlincinemas.co.uk/film/102497-the-bride
-END:VEVENT
-BEGIN:VEVENT
 UID:23af6bb0987a4ec40bce8490a3a0414523f9df51@merlin-cinemas-calendar
 DTSTAMP:20260311T000000Z
 DTSTART;VALUE=DATE:20260311
@@ -56,24 +24,6 @@ DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan H
  e.merlincinemas.co.uk/film/105263-wuthering-heights
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/105263-wuthering-heights
-END:VEVENT
-BEGIN:VEVENT
-UID:e594dde32e69309db3b4d28569c5469cc46e653c@merlin-cinemas-calendar
-DTSTAMP:20260313T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-SUMMARY:Reminders Of Him @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:Reminders Of Him\nDrama, Romance\n\nWhen Diem's custodial grand
- parents adamantly refuse Kenna's attempts to see her daughter, Kenna disco
- vers unexpected compassion, and then something truer and deeper, with form
- er NFL player and local bar owner Ledger. As their secret romance develops
- , so do the dangers for both of them, leading Kenna toward heartbreak and,
-  ultimately, the hope for a second chance.\n\nStarring: Maika Monroe, Tyri
- q Withers, Rudy Pankow, Lainey Wilson, Lauren Graham, Bradley Whitford\n\n
- Film release at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https
- ://penzance.merlincinemas.co.uk/film/103788-reminders-of-him
-LOCATION:Merlin Cinemas Savoy Cinema, Penzance
-URL:https://penzance.merlincinemas.co.uk/film/103788-reminders-of-him
 END:VEVENT
 BEGIN:VEVENT
 UID:94a526058fcdaf6845c7a2d835fb54e7b921c747@merlin-cinemas-calendar
@@ -94,25 +44,6 @@ DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/106898-donald-mackenzie-accom
  panying-the-general
-END:VEVENT
-BEGIN:VEVENT
-UID:dc4c3fe641bf1c97dd2c84644f6fa7ed06192da9@merlin-cinemas-calendar
-DTSTAMP:20260320T000000Z
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
-SUMMARY:Project Hail Mary @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:Project Hail Mary\nScience Fiction, Adventure, Mystery\n\nScien
- ce teacher Ryland Grace wakes up on a spaceship light years from home with
-  no recollection of who he is or how he got there. As his memory returns, 
- he begins to uncover his mission: solve the riddle of the mysterious subst
- ance causing the sun to die out. He must call on his scientific knowledge 
- and unorthodox ideas to save everything on Earth from extinction… but an u
- nexpected friendship means he may not have to do it alone.\n\nStarring: Ry
- an Gosling, Sandra Hüller, Lionel Boyce, Ken Leung, Milana Vayntrub, Liz K
- ingsman\n\nFilm release at Merlin Cinemas Savoy Cinema, Penzance\nBook tic
- kets: https://penzance.merlincinemas.co.uk/film/100576-project-hail-mary
-LOCATION:Merlin Cinemas Savoy Cinema, Penzance
-URL:https://penzance.merlincinemas.co.uk/film/100576-project-hail-mary
 END:VEVENT
 BEGIN:VEVENT
 UID:2a29cde3595969a8632bde6aa4d31ae1f2104605@merlin-cinemas-calendar
