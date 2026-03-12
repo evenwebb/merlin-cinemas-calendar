@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:23af6bb0987a4ec40bce8490a3a0414523f9df51@merlin-cinemas-calendar
-DTSTAMP:20260311T000000Z
-DTSTART;VALUE=DATE:20260311
-DTEND;VALUE=DATE:20260312
+UID:9f96fd3d1cd107163f0cd47a39886bf0bc1d4d1f@merlin-cinemas-calendar
+DTSTAMP:20260312T000000Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
 SUMMARY:Wuthering Heights @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate
@@ -33,14 +33,9 @@ DTEND;VALUE=DATE:20260316
 SUMMARY:Centenary Screening of Buster Keaton in The General (1926) with Liv
  e Organ @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
-  Live Organ\n\nDue to a scheduling error on our side, tickets were release
- d a week earlier than intended. We have attempted to contact all affected 
- bookings to advise that your booking is now a week later than originally b
- ooked. We’re sorry for the mix-up and appreciate your understanding. \n\
- nPlease do contact us at action@merlincinemas.co.uk if we can help.\n\nFil
- m release at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://
- penzance.merlincinemas.co.uk/film/106898-donald-mackenzie-accompanying-the
- -general
+  Live Organ\n\nFilm release at Merlin Cinemas Savoy Cinema, Penzance\nBook
+  tickets: https://penzance.merlincinemas.co.uk/film/106898-donald-mackenzi
+ e-accompanying-the-general
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/106898-donald-mackenzie-accom
  panying-the-general
@@ -103,10 +98,10 @@ LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/106687-they-will-kill-you
 END:VEVENT
 BEGIN:VEVENT
-UID:d68d832ee82729167982267e9bc72a1b4909653b@merlin-cinemas-calendar
-DTSTAMP:20260403T000000Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
+UID:ed8167080a9dad1312cf18a419cd6b275175581d@merlin-cinemas-calendar
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
 SUMMARY:The Super Mario Galaxy Movie @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:The Super Mario Galaxy Movie\nFamily, Fantasy, Comedy, Adventur
  e, Animation\n\nHaving thwarted Bowser's previous plot to marry Princess P

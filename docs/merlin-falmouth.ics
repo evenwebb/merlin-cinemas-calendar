@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Falmouth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Falmouth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:30f9c035a37eb00739a993d6ac3e5374e2b03fd5@merlin-cinemas-calendar
-DTSTAMP:20260311T000000Z
-DTSTART;VALUE=DATE:20260311
-DTEND;VALUE=DATE:20260312
+UID:dc7f7f610ab5dfefadc2292653929e1bae2bc972@merlin-cinemas-calendar
+DTSTAMP:20260312T000000Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
 SUMMARY:Wuthering Heights @ Merlin Falmouth
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate
@@ -33,13 +33,12 @@ DTEND;VALUE=DATE:20260316
 SUMMARY:Centenary Screening of Buster Keaton in The General (1926) with Liv
  e Organ @ Merlin Falmouth
 DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
-  Live Organ\n\nDue to a scheduling error on our side, tickets were release
- d a week earlier than intended. We have attempted to contact all affected 
- bookings to advise that your booking is now a week later than originally b
- ooked. We’re sorry for the mix-up and appreciate your understanding. \n\
- nPlease do contact us at action@merlincinemas.co.uk if we can help.\n\nFil
- m release at Merlin Cinemas Falmouth\nBook tickets: https://falmouth.merli
- ncinemas.co.uk/film/106898-donald-mackenzie-accompanying-the-general
+  Live Organ\n\nThe original date has been rescheduled by the promoter, and
+  this event will now take place on 3rd August. We have emailed all booking
+ s, and all tickets will be valid for the new date. Please contact action@m
+ erlincinemas.co.uk if you need any further assistance\n\nFilm release at M
+ erlin Cinemas Falmouth\nBook tickets: https://falmouth.merlincinemas.co.uk
+ /film/106898-donald-mackenzie-accompanying-the-general
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/106898-donald-mackenzie-accom
  panying-the-general
@@ -102,10 +101,10 @@ LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/106687-they-will-kill-you
 END:VEVENT
 BEGIN:VEVENT
-UID:28ff21ea0d964e382f07fb54ddc874c8c7949f59@merlin-cinemas-calendar
-DTSTAMP:20260403T000000Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
+UID:901313dcae4c4fea7aa8af51e4eeb0dad2ed99a4@merlin-cinemas-calendar
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
 SUMMARY:The Super Mario Galaxy Movie @ Merlin Falmouth
 DESCRIPTION:The Super Mario Galaxy Movie\nFamily, Fantasy, Comedy, Adventur
  e, Animation\n\nHaving thwarted Bowser's previous plot to marry Princess P

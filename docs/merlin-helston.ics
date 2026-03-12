@@ -33,13 +33,12 @@ DTEND;VALUE=DATE:20260316
 SUMMARY:Centenary Screening of Buster Keaton in The General (1926) with Liv
  e Organ @ Merlin Helston
 DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
-  Live Organ\n\nDue to a scheduling error on our side, tickets were release
- d a week earlier than intended. We have attempted to contact all affected 
- bookings to advise that your booking is now a week later than originally b
- ooked. We’re sorry for the mix-up and appreciate your understanding. \n\
- nPlease do contact us at action@merlincinemas.co.uk if we can help.\n\nFil
- m release at Merlin Cinemas Helston\nBook tickets: https://helston.merlinc
- inemas.co.uk/film/106898-donald-mackenzie-accompanying-the-general
+  Live Organ\n\nThe original date has been rescheduled by the promoter, and
+  this event will now take place on 3rd August. We have emailed all booking
+ s, and all tickets will be valid for the new date. Please contact action@m
+ erlincinemas.co.uk if you need any further assistance\n\nFilm release at M
+ erlin Cinemas Helston\nBook tickets: https://helston.merlincinemas.co.uk/f
+ ilm/106898-donald-mackenzie-accompanying-the-general
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/106898-donald-mackenzie-accomp
  anying-the-general
@@ -101,10 +100,10 @@ LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/106687-they-will-kill-you
 END:VEVENT
 BEGIN:VEVENT
-UID:9512b410ccf53f7a7ffd5966533a9e40c6a0913f@merlin-cinemas-calendar
-DTSTAMP:20260403T000000Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
+UID:075c58e26db4b205f7bee1a4353bc540bf169dca@merlin-cinemas-calendar
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
 SUMMARY:The Super Mario Galaxy Movie @ Merlin Helston
 DESCRIPTION:The Super Mario Galaxy Movie\nFamily, Fantasy, Comedy, Adventur
  e, Animation\n\nHaving thwarted Bowser's previous plot to marry Princess P

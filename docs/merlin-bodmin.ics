@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:79732378c3c5ca1ad3e921e473f6c48db8369939@merlin-cinemas-calendar
-DTSTAMP:20260311T000000Z
-DTSTART;VALUE=DATE:20260311
-DTEND;VALUE=DATE:20260312
+UID:8d5e2b59817b8ea7a22e9b6e23560747247dc547@merlin-cinemas-calendar
+DTSTAMP:20260312T000000Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
 SUMMARY:Wuthering Heights @ Merlin Bodmin
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate
@@ -33,13 +33,9 @@ DTEND;VALUE=DATE:20260316
 SUMMARY:Centenary Screening of Buster Keaton in The General (1926) with Liv
  e Organ @ Merlin Bodmin
 DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
-  Live Organ\n\nDue to a scheduling error on our side, tickets were release
- d a week earlier than intended. We have attempted to contact all affected 
- bookings to advise that your booking is now a week later than originally b
- ooked. We’re sorry for the mix-up and appreciate your understanding. \n\
- nPlease do contact us at action@merlincinemas.co.uk if we can help.\n\nFil
- m release at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincin
- emas.co.uk/film/106898-donald-mackenzie-accompanying-the-general
+  Live Organ\n\nFilm release at Merlin Cinemas Bodmin\nBook tickets: https:
+ //bodmin.merlincinemas.co.uk/film/106898-donald-mackenzie-accompanying-the
+ -general
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/106898-donald-mackenzie-accompa
  nying-the-general
@@ -101,10 +97,10 @@ LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/106687-they-will-kill-you
 END:VEVENT
 BEGIN:VEVENT
-UID:b7b787e3964fa86bfbfefe15091fcd51d104974b@merlin-cinemas-calendar
-DTSTAMP:20260403T000000Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
+UID:75341b7b73d429e8b5fe50bad75f663e0b5493ac@merlin-cinemas-calendar
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
 SUMMARY:The Super Mario Galaxy Movie @ Merlin Bodmin
 DESCRIPTION:The Super Mario Galaxy Movie\nFamily, Fantasy, Comedy, Adventur
  e, Animation\n\nHaving thwarted Bowser's previous plot to marry Princess P
