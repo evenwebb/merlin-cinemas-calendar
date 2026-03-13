@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:9f96fd3d1cd107163f0cd47a39886bf0bc1d4d1f@merlin-cinemas-calendar
-DTSTAMP:20260312T000000Z
-DTSTART;VALUE=DATE:20260312
-DTEND;VALUE=DATE:20260313
+UID:d3528b3ce4f6f632d719f295669d57023724ef24@merlin-cinemas-calendar
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
 SUMMARY:Wuthering Heights @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate
@@ -33,9 +33,12 @@ DTEND;VALUE=DATE:20260316
 SUMMARY:Centenary Screening of Buster Keaton in The General (1926) with Liv
  e Organ @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
-  Live Organ\n\nFilm release at Merlin Cinemas Savoy Cinema, Penzance\nBook
-  tickets: https://penzance.merlincinemas.co.uk/film/106898-donald-mackenzi
- e-accompanying-the-general
+  Live Organ\n\nThe original date has been rescheduled by the promoter, and
+  this event will now take place on 3rd August. We have emailed all booking
+ s, and all tickets will be valid for the new date. Please contact action@m
+ erlincinemas.co.uk if you need any further assistance\n\nFilm release at M
+ erlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.merli
+ ncinemas.co.uk/film/106898-donald-mackenzie-accompanying-the-general
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/106898-donald-mackenzie-accom
  panying-the-general

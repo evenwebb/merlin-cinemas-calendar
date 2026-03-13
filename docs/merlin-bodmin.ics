@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:8d5e2b59817b8ea7a22e9b6e23560747247dc547@merlin-cinemas-calendar
-DTSTAMP:20260312T000000Z
-DTSTART;VALUE=DATE:20260312
-DTEND;VALUE=DATE:20260313
+UID:75ae14692519014d30fa40b9e497866f5da6a2ed@merlin-cinemas-calendar
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
 SUMMARY:Wuthering Heights @ Merlin Bodmin
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate
@@ -33,9 +33,12 @@ DTEND;VALUE=DATE:20260316
 SUMMARY:Centenary Screening of Buster Keaton in The General (1926) with Liv
  e Organ @ Merlin Bodmin
 DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
-  Live Organ\n\nFilm release at Merlin Cinemas Bodmin\nBook tickets: https:
- //bodmin.merlincinemas.co.uk/film/106898-donald-mackenzie-accompanying-the
- -general
+  Live Organ\n\nThe original date has been rescheduled by the promoter, and
+  this event will now take place on 3rd August. We have emailed all booking
+ s, and all tickets will be valid for the new date. Please contact action@m
+ erlincinemas.co.uk if you need any further assistance\n\nFilm release at M
+ erlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/fil
+ m/106898-donald-mackenzie-accompanying-the-general
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/106898-donald-mackenzie-accompa
  nying-the-general
