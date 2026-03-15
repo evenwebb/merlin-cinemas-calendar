@@ -7,25 +7,6 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:debf3d1d269de5a458a58f39b2c5f40746922d6b@merlin-cinemas-calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260314
-DTEND;VALUE=DATE:20260315
-SUMMARY:Wuthering Heights @ Merlin Redruth
-DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
- liff is adopted by the wealthy Earnshaw family and moves into their estate
- , Wuthering Heights. Soon, the new resident falls for his compassionate fo
- ster sister, Cathy. The two share a remarkable bond that seems unbreakable
-  until Cathy, feeling the pressure of social convention, suppresses her fe
- elings and marries Edgar Linton, a man of means who befits her stature. He
- athcliff vows to win her back.\n\nStarring: Juliette Binoche, Ralph Fienne
- s, Janet McTeer, Sophie Ward, Simon Shepherd, Jeremy Northam\n\nFilm relea
- se at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.
- co.uk/film/105263-wuthering-heights
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/105263-wuthering-heights
-END:VEVENT
-BEGIN:VEVENT
 UID:a786d6aeeedada36f1930f7d83190a3d62b723bf@merlin-cinemas-calendar
 DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260315
@@ -42,6 +23,25 @@ DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/106898-donald-mackenzie-accomp
  anying-the-general
+END:VEVENT
+BEGIN:VEVENT
+UID:fdf9d4afb6cdb7a3c3b7905e9b37a14723aeb3d6@merlin-cinemas-calendar
+DTSTAMP:20260315T000000Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:Wuthering Heights @ Merlin Redruth
+DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
+ liff is adopted by the wealthy Earnshaw family and moves into their estate
+ , Wuthering Heights. Soon, the new resident falls for his compassionate fo
+ ster sister, Cathy. The two share a remarkable bond that seems unbreakable
+  until Cathy, feeling the pressure of social convention, suppresses her fe
+ elings and marries Edgar Linton, a man of means who befits her stature. He
+ athcliff vows to win her back.\n\nStarring: Juliette Binoche, Ralph Fienne
+ s, Janet McTeer, Sophie Ward, Simon Shepherd, Jeremy Northam\n\nFilm relea
+ se at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.
+ co.uk/film/105263-wuthering-heights
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/105263-wuthering-heights
 END:VEVENT
 BEGIN:VEVENT
 UID:826757909ea147e47afc3a1871b8b5cb1c76d53f@merlin-cinemas-calendar

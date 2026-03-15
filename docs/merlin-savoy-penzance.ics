@@ -7,25 +7,6 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:d3528b3ce4f6f632d719f295669d57023724ef24@merlin-cinemas-calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260314
-DTEND;VALUE=DATE:20260315
-SUMMARY:Wuthering Heights @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
- liff is adopted by the wealthy Earnshaw family and moves into their estate
- , Wuthering Heights. Soon, the new resident falls for his compassionate fo
- ster sister, Cathy. The two share a remarkable bond that seems unbreakable
-  until Cathy, feeling the pressure of social convention, suppresses her fe
- elings and marries Edgar Linton, a man of means who befits her stature. He
- athcliff vows to win her back.\n\nStarring: Juliette Binoche, Ralph Fienne
- s, Janet McTeer, Sophie Ward, Simon Shepherd, Jeremy Northam\n\nFilm relea
- se at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzanc
- e.merlincinemas.co.uk/film/105263-wuthering-heights
-LOCATION:Merlin Cinemas Savoy Cinema, Penzance
-URL:https://penzance.merlincinemas.co.uk/film/105263-wuthering-heights
-END:VEVENT
-BEGIN:VEVENT
 UID:94a526058fcdaf6845c7a2d835fb54e7b921c747@merlin-cinemas-calendar
 DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260315
@@ -42,6 +23,25 @@ DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/106898-donald-mackenzie-accom
  panying-the-general
+END:VEVENT
+BEGIN:VEVENT
+UID:b7d510f3b39a468f98a02228c85d947933e5f91d@merlin-cinemas-calendar
+DTSTAMP:20260315T000000Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:Wuthering Heights @ Merlin Savoy Cinema, Penzance
+DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
+ liff is adopted by the wealthy Earnshaw family and moves into their estate
+ , Wuthering Heights. Soon, the new resident falls for his compassionate fo
+ ster sister, Cathy. The two share a remarkable bond that seems unbreakable
+  until Cathy, feeling the pressure of social convention, suppresses her fe
+ elings and marries Edgar Linton, a man of means who befits her stature. He
+ athcliff vows to win her back.\n\nStarring: Juliette Binoche, Ralph Fienne
+ s, Janet McTeer, Sophie Ward, Simon Shepherd, Jeremy Northam\n\nFilm relea
+ se at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzanc
+ e.merlincinemas.co.uk/film/105263-wuthering-heights
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/105263-wuthering-heights
 END:VEVENT
 BEGIN:VEVENT
 UID:2a29cde3595969a8632bde6aa4d31ae1f2104605@merlin-cinemas-calendar
