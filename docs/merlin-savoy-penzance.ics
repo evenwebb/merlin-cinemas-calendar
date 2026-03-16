@@ -7,28 +7,10 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:94a526058fcdaf6845c7a2d835fb54e7b921c747@merlin-cinemas-calendar
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260315
-DTEND;VALUE=DATE:20260316
-SUMMARY:Centenary Screening of Buster Keaton in The General (1926) with Liv
- e Organ @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
-  Live Organ\n\nThe original date has been rescheduled by the promoter, and
-  this event will now take place on 3rd August. We have emailed all booking
- s, and all tickets will be valid for the new date. Please contact action@m
- erlincinemas.co.uk if you need any further assistance\n\nFilm release at M
- erlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.merli
- ncinemas.co.uk/film/106898-donald-mackenzie-accompanying-the-general
-LOCATION:Merlin Cinemas Savoy Cinema, Penzance
-URL:https://penzance.merlincinemas.co.uk/film/106898-donald-mackenzie-accom
- panying-the-general
-END:VEVENT
-BEGIN:VEVENT
-UID:b7d510f3b39a468f98a02228c85d947933e5f91d@merlin-cinemas-calendar
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260315
-DTEND;VALUE=DATE:20260316
+UID:8c63c4b3f898522ba8389e515ca17d8e6df3cbb7@merlin-cinemas-calendar
+DTSTAMP:20260317T000000Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
 SUMMARY:Wuthering Heights @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate

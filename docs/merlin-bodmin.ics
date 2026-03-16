@@ -7,28 +7,10 @@ X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:18d2f40cfd873c6c1f69b1ebb97da60dc4b07d83@merlin-cinemas-calendar
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260315
-DTEND;VALUE=DATE:20260316
-SUMMARY:Centenary Screening of Buster Keaton in The General (1926) with Liv
- e Organ @ Merlin Bodmin
-DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
-  Live Organ\n\nThe original date has been rescheduled by the promoter, and
-  this event will now take place on 3rd August. We have emailed all booking
- s, and all tickets will be valid for the new date. Please contact action@m
- erlincinemas.co.uk if you need any further assistance\n\nFilm release at M
- erlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/fil
- m/106898-donald-mackenzie-accompanying-the-general
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/106898-donald-mackenzie-accompa
- nying-the-general
-END:VEVENT
-BEGIN:VEVENT
-UID:f43087d4ffabc9a942b6d76ac6f07ce004e74610@merlin-cinemas-calendar
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260315
-DTEND;VALUE=DATE:20260316
+UID:3da4c2165224113381429c2bd1c49099eb7076b4@merlin-cinemas-calendar
+DTSTAMP:20260317T000000Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
 SUMMARY:Wuthering Heights @ Merlin Bodmin
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate

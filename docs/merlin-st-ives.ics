@@ -7,24 +7,6 @@ X-WR-CALNAME:Merlin St Ives Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas St Ives
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:1418eb11f13dbab3ae800eb76af769062c262cd6@merlin-cinemas-calendar
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260315
-DTEND;VALUE=DATE:20260316
-SUMMARY:Centenary Screening of Buster Keaton in The General (1926) with Liv
- e Organ @ Merlin St Ives
-DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
-  Live Organ\n\nThe original date has been rescheduled by the promoter, and
-  this event will now take place on 3rd August. We have emailed all booking
- s, and all tickets will be valid for the new date. Please contact action@m
- erlincinemas.co.uk if you need any further assistance\n\nFilm release at M
- erlin Cinemas St Ives\nBook tickets: https://st-ives.merlincinemas.co.uk/f
- ilm/106898-donald-mackenzie-accompanying-the-general
-LOCATION:Merlin Cinemas St Ives
-URL:https://st-ives.merlincinemas.co.uk/film/106898-donald-mackenzie-accomp
- anying-the-general
-END:VEVENT
-BEGIN:VEVENT
 UID:9ea21e5bc836c4e7b4657f6b88f9587407f237e9@merlin-cinemas-calendar
 DTSTAMP:20260320T000000Z
 DTSTART;VALUE=DATE:20260320

@@ -7,28 +7,10 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:a786d6aeeedada36f1930f7d83190a3d62b723bf@merlin-cinemas-calendar
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260315
-DTEND;VALUE=DATE:20260316
-SUMMARY:Centenary Screening of Buster Keaton in The General (1926) with Liv
- e Organ @ Merlin Redruth
-DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
-  Live Organ\n\nThe original date has been rescheduled by the promoter, and
-  this event will now take place on 3rd August. We have emailed all booking
- s, and all tickets will be valid for the new date. Please contact action@m
- erlincinemas.co.uk if you need any further assistance\n\nFilm release at M
- erlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.uk/f
- ilm/106898-donald-mackenzie-accompanying-the-general
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/106898-donald-mackenzie-accomp
- anying-the-general
-END:VEVENT
-BEGIN:VEVENT
-UID:fdf9d4afb6cdb7a3c3b7905e9b37a14723aeb3d6@merlin-cinemas-calendar
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260315
-DTEND;VALUE=DATE:20260316
+UID:b6fb1333502422627b6ccff4a0835bfa5c0edbdd@merlin-cinemas-calendar
+DTSTAMP:20260316T000000Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
 SUMMARY:Wuthering Heights @ Merlin Redruth
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate

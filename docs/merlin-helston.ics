@@ -7,24 +7,6 @@ X-WR-CALNAME:Merlin Helston Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Helston
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:2a2471ae277d77fbfb2385c9d32d14b5bd053d89@merlin-cinemas-calendar
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260315
-DTEND;VALUE=DATE:20260316
-SUMMARY:Centenary Screening of Buster Keaton in The General (1926) with Liv
- e Organ @ Merlin Helston
-DESCRIPTION:Centenary Screening of Buster Keaton in The General (1926) with
-  Live Organ\n\nThe original date has been rescheduled by the promoter, and
-  this event will now take place on 3rd August. We have emailed all booking
- s, and all tickets will be valid for the new date. Please contact action@m
- erlincinemas.co.uk if you need any further assistance\n\nFilm release at M
- erlin Cinemas Helston\nBook tickets: https://helston.merlincinemas.co.uk/f
- ilm/106898-donald-mackenzie-accompanying-the-general
-LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/106898-donald-mackenzie-accomp
- anying-the-general
-END:VEVENT
-BEGIN:VEVENT
 UID:8e96b81d3be2c3bc1b3136d6d9ed20b82206111b@merlin-cinemas-calendar
 DTSTAMP:20260316T000000Z
 DTSTART;VALUE=DATE:20260316
