@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Helston Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Helston
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:8e96b81d3be2c3bc1b3136d6d9ed20b82206111b@merlin-cinemas-calendar
-DTSTAMP:20260316T000000Z
-DTSTART;VALUE=DATE:20260316
-DTEND;VALUE=DATE:20260317
+UID:ec002f5569da87118fc20f8581dee42ab95e843c@merlin-cinemas-calendar
+DTSTAMP:20260317T000000Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
 SUMMARY:Wuthering Heights @ Merlin Helston
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate
