@@ -7,25 +7,6 @@ X-WR-CALNAME:Merlin Helston Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Helston
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:e596e2d61785d1633246caaf8a1b27358719c05c@merlin-cinemas-calendar
-DTSTAMP:20260318T000000Z
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260319
-SUMMARY:Wuthering Heights @ Merlin Helston
-DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
- liff is adopted by the wealthy Earnshaw family and moves into their estate
- , Wuthering Heights. Soon, the new resident falls for his compassionate fo
- ster sister, Cathy. The two share a remarkable bond that seems unbreakable
-  until Cathy, feeling the pressure of social convention, suppresses her fe
- elings and marries Edgar Linton, a man of means who befits her stature. He
- athcliff vows to win her back.\n\nStarring: Juliette Binoche, Ralph Fienne
- s, Janet McTeer, Sophie Ward, Simon Shepherd, Jeremy Northam\n\nFilm relea
- se at Merlin Cinemas Helston\nBook tickets: https://helston.merlincinemas.
- co.uk/film/105263-wuthering-heights
-LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/105263-wuthering-heights
-END:VEVENT
-BEGIN:VEVENT
 UID:daf366cdf0c350e0e3145542a2d01b1c61bec8e1@merlin-cinemas-calendar
 DTSTAMP:20260320T000000Z
 DTSTART;VALUE=DATE:20260320
