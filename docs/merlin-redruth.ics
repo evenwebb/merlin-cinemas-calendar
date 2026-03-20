@@ -7,25 +7,6 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:24b4354cfd3492e95ee269fad8143f1962c50e8a@merlin-cinemas-calendar
-DTSTAMP:20260319T000000Z
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-SUMMARY:Wuthering Heights @ Merlin Redruth
-DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
- liff is adopted by the wealthy Earnshaw family and moves into their estate
- , Wuthering Heights. Soon, the new resident falls for his compassionate fo
- ster sister, Cathy. The two share a remarkable bond that seems unbreakable
-  until Cathy, feeling the pressure of social convention, suppresses her fe
- elings and marries Edgar Linton, a man of means who befits her stature. He
- athcliff vows to win her back.\n\nStarring: Juliette Binoche, Ralph Fienne
- s, Janet McTeer, Sophie Ward, Simon Shepherd, Jeremy Northam\n\nFilm relea
- se at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.
- co.uk/film/105263-wuthering-heights
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/105263-wuthering-heights
-END:VEVENT
-BEGIN:VEVENT
 UID:826757909ea147e47afc3a1871b8b5cb1c76d53f@merlin-cinemas-calendar
 DTSTAMP:20260320T000000Z
 DTSTART;VALUE=DATE:20260320
@@ -44,6 +25,25 @@ DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-c
  ome
+END:VEVENT
+BEGIN:VEVENT
+UID:d669889ed7459c8ede3181334bb633e33c297876@merlin-cinemas-calendar
+DTSTAMP:20260320T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Wuthering Heights @ Merlin Redruth
+DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
+ liff is adopted by the wealthy Earnshaw family and moves into their estate
+ , Wuthering Heights. Soon, the new resident falls for his compassionate fo
+ ster sister, Cathy. The two share a remarkable bond that seems unbreakable
+  until Cathy, feeling the pressure of social convention, suppresses her fe
+ elings and marries Edgar Linton, a man of means who befits her stature. He
+ athcliff vows to win her back.\n\nStarring: Juliette Binoche, Ralph Fienne
+ s, Janet McTeer, Sophie Ward, Simon Shepherd, Jeremy Northam\n\nFilm relea
+ se at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.
+ co.uk/film/105263-wuthering-heights
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/105263-wuthering-heights
 END:VEVENT
 BEGIN:VEVENT
 UID:91a40fb8c55e43be211b60c4ead8bae1579751bc@merlin-cinemas-calendar
