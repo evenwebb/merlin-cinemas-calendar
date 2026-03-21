@@ -7,30 +7,10 @@ X-WR-CALNAME:Merlin Falmouth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Falmouth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:b70254ae10f4216997f1f8a2970185a270f9f12f@merlin-cinemas-calendar
-DTSTAMP:20260320T000000Z
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
-SUMMARY:Ready Or Not 2: Here I Come @ Merlin Falmouth
-DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
- rviving an all-out attack from the Le Domas family, Grace discovers she’s 
- reached the next level of the nightmarish game — and this time with her es
- tranged sister Faith at her side. Grace has one chance to survive, keep he
- r sister alive, and claim the High Seat of the Council that controls the w
- orld. Four rival families are hunting her for the throne, and whoever wins
-  rules it all.\n\nStarring: Samara Weaving, Kathryn Newton, Sarah Michelle
-  Gellar, Shawn Hatosy, Nestor Carbonell, David Cronenberg\n\nFilm release 
- at Merlin Cinemas Falmouth\nBook tickets: https://falmouth.merlincinemas.c
- o.uk/film/106037-ready-or-not-2-here-i-come
-LOCATION:Merlin Cinemas Falmouth
-URL:https://falmouth.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-
- come
-END:VEVENT
-BEGIN:VEVENT
-UID:ef9bae61afd7fb84ca10d4e395cb3fb197fe7894@merlin-cinemas-calendar
-DTSTAMP:20260320T000000Z
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
+UID:8c7f5583cfe2dcd07a7588282f2e393fa6ed5d07@merlin-cinemas-calendar
+DTSTAMP:20260323T000000Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
 SUMMARY:Wuthering Heights @ Merlin Falmouth
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate
@@ -81,25 +61,6 @@ DESCRIPTION:They Will Kill You\nAction, Comedy, Horror\n\nA woman answers a
  ou
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/106687-they-will-kill-you
-END:VEVENT
-BEGIN:VEVENT
-UID:901313dcae4c4fea7aa8af51e4eeb0dad2ed99a4@merlin-cinemas-calendar
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260402
-SUMMARY:The Super Mario Galaxy Movie @ Merlin Falmouth
-DESCRIPTION:The Super Mario Galaxy Movie\nFamily, Fantasy, Comedy, Adventur
- e, Animation\n\nHaving thwarted Bowser's previous plot to marry Princess P
- each, Mario and Luigi now face a fresh threat in Bowser Jr., who is determ
- ined to liberate his father from captivity and restore the family legacy. 
- Alongside companions new and old, the brothers travel across the stars to 
- stop the young heir's crusade.\n\nStarring: Chris Pratt, Anya Taylor-Joy, 
- Charlie Day, Jack Black, Benny Safdie, Keegan-Michael Key\n\nFilm release 
- at Merlin Cinemas Falmouth\nBook tickets: https://falmouth.merlincinemas.c
- o.uk/film/102277-the-super-mario-galaxy-movie
-LOCATION:Merlin Cinemas Falmouth
-URL:https://falmouth.merlincinemas.co.uk/film/102277-the-super-mario-galaxy
- -movie
 END:VEVENT
 BEGIN:VEVENT
 UID:4beab7b3d46136881250f42828bf7391003a062e@merlin-cinemas-calendar
@@ -323,6 +284,26 @@ DESCRIPTION:The Odyssey\nAdventure, Drama, Fantasy\n\nOdysseus, the legenda
  ncinemas.co.uk/film/106038-the-odyssey
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/106038-the-odyssey
+END:VEVENT
+BEGIN:VEVENT
+UID:2f3e68b812b599c2877cc50fc3f5759bbe1ce0af@merlin-cinemas-calendar
+DTSTAMP:20260918T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ Merlin Falmouth
+DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
+ enture, Animation\n\nThe residents of Mossy Bottom Farm looking forward to
+  Halloween – until the clumsy Farmer trashes the flock’s beloved pumpkin p
+ atch! When Shaun turns mad scientist to fix the problem, things rapidly sp
+ iral out of control. With the Farmer missing and a wild beast roaming the 
+ woods of Mossingham, all the ingredients are in place for a monstrously fu
+ n family adventure.\n\nStarring: Justin Fletcher, John Sparkes, Kate Harbo
+ ur\n\nFilm release at Merlin Cinemas Falmouth\nBook tickets: https://falmo
+ uth.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-beast-of-mossy-bot
+ tom
+LOCATION:Merlin Cinemas Falmouth
+URL:https://falmouth.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-be
+ ast-of-mossy-bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:529123822679abc50ff1e8dd2a4ad7c655b89492@merlin-cinemas-calendar

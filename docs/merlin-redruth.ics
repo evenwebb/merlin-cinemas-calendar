@@ -7,30 +7,10 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:826757909ea147e47afc3a1871b8b5cb1c76d53f@merlin-cinemas-calendar
-DTSTAMP:20260320T000000Z
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
-SUMMARY:Ready Or Not 2: Here I Come @ Merlin Redruth
-DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
- rviving an all-out attack from the Le Domas family, Grace discovers she’s 
- reached the next level of the nightmarish game — and this time with her es
- tranged sister Faith at her side. Grace has one chance to survive, keep he
- r sister alive, and claim the High Seat of the Council that controls the w
- orld. Four rival families are hunting her for the throne, and whoever wins
-  rules it all.\n\nStarring: Samara Weaving, Kathryn Newton, Sarah Michelle
-  Gellar, Shawn Hatosy, Nestor Carbonell, David Cronenberg\n\nFilm release 
- at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.
- uk/film/106037-ready-or-not-2-here-i-come
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-c
- ome
-END:VEVENT
-BEGIN:VEVENT
-UID:d669889ed7459c8ede3181334bb633e33c297876@merlin-cinemas-calendar
-DTSTAMP:20260320T000000Z
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
+UID:dfa4887771ba9b57aadb60f03245b016bd316306@merlin-cinemas-calendar
+DTSTAMP:20260321T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
 SUMMARY:Wuthering Heights @ Merlin Redruth
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate
@@ -80,25 +60,6 @@ DESCRIPTION:They Will Kill You\nAction, Comedy, Horror\n\nA woman answers a
  ickets: https://redruth.merlincinemas.co.uk/film/106687-they-will-kill-you
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/106687-they-will-kill-you
-END:VEVENT
-BEGIN:VEVENT
-UID:614212c10f67c9153ba4831b2bafe3991f17544d@merlin-cinemas-calendar
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260402
-SUMMARY:The Super Mario Galaxy Movie @ Merlin Redruth
-DESCRIPTION:The Super Mario Galaxy Movie\nFamily, Fantasy, Comedy, Adventur
- e, Animation\n\nHaving thwarted Bowser's previous plot to marry Princess P
- each, Mario and Luigi now face a fresh threat in Bowser Jr., who is determ
- ined to liberate his father from captivity and restore the family legacy. 
- Alongside companions new and old, the brothers travel across the stars to 
- stop the young heir's crusade.\n\nStarring: Chris Pratt, Anya Taylor-Joy, 
- Charlie Day, Jack Black, Benny Safdie, Keegan-Michael Key\n\nFilm release 
- at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.
- uk/film/102277-the-super-mario-galaxy-movie
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/102277-the-super-mario-galaxy-
- movie
 END:VEVENT
 BEGIN:VEVENT
 UID:d2a833d755d3b5d334f88001d7bd096f002ab2cd@merlin-cinemas-calendar
@@ -320,6 +281,26 @@ DESCRIPTION:The Odyssey\nAdventure, Drama, Fantasy\n\nOdysseus, the legenda
  inemas.co.uk/film/106038-the-odyssey
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/106038-the-odyssey
+END:VEVENT
+BEGIN:VEVENT
+UID:ed60d4e9cd34b458a46b6c7a314fa17878513a1e@merlin-cinemas-calendar
+DTSTAMP:20260918T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Shaun The Sheep: The Beast Of Mossy Bottom @ Merlin Redruth
+DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
+ enture, Animation\n\nThe residents of Mossy Bottom Farm looking forward to
+  Halloween – until the clumsy Farmer trashes the flock’s beloved pumpkin p
+ atch! When Shaun turns mad scientist to fix the problem, things rapidly sp
+ iral out of control. With the Farmer missing and a wild beast roaming the 
+ woods of Mossingham, all the ingredients are in place for a monstrously fu
+ n family adventure.\n\nStarring: Justin Fletcher, John Sparkes, Kate Harbo
+ ur\n\nFilm release at Merlin Cinemas Redruth\nBook tickets: https://redrut
+ h.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-beast-of-mossy-botto
+ m
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-bea
+ st-of-mossy-bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:2ecf1f245b3d448ac8fc7379b2ccd2e9007becfc@merlin-cinemas-calendar
