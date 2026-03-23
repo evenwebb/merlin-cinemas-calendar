@@ -145,5 +145,33 @@
     "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
     "director": "",
     "cached_at": "2026-03-21T09:22:43.544562"
+  },
+  "merlin:/film/109013-savage-house": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-03-23T09:54:01.427691"
+  },
+  "merlin:/film/109011-spiderman-brand-new-day": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-03-23T09:53:59.946235"
+  },
+  "merlin:/film/109012-wild-horse-nine": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-03-23T09:54:03.828109"
+  },
+  "merlin:/film/109010-dune-part-three": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-03-23T09:54:04.437425"
   }
 }

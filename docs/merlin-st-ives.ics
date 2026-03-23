@@ -168,6 +168,24 @@ LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/107143-masters-of-the-universe
 END:VEVENT
 BEGIN:VEVENT
+UID:d0221c4a5430abc195a2f3ef53470dbb2179f81a@merlin-cinemas-calendar
+DTSTAMP:20260605T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Savage House @ Merlin St Ives
+DESCRIPTION:Savage House\nDrama, Comedy\n\nAgainst the backdrop of 18th cen
+ tury England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey
+  Savage and Lady Savage blindly pursue a better life. It's not without a t
+ inge of irony that their family name is the Savages, for this is a Savage 
+ House indeed, filled with duels, decadence, and bloodshed.\n\nStarring: Ri
+ chard E. Grant, Claire Foy, Sebastian Armesto, Roger Ashton-Griffiths, Kíl
+ a Lord Cassidy, Dominic Charman\n\nFilm release at Merlin Cinemas St Ives\
+ nBook tickets: https://st-ives.merlincinemas.co.uk/film/109013-savage-hous
+ e
+LOCATION:Merlin Cinemas St Ives
+URL:https://st-ives.merlincinemas.co.uk/film/109013-savage-house
+END:VEVENT
+BEGIN:VEVENT
 UID:dfc891d63f4f098ad06ff5a9f1ce55050a3752c7@merlin-cinemas-calendar
 DTSTAMP:20260612T000000Z
 DTSTART;VALUE=DATE:20260612
@@ -264,6 +282,27 @@ LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/106038-the-odyssey
 END:VEVENT
 BEGIN:VEVENT
+UID:f1ff70f71354cdad82591dd4051f5730b31a5e7f@merlin-cinemas-calendar
+DTSTAMP:20260731T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Spider-Man: Brand New Day @ Merlin St Ives
+DESCRIPTION:Spider-Man: Brand New Day\nScience Fiction, Action, Adventure\n
+ \nFour years have passed since the events of No Way Home, and Peter is now
+  an adult living entirely alone, having voluntarily erased himself from th
+ e lives and memories of those he loves. Crime-fighting in a New York that 
+ no longer knows his name, he's devoted himself entirely to protecting his 
+ city — a full-time Spider-Man — but as the demands on him intensify, the p
+ ressure sparks a surprising physical evolution that threatens his existenc
+ e, even as a strange new pattern of crimes gives rise to one of the most p
+ owerful threats he has ever faced.\n\nStarring: Tom Holland, Zendaya, Sadi
+ e Sink, Jacob Batalon, Jon Bernthal, Tramell Tillman\n\nFilm release at Me
+ rlin Cinemas St Ives\nBook tickets: https://st-ives.merlincinemas.co.uk/fi
+ lm/109011-spiderman-brand-new-day
+LOCATION:Merlin Cinemas St Ives
+URL:https://st-ives.merlincinemas.co.uk/film/109011-spiderman-brand-new-day
+END:VEVENT
+BEGIN:VEVENT
 UID:eddf797f1f0ef968a784f7b0c7fb23f279bc90e0@merlin-cinemas-calendar
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
@@ -282,6 +321,24 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-bea
  st-of-mossy-bottom
+END:VEVENT
+BEGIN:VEVENT
+UID:2a451225742024baf9d5933630975b514d043868@merlin-cinemas-calendar
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Wild Horse Nine @ Merlin St Ives
+DESCRIPTION:Wild Horse Nine\nComedy, Crime, Thriller\n\nShortly before the 
+ 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago t
+ o Easter Island by their bureau chief, MJ. Amongst the Island's iconic sta
+ tues, and as the longtime partners wrestle with their dark pasts and prese
+ nt conspiracies, Chris's newfound bond with a pair of rebellious students 
+ threatens to send everyone’s trip to this remote paradise sideways.\n\nSta
+ rring: John Malkovich, Sam Rockwell, Steve Buscemi, Parker Posey, Tom Wait
+ s, Mariana Di Girolamo\n\nFilm release at Merlin Cinemas St Ives\nBook tic
+ kets: https://st-ives.merlincinemas.co.uk/film/109012-wild-horse-nine
+LOCATION:Merlin Cinemas St Ives
+URL:https://st-ives.merlincinemas.co.uk/film/109012-wild-horse-nine
 END:VEVENT
 BEGIN:VEVENT
 UID:3807427524490e5b594a1ae2cada9f1c776f4563@merlin-cinemas-calendar
@@ -314,5 +371,21 @@ DESCRIPTION:Avengers: Doomsday\nScience Fiction, Action, Adventure\n\nThe A
  /film/106451-avengers-doomsday
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/106451-avengers-doomsday
+END:VEVENT
+BEGIN:VEVENT
+UID:f29db7cae8900b3e263437d5d41076f6d82b47e2@merlin-cinemas-calendar
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Dune: Part Three @ Merlin St Ives
+DESCRIPTION:Dune: Part Three\nAdventure, Science Fiction, Thriller\n\nAs Em
+ peror, Paul Atreides grapples with the consequences of his rise to power a
+ s political conspiracies and a galaxy-spanning holy war threaten the futur
+ e he alone can foresee.\n\nStarring: Timothée Chalamet, Zendaya, Jason Mom
+ oa, Florence Pugh, Rebecca Ferguson, Isaach de Bankolé\n\nFilm release at 
+ Merlin Cinemas St Ives\nBook tickets: https://st-ives.merlincinemas.co.uk/
+ film/109010-dune-part-three
+LOCATION:Merlin Cinemas St Ives
+URL:https://st-ives.merlincinemas.co.uk/film/109010-dune-part-three
 END:VEVENT
 END:VCALENDAR
