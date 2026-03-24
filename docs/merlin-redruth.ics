@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:ebec40d6d56b848fa3a483dcbcfb629bffe98637@merlin-cinemas-calendar
-DTSTAMP:20260323T000000Z
-DTSTART;VALUE=DATE:20260323
-DTEND;VALUE=DATE:20260324
+UID:f2e466f75b97ab59e2954f07c0917b7839a13614@merlin-cinemas-calendar
+DTSTAMP:20260324T000000Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
 SUMMARY:Wuthering Heights @ Merlin Redruth
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate
@@ -24,6 +24,26 @@ DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan H
  co.uk/film/105263-wuthering-heights
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/105263-wuthering-heights
+END:VEVENT
+BEGIN:VEVENT
+UID:f28e6a3dade90adb5a7ffad03f75a3305fd96110@merlin-cinemas-calendar
+DTSTAMP:20260327T000000Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:Ready Or Not 2: Here I Come @ Merlin Redruth
+DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
+ rviving an all-out attack from the Le Domas family, Grace discovers she’s 
+ reached the next level of the nightmarish game — and this time with her es
+ tranged sister Faith at her side. Grace has one chance to survive, keep he
+ r sister alive, and claim the High Seat of the Council that controls the w
+ orld. Four rival families are hunting her for the throne, and whoever wins
+  rules it all.\n\nStarring: Samara Weaving, Kathryn Newton, Sarah Michelle
+  Gellar, Shawn Hatosy, Nestor Carbonell, David Cronenberg\n\nFilm release 
+ at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.
+ uk/film/106037-ready-or-not-2-here-i-come
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-c
+ ome
 END:VEVENT
 BEGIN:VEVENT
 UID:91a40fb8c55e43be211b60c4ead8bae1579751bc@merlin-cinemas-calendar
@@ -96,10 +116,10 @@ LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/106935-lee-cronins-the-mummy
 END:VEVENT
 BEGIN:VEVENT
-UID:9166f2e7b22e9efa5bd432d662eb84c958d8539f@merlin-cinemas-calendar
-DTSTAMP:20260424T000000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260425
+UID:dccad90f6a12a0adbf5472ffc80548183713d606@merlin-cinemas-calendar
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
 SUMMARY:Michael @ Merlin Redruth
 DESCRIPTION:Michael\nMusic, Drama\n\nDiscover the story of Michael Jackson,
   one of the most influential artists the world has ever known, and his lif
@@ -185,6 +205,24 @@ DESCRIPTION:Masters Of The Universe\nAction, Fantasy, Science Fiction\n\nAf
  redruth.merlincinemas.co.uk/film/107143-masters-of-the-universe
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/107143-masters-of-the-universe
+END:VEVENT
+BEGIN:VEVENT
+UID:1e09cf3c078a8b6118f9a1ea72b5c27f03079a43@merlin-cinemas-calendar
+DTSTAMP:20260605T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Savage House @ Merlin Redruth
+DESCRIPTION:Savage House\nDrama, Comedy\n\nAgainst the backdrop of 18th cen
+ tury England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey
+  Savage and Lady Savage blindly pursue a better life. It's not without a t
+ inge of irony that their family name is the Savages, for this is a Savage 
+ House indeed, filled with duels, decadence, and bloodshed.\n\nStarring: Ri
+ chard E. Grant, Claire Foy, Sebastian Armesto, Roger Ashton-Griffiths, Kíl
+ a Lord Cassidy, Dominic Charman\n\nFilm release at Merlin Cinemas Redruth\
+ nBook tickets: https://redruth.merlincinemas.co.uk/film/109013-savage-hous
+ e
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/109013-savage-house
 END:VEVENT
 BEGIN:VEVENT
 UID:77c9219765db75d1c7e2c80d6a57797d5bd04dd1@merlin-cinemas-calendar
@@ -283,6 +321,27 @@ LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/106038-the-odyssey
 END:VEVENT
 BEGIN:VEVENT
+UID:1440d6ea50841d5e93a2e55c110cc90c7961d63d@merlin-cinemas-calendar
+DTSTAMP:20260731T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Spider-Man: Brand New Day @ Merlin Redruth
+DESCRIPTION:Spider-Man: Brand New Day\nScience Fiction, Action, Adventure\n
+ \nFour years have passed since the events of No Way Home, and Peter is now
+  an adult living entirely alone, having voluntarily erased himself from th
+ e lives and memories of those he loves. Crime-fighting in a New York that 
+ no longer knows his name, he's devoted himself entirely to protecting his 
+ city — a full-time Spider-Man — but as the demands on him intensify, the p
+ ressure sparks a surprising physical evolution that threatens his existenc
+ e, even as a strange new pattern of crimes gives rise to one of the most p
+ owerful threats he has ever faced.\n\nStarring: Tom Holland, Zendaya, Sadi
+ e Sink, Jacob Batalon, Jon Bernthal, Tramell Tillman\n\nFilm release at Me
+ rlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.uk/fi
+ lm/109011-spiderman-brand-new-day
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/109011-spiderman-brand-new-day
+END:VEVENT
+BEGIN:VEVENT
 UID:ed60d4e9cd34b458a46b6c7a314fa17878513a1e@merlin-cinemas-calendar
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
@@ -301,6 +360,24 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-bea
  st-of-mossy-bottom
+END:VEVENT
+BEGIN:VEVENT
+UID:22950af4bb9bc5fd172b7d54ec1aa00856e0730e@merlin-cinemas-calendar
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Wild Horse Nine @ Merlin Redruth
+DESCRIPTION:Wild Horse Nine\nComedy, Crime, Thriller\n\nShortly before the 
+ 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago t
+ o Easter Island by their bureau chief, MJ. Amongst the Island's iconic sta
+ tues, and as the longtime partners wrestle with their dark pasts and prese
+ nt conspiracies, Chris's newfound bond with a pair of rebellious students 
+ threatens to send everyone’s trip to this remote paradise sideways.\n\nSta
+ rring: John Malkovich, Sam Rockwell, Steve Buscemi, Parker Posey, Tom Wait
+ s, Mariana Di Girolamo\n\nFilm release at Merlin Cinemas Redruth\nBook tic
+ kets: https://redruth.merlincinemas.co.uk/film/109012-wild-horse-nine
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/109012-wild-horse-nine
 END:VEVENT
 BEGIN:VEVENT
 UID:2ecf1f245b3d448ac8fc7379b2ccd2e9007becfc@merlin-cinemas-calendar
@@ -333,5 +410,21 @@ DESCRIPTION:Avengers: Doomsday\nScience Fiction, Action, Adventure\n\nThe A
  /film/106451-avengers-doomsday
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/106451-avengers-doomsday
+END:VEVENT
+BEGIN:VEVENT
+UID:1ce89d812d8a962620ec1808142dded5144ae3d7@merlin-cinemas-calendar
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Dune: Part Three @ Merlin Redruth
+DESCRIPTION:Dune: Part Three\nAdventure, Science Fiction, Thriller\n\nAs Em
+ peror, Paul Atreides grapples with the consequences of his rise to power a
+ s political conspiracies and a galaxy-spanning holy war threaten the futur
+ e he alone can foresee.\n\nStarring: Timothée Chalamet, Zendaya, Jason Mom
+ oa, Florence Pugh, Rebecca Ferguson, Isaach de Bankolé\n\nFilm release at 
+ Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.uk/
+ film/109010-dune-part-three
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/109010-dune-part-three
 END:VEVENT
 END:VCALENDAR

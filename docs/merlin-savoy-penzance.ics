@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:4c4ed6e7e5f3f39ec1ffd06d5dd585eb4c73e785@merlin-cinemas-calendar
-DTSTAMP:20260323T000000Z
-DTSTART;VALUE=DATE:20260323
-DTEND;VALUE=DATE:20260324
+UID:9bf729b77ad130ab6ae579df91755603efb36368@merlin-cinemas-calendar
+DTSTAMP:20260326T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
 SUMMARY:Wuthering Heights @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate
@@ -24,6 +24,26 @@ DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan H
  e.merlincinemas.co.uk/film/105263-wuthering-heights
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/105263-wuthering-heights
+END:VEVENT
+BEGIN:VEVENT
+UID:2ef82b1ee225acec7e4edf2a856394f9d02d44ff@merlin-cinemas-calendar
+DTSTAMP:20260327T000000Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:Ready Or Not 2: Here I Come @ Merlin Savoy Cinema, Penzance
+DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
+ rviving an all-out attack from the Le Domas family, Grace discovers she’s 
+ reached the next level of the nightmarish game — and this time with her es
+ tranged sister Faith at her side. Grace has one chance to survive, keep he
+ r sister alive, and claim the High Seat of the Council that controls the w
+ orld. Four rival families are hunting her for the throne, and whoever wins
+  rules it all.\n\nStarring: Samara Weaving, Kathryn Newton, Sarah Michelle
+  Gellar, Shawn Hatosy, Nestor Carbonell, David Cronenberg\n\nFilm release 
+ at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.m
+ erlincinemas.co.uk/film/106037-ready-or-not-2-here-i-come
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-
+ come
 END:VEVENT
 BEGIN:VEVENT
 UID:a267eff26051aef7ca64f6b2c3bd991cf1697601@merlin-cinemas-calendar
@@ -97,10 +117,10 @@ LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/106935-lee-cronins-the-mummy
 END:VEVENT
 BEGIN:VEVENT
-UID:fe4b768168d7838350c726fbfbcbd951dceff5ae@merlin-cinemas-calendar
-DTSTAMP:20260424T000000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260425
+UID:6a1a4aa65716ee305b7a7c9617433ed2cce8771a@merlin-cinemas-calendar
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
 SUMMARY:Michael @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:Michael\nMusic, Drama\n\nDiscover the story of Michael Jackson,
   one of the most influential artists the world has ever known, and his lif

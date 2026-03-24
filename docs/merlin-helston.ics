@@ -77,10 +77,10 @@ LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/106935-lee-cronins-the-mummy
 END:VEVENT
 BEGIN:VEVENT
-UID:b4dc5d366a5765501f184b47b239cae9a3a415e7@merlin-cinemas-calendar
-DTSTAMP:20260424T000000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260425
+UID:8e018b7b264fd734d3526d7dc24c3da317ea7e3e@merlin-cinemas-calendar
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
 SUMMARY:Michael @ Merlin Helston
 DESCRIPTION:Michael\nMusic, Drama\n\nDiscover the story of Michael Jackson,
   one of the most influential artists the world has ever known, and his lif
