@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:606de0de87bf698586845783096f094429a3c948@merlin-cinemas-calendar
-DTSTAMP:20260325T000000Z
-DTSTART;VALUE=DATE:20260325
-DTEND;VALUE=DATE:20260326
+UID:558ca0f735509a7cd593e4841c1a316b4401e20b@merlin-cinemas-calendar
+DTSTAMP:20260326T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
 SUMMARY:Wuthering Heights @ Merlin Redruth
 DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
  liff is adopted by the wealthy Earnshaw family and moves into their estate
