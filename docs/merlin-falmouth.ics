@@ -7,25 +7,6 @@ X-WR-CALNAME:Merlin Falmouth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Falmouth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:eb0d42f0e841222b741e9144e005e0c4274b3e7f@merlin-cinemas-calendar
-DTSTAMP:20260326T000000Z
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260327
-SUMMARY:Wuthering Heights @ Merlin Falmouth
-DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
- liff is adopted by the wealthy Earnshaw family and moves into their estate
- , Wuthering Heights. Soon, the new resident falls for his compassionate fo
- ster sister, Cathy. The two share a remarkable bond that seems unbreakable
-  until Cathy, feeling the pressure of social convention, suppresses her fe
- elings and marries Edgar Linton, a man of means who befits her stature. He
- athcliff vows to win her back.\n\nStarring: Juliette Binoche, Ralph Fienne
- s, Janet McTeer, Sophie Ward, Simon Shepherd, Jeremy Northam\n\nFilm relea
- se at Merlin Cinemas Falmouth\nBook tickets: https://falmouth.merlincinema
- s.co.uk/film/105263-wuthering-heights
-LOCATION:Merlin Cinemas Falmouth
-URL:https://falmouth.merlincinemas.co.uk/film/105263-wuthering-heights
-END:VEVENT
-BEGIN:VEVENT
 UID:0dddc3660aa5be7d38c336c21ea291d485c9abce@merlin-cinemas-calendar
 DTSTAMP:20260327T000000Z
 DTSTART;VALUE=DATE:20260327

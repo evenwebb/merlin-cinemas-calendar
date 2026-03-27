@@ -7,25 +7,6 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:9bf729b77ad130ab6ae579df91755603efb36368@merlin-cinemas-calendar
-DTSTAMP:20260326T000000Z
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260327
-SUMMARY:Wuthering Heights @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:Wuthering Heights\n★★★☆☆\nDrama, Romance\n\nYoung orphan Heathc
- liff is adopted by the wealthy Earnshaw family and moves into their estate
- , Wuthering Heights. Soon, the new resident falls for his compassionate fo
- ster sister, Cathy. The two share a remarkable bond that seems unbreakable
-  until Cathy, feeling the pressure of social convention, suppresses her fe
- elings and marries Edgar Linton, a man of means who befits her stature. He
- athcliff vows to win her back.\n\nStarring: Juliette Binoche, Ralph Fienne
- s, Janet McTeer, Sophie Ward, Simon Shepherd, Jeremy Northam\n\nFilm relea
- se at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzanc
- e.merlincinemas.co.uk/film/105263-wuthering-heights
-LOCATION:Merlin Cinemas Savoy Cinema, Penzance
-URL:https://penzance.merlincinemas.co.uk/film/105263-wuthering-heights
-END:VEVENT
-BEGIN:VEVENT
 UID:2ef82b1ee225acec7e4edf2a856394f9d02d44ff@merlin-cinemas-calendar
 DTSTAMP:20260327T000000Z
 DTSTART;VALUE=DATE:20260327
