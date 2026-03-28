@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Helston Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Helston
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:f24b352c124e542ee51f398cdfd8d5c30737e1ab@merlin-cinemas-calendar
-DTSTAMP:20260327T000000Z
-DTSTART;VALUE=DATE:20260327
-DTEND;VALUE=DATE:20260328
+UID:49afc32ff8f7806bf26478924a4d3d8445db7656@merlin-cinemas-calendar
+DTSTAMP:20260328T000000Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
 SUMMARY:The Magic Faraway Tree @ Merlin Helston
 DESCRIPTION:The Magic Faraway Tree\nFamily, Fantasy, Adventure\n\nSoon afte
  r the Thompson family’s arrival in the countryside, the three children – J
@@ -25,22 +25,6 @@ DESCRIPTION:The Magic Faraway Tree\nFamily, Fantasy, Adventure\n\nSoon afte
  38-the-magic-faraway-tree
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/105538-the-magic-faraway-tree
-END:VEVENT
-BEGIN:VEVENT
-UID:a910e0aae5805a73be91771df72e22cb5c6764f3@merlin-cinemas-calendar
-DTSTAMP:20260327T000000Z
-DTSTART;VALUE=DATE:20260327
-DTEND;VALUE=DATE:20260328
-SUMMARY:They Will Kill You @ Merlin Helston
-DESCRIPTION:They Will Kill You\nAction, Comedy, Horror\n\nA woman answers a
-  help wanted ad to be a housekeeper in a mysterious high-rise in New York 
- City, not realizing she is entering a community that has seen a number of 
- disappearances over the years and may be under the grip of a Satanic cult.
- \n\nStarring: Zazie Beetz, Patricia Arquette, Heather Graham, Myha'la, Pat
- erson Joseph, Tom Felton\n\nFilm release at Merlin Cinemas Helston\nBook t
- ickets: https://helston.merlincinemas.co.uk/film/106687-they-will-kill-you
-LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/106687-they-will-kill-you
 END:VEVENT
 BEGIN:VEVENT
 UID:ba597f161294a2814a830c8b4c9d61b9f108ba3d@merlin-cinemas-calendar
