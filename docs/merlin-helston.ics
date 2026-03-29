@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Helston Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Helston
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:49afc32ff8f7806bf26478924a4d3d8445db7656@merlin-cinemas-calendar
-DTSTAMP:20260328T000000Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260329
+UID:1a9261eb578279bec18693cbe41bdd24294ffc7b@merlin-cinemas-calendar
+DTSTAMP:20260329T000000Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
 SUMMARY:The Magic Faraway Tree @ Merlin Helston
 DESCRIPTION:The Magic Faraway Tree\nFamily, Fantasy, Adventure\n\nSoon afte
  r the Thompson family’s arrival in the countryside, the three children – J
