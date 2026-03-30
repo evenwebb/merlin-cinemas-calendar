@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:d5ee321727a3045c928a49577e5d8f6d6212e588@merlin-cinemas-calendar
-DTSTAMP:20260329T000000Z
-DTSTART;VALUE=DATE:20260329
-DTEND;VALUE=DATE:20260330
+UID:c0c535d614aa0897b3cfb3f2ab7b733eb1126326@merlin-cinemas-calendar
+DTSTAMP:20260330T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
 SUMMARY:Ready Or Not 2: Here I Come @ Merlin Bodmin
 DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
  rviving an all-out attack from the Le Domas family, Grace discovers she’s 
@@ -27,10 +27,10 @@ URL:https://bodmin.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-co
  me
 END:VEVENT
 BEGIN:VEVENT
-UID:3d5f836915bf88a621aac3d9d1318d07baf48517@merlin-cinemas-calendar
-DTSTAMP:20260329T000000Z
-DTSTART;VALUE=DATE:20260329
-DTEND;VALUE=DATE:20260330
+UID:8506d3e4906a2ec4c8aad8097611e20dc8344285@merlin-cinemas-calendar
+DTSTAMP:20260330T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
 SUMMARY:The Magic Faraway Tree @ Merlin Bodmin
 DESCRIPTION:The Magic Faraway Tree\nFamily, Fantasy, Adventure\n\nSoon afte
  r the Thompson family’s arrival in the countryside, the three children – J
@@ -187,6 +187,23 @@ DESCRIPTION:Savage House\nDrama, Comedy\n\nAgainst the backdrop of 18th cen
  Book tickets: https://bodmin.merlincinemas.co.uk/film/109013-savage-house
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109013-savage-house
+END:VEVENT
+BEGIN:VEVENT
+UID:9ebd7ecd8a08a30a4361e4d004ba4e92751fc3c4@merlin-cinemas-calendar
+DTSTAMP:20260605T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Scary Movie @ Merlin Bodmin
+DESCRIPTION:Scary Movie\n★★★☆☆\nComedy\n\nA familiar-looking group of teena
+ gers find themselves being stalked by a more-than-vaguely recognizable mas
+ ked killer! As the victims begin to pile up and the laughs pile on, none o
+ f your favorite scary movies escape the razor-sharp satire of this outrage
+ ously funny parody!\n\nStarring: Anna Faris, Regina Hall, Marlon Wayans, S
+ hawn Wayans, Jon Abrahams, Lochlyn Munro\n\nFilm release at Merlin Cinemas
+  Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/film/109183-scar
+ y-movie
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/109183-scary-movie
 END:VEVENT
 BEGIN:VEVENT
 UID:6bb8478be6823cd2a2c2f33cb66b1b2225a726b4@merlin-cinemas-calendar

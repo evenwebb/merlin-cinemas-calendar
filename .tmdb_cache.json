@@ -352,5 +352,15 @@
     "director": "Denis Villeneuve",
     "cast": "Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson, Isaach de Bankolé",
     "cached_at": "2026-03-23T09:54:06.590303"
+  },
+  "scary-movie": {
+    "overview": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
+    "genres": [
+      "Comedy"
+    ],
+    "vote_average": 6.386,
+    "director": "Keenen Ivory Wayans",
+    "cast": "Anna Faris, Regina Hall, Marlon Wayans, Shawn Wayans, Jon Abrahams, Lochlyn Munro",
+    "cached_at": "2026-03-30T10:07:05.273857"
   }
 }

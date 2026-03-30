@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Falmouth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Falmouth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:90cd1255a27fc5e6968e9347706a2144d2a824df@merlin-cinemas-calendar
-DTSTAMP:20260329T000000Z
-DTSTART;VALUE=DATE:20260329
-DTEND;VALUE=DATE:20260330
+UID:89ae8bed1de06427f74bc01686447fe1a7d4f79c@merlin-cinemas-calendar
+DTSTAMP:20260330T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
 SUMMARY:Ready Or Not 2: Here I Come @ Merlin Falmouth
 DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
  rviving an all-out attack from the Le Domas family, Grace discovers she’s 
@@ -27,10 +27,10 @@ URL:https://falmouth.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-
  come
 END:VEVENT
 BEGIN:VEVENT
-UID:21bd0bc10c6660f18bf93ef678cef8afd6efe31c@merlin-cinemas-calendar
-DTSTAMP:20260329T000000Z
-DTSTART;VALUE=DATE:20260329
-DTEND;VALUE=DATE:20260330
+UID:2809d065770f2e64348562b9bcf07cc2555ec372@merlin-cinemas-calendar
+DTSTAMP:20260330T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
 SUMMARY:The Magic Faraway Tree @ Merlin Falmouth
 DESCRIPTION:The Magic Faraway Tree\nFamily, Fantasy, Adventure\n\nSoon afte
  r the Thompson family’s arrival in the countryside, the three children – J
@@ -190,6 +190,23 @@ DESCRIPTION:Savage House\nDrama, Comedy\n\nAgainst the backdrop of 18th cen
  use
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/109013-savage-house
+END:VEVENT
+BEGIN:VEVENT
+UID:daecccedefc48ccb819d65f09e042597b615db37@merlin-cinemas-calendar
+DTSTAMP:20260605T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Scary Movie @ Merlin Falmouth
+DESCRIPTION:Scary Movie\n★★★☆☆\nComedy\n\nA familiar-looking group of teena
+ gers find themselves being stalked by a more-than-vaguely recognizable mas
+ ked killer! As the victims begin to pile up and the laughs pile on, none o
+ f your favorite scary movies escape the razor-sharp satire of this outrage
+ ously funny parody!\n\nStarring: Anna Faris, Regina Hall, Marlon Wayans, S
+ hawn Wayans, Jon Abrahams, Lochlyn Munro\n\nFilm release at Merlin Cinemas
+  Falmouth\nBook tickets: https://falmouth.merlincinemas.co.uk/film/109183-
+ scary-movie
+LOCATION:Merlin Cinemas Falmouth
+URL:https://falmouth.merlincinemas.co.uk/film/109183-scary-movie
 END:VEVENT
 BEGIN:VEVENT
 UID:22585f08c224620766ef9d2ee158ec23cb99a62f@merlin-cinemas-calendar

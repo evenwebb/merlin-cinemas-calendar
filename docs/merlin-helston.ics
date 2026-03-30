@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Helston Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Helston
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:1a9261eb578279bec18693cbe41bdd24294ffc7b@merlin-cinemas-calendar
-DTSTAMP:20260329T000000Z
-DTSTART;VALUE=DATE:20260329
-DTEND;VALUE=DATE:20260330
+UID:4a27744523f32b7661e6351ddecc3b2e26cd874d@merlin-cinemas-calendar
+DTSTAMP:20260330T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
 SUMMARY:The Magic Faraway Tree @ Merlin Helston
 DESCRIPTION:The Magic Faraway Tree\nFamily, Fantasy, Adventure\n\nSoon afte
  r the Thompson family’s arrival in the countryside, the three children – J
@@ -168,6 +168,23 @@ DESCRIPTION:Savage House\nDrama, Comedy\n\nAgainst the backdrop of 18th cen
  e
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109013-savage-house
+END:VEVENT
+BEGIN:VEVENT
+UID:0c69320d81343bfd0e06d22cdc6dc15697bc3603@merlin-cinemas-calendar
+DTSTAMP:20260605T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Scary Movie @ Merlin Helston
+DESCRIPTION:Scary Movie\n★★★☆☆\nComedy\n\nA familiar-looking group of teena
+ gers find themselves being stalked by a more-than-vaguely recognizable mas
+ ked killer! As the victims begin to pile up and the laughs pile on, none o
+ f your favorite scary movies escape the razor-sharp satire of this outrage
+ ously funny parody!\n\nStarring: Anna Faris, Regina Hall, Marlon Wayans, S
+ hawn Wayans, Jon Abrahams, Lochlyn Munro\n\nFilm release at Merlin Cinemas
+  Helston\nBook tickets: https://helston.merlincinemas.co.uk/film/109183-sc
+ ary-movie
+LOCATION:Merlin Cinemas Helston
+URL:https://helston.merlincinemas.co.uk/film/109183-scary-movie
 END:VEVENT
 BEGIN:VEVENT
 UID:131ba7165324e323a98467986f7680631299ac00@merlin-cinemas-calendar

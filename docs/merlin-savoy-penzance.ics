@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:6e0f2d87a68f4f159c41fbf1250687c01233b751@merlin-cinemas-calendar
-DTSTAMP:20260329T000000Z
-DTSTART;VALUE=DATE:20260329
-DTEND;VALUE=DATE:20260330
+UID:7fb4165efca5f669be30663cd6a8fb86be4dc405@merlin-cinemas-calendar
+DTSTAMP:20260330T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
 SUMMARY:Ready Or Not 2: Here I Come @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
  rviving an all-out attack from the Le Domas family, Grace discovers she’s 
@@ -27,10 +27,10 @@ URL:https://penzance.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-
  come
 END:VEVENT
 BEGIN:VEVENT
-UID:ad05aa0359c70a9b6d0747ad09a1d1bf569c96b9@merlin-cinemas-calendar
-DTSTAMP:20260329T000000Z
-DTSTART;VALUE=DATE:20260329
-DTEND;VALUE=DATE:20260330
+UID:5b410359f3d468117243b0aaab0ce17eaa5e119c@merlin-cinemas-calendar
+DTSTAMP:20260330T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
 SUMMARY:The Magic Faraway Tree @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:The Magic Faraway Tree\nFamily, Fantasy, Adventure\n\nSoon afte
  r the Thompson family’s arrival in the countryside, the three children – J

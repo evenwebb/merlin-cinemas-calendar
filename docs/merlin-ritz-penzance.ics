@@ -150,6 +150,23 @@ LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/109013-savage-house
 END:VEVENT
 BEGIN:VEVENT
+UID:52564a1efa0b9dee4cc5fbfc6b932bb9b1dec82f@merlin-cinemas-calendar
+DTSTAMP:20260605T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Scary Movie @ Merlin The Ritz, Penzance
+DESCRIPTION:Scary Movie\n★★★☆☆\nComedy\n\nA familiar-looking group of teena
+ gers find themselves being stalked by a more-than-vaguely recognizable mas
+ ked killer! As the victims begin to pile up and the laughs pile on, none o
+ f your favorite scary movies escape the razor-sharp satire of this outrage
+ ously funny parody!\n\nStarring: Anna Faris, Regina Hall, Marlon Wayans, S
+ hawn Wayans, Jon Abrahams, Lochlyn Munro\n\nFilm release at Merlin Cinemas
+  The Ritz, Penzance\nBook tickets: https://ritz.merlincinemas.co.uk/film/1
+ 09183-scary-movie
+LOCATION:Merlin Cinemas The Ritz, Penzance
+URL:https://ritz.merlincinemas.co.uk/film/109183-scary-movie
+END:VEVENT
+BEGIN:VEVENT
 UID:c0ee9531ea940e7030aee802fd5193211d0b1f06@merlin-cinemas-calendar
 DTSTAMP:20260612T000000Z
 DTSTART;VALUE=DATE:20260612
