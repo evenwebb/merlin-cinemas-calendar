@@ -7,26 +7,6 @@ X-WR-CALNAME:Merlin Helston Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Helston
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:4a27744523f32b7661e6351ddecc3b2e26cd874d@merlin-cinemas-calendar
-DTSTAMP:20260330T000000Z
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260331
-SUMMARY:The Magic Faraway Tree @ Merlin Helston
-DESCRIPTION:The Magic Faraway Tree\nFamily, Fantasy, Adventure\n\nSoon afte
- r the Thompson family’s arrival in the countryside, the three children – J
- oe, Beth, and Fran – discover a magical tree and its extraordinary and ecc
- entric residents, including Moonface, Silky, Dame Washalot, and Saucepan M
- an. At the top of the tree, they're transported to spectacular and fantast
- ical lands and, through the joys and challenges of their adventures, the T
- hompsons learn to reconnect and value each other for the first time in yea
- rs.\n\nStarring: Claire Foy, Andrew Garfield, Phoenix Laroche, Delilah Ben
- nett-Cardy, Billie Gadsdon, Jennifer Saunders\n\nFilm release at Merlin Ci
- nemas Helston\nBook tickets: https://helston.merlincinemas.co.uk/film/1055
- 38-the-magic-faraway-tree
-LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/105538-the-magic-faraway-tree
-END:VEVENT
-BEGIN:VEVENT
 UID:ba597f161294a2814a830c8b4c9d61b9f108ba3d@merlin-cinemas-calendar
 DTSTAMP:20260417T000000Z
 DTSTART;VALUE=DATE:20260417
@@ -304,6 +284,23 @@ LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109011-spiderman-brand-new-day
 END:VEVENT
 BEGIN:VEVENT
+UID:3b2e370c42df10ad6f5764c57e2d7deae6a3c46a@merlin-cinemas-calendar
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Pressure @ Merlin Helston
+DESCRIPTION:Pressure\nThriller, History, War\n\nIn the tense 72 hours befor
+ e D-Day, and the fate of the free world hanging in the balance, General Dw
+ ight D. Eisenhower and Captain James Stagg face an impossible choice—launc
+ h the largest and most dangerous seaborne invasion in history or risk losi
+ ng the war altogether.\n\nStarring: Andrew Scott, Brendan Fraser, Kerry Co
+ ndon, Chris Messina, Damian Lewis, Con O'Neill\n\nFilm release at Merlin C
+ inemas Helston\nBook tickets: https://helston.merlincinemas.co.uk/film/109
+ 185-pressure
+LOCATION:Merlin Cinemas Helston
+URL:https://helston.merlincinemas.co.uk/film/109185-pressure
+END:VEVENT
+BEGIN:VEVENT
 UID:d3e3985b7bebed3e0147cb4c1529ecd0c070bd49@merlin-cinemas-calendar
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
@@ -322,6 +319,22 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-bea
  st-of-mossy-bottom
+END:VEVENT
+BEGIN:VEVENT
+UID:e55589f774a10902b264ebd901b3967cf8dafa3d@merlin-cinemas-calendar
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Forgotten Island @ Merlin Helston
+DESCRIPTION:Forgotten Island\nComedy, Adventure, Animation, Fantasy, Family
+ \n\nJo and Raissa find themselves stranded on the fantastic world of the f
+ orgotten island of Nakali. They find that their only way home might come a
+ t the expense of a lifetime of memories and emotions.\n\nStarring: H.E.R.,
+  Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto, Dolly de Leon\n\n
+ Film release at Merlin Cinemas Helston\nBook tickets: https://helston.merl
+ incinemas.co.uk/film/109186-forgotten-island
+LOCATION:Merlin Cinemas Helston
+URL:https://helston.merlincinemas.co.uk/film/109186-forgotten-island
 END:VEVENT
 BEGIN:VEVENT
 UID:e39dd585baa94869bd9a93e5f4ad85f9b3e9d52b@merlin-cinemas-calendar

@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Falmouth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Falmouth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:89ae8bed1de06427f74bc01686447fe1a7d4f79c@merlin-cinemas-calendar
-DTSTAMP:20260330T000000Z
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260331
+UID:3019140f81d3b4a9c5711103edfb04559529c3d1@merlin-cinemas-calendar
+DTSTAMP:20260331T000000Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
 SUMMARY:Ready Or Not 2: Here I Come @ Merlin Falmouth
 DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
  rviving an all-out attack from the Le Domas family, Grace discovers she’s 
@@ -25,26 +25,6 @@ DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-
  come
-END:VEVENT
-BEGIN:VEVENT
-UID:2809d065770f2e64348562b9bcf07cc2555ec372@merlin-cinemas-calendar
-DTSTAMP:20260330T000000Z
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260331
-SUMMARY:The Magic Faraway Tree @ Merlin Falmouth
-DESCRIPTION:The Magic Faraway Tree\nFamily, Fantasy, Adventure\n\nSoon afte
- r the Thompson family’s arrival in the countryside, the three children – J
- oe, Beth, and Fran – discover a magical tree and its extraordinary and ecc
- entric residents, including Moonface, Silky, Dame Washalot, and Saucepan M
- an. At the top of the tree, they're transported to spectacular and fantast
- ical lands and, through the joys and challenges of their adventures, the T
- hompsons learn to reconnect and value each other for the first time in yea
- rs.\n\nStarring: Claire Foy, Andrew Garfield, Phoenix Laroche, Delilah Ben
- nett-Cardy, Billie Gadsdon, Jennifer Saunders\n\nFilm release at Merlin Ci
- nemas Falmouth\nBook tickets: https://falmouth.merlincinemas.co.uk/film/10
- 5538-the-magic-faraway-tree
-LOCATION:Merlin Cinemas Falmouth
-URL:https://falmouth.merlincinemas.co.uk/film/105538-the-magic-faraway-tree
 END:VEVENT
 BEGIN:VEVENT
 UID:4beab7b3d46136881250f42828bf7391003a062e@merlin-cinemas-calendar
@@ -327,6 +307,23 @@ URL:https://falmouth.merlincinemas.co.uk/film/109011-spiderman-brand-new-da
  y
 END:VEVENT
 BEGIN:VEVENT
+UID:af9e9a70005311acef89c7ccd1241c9ad2f36da5@merlin-cinemas-calendar
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Pressure @ Merlin Falmouth
+DESCRIPTION:Pressure\nThriller, History, War\n\nIn the tense 72 hours befor
+ e D-Day, and the fate of the free world hanging in the balance, General Dw
+ ight D. Eisenhower and Captain James Stagg face an impossible choice—launc
+ h the largest and most dangerous seaborne invasion in history or risk losi
+ ng the war altogether.\n\nStarring: Andrew Scott, Brendan Fraser, Kerry Co
+ ndon, Chris Messina, Damian Lewis, Con O'Neill\n\nFilm release at Merlin C
+ inemas Falmouth\nBook tickets: https://falmouth.merlincinemas.co.uk/film/1
+ 09185-pressure
+LOCATION:Merlin Cinemas Falmouth
+URL:https://falmouth.merlincinemas.co.uk/film/109185-pressure
+END:VEVENT
+BEGIN:VEVENT
 UID:2f3e68b812b599c2877cc50fc3f5759bbe1ce0af@merlin-cinemas-calendar
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
@@ -345,6 +342,22 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-be
  ast-of-mossy-bottom
+END:VEVENT
+BEGIN:VEVENT
+UID:f269beae8b80c4cfadf917f4bbdf934ba6fdc5bc@merlin-cinemas-calendar
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Forgotten Island @ Merlin Falmouth
+DESCRIPTION:Forgotten Island\nComedy, Adventure, Animation, Fantasy, Family
+ \n\nJo and Raissa find themselves stranded on the fantastic world of the f
+ orgotten island of Nakali. They find that their only way home might come a
+ t the expense of a lifetime of memories and emotions.\n\nStarring: H.E.R.,
+  Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto, Dolly de Leon\n\n
+ Film release at Merlin Cinemas Falmouth\nBook tickets: https://falmouth.me
+ rlincinemas.co.uk/film/109186-forgotten-island
+LOCATION:Merlin Cinemas Falmouth
+URL:https://falmouth.merlincinemas.co.uk/film/109186-forgotten-island
 END:VEVENT
 BEGIN:VEVENT
 UID:04c9f145c8495b094c2cf408e11b255fbbce212d@merlin-cinemas-calendar

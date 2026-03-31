@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:7fb4165efca5f669be30663cd6a8fb86be4dc405@merlin-cinemas-calendar
-DTSTAMP:20260330T000000Z
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260331
+UID:2f135416adf56e8e9fb12b2717c1c25a7ee82de3@merlin-cinemas-calendar
+DTSTAMP:20260331T000000Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
 SUMMARY:Ready Or Not 2: Here I Come @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
  rviving an all-out attack from the Le Domas family, Grace discovers she’s 
@@ -25,26 +25,6 @@ DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-
  come
-END:VEVENT
-BEGIN:VEVENT
-UID:5b410359f3d468117243b0aaab0ce17eaa5e119c@merlin-cinemas-calendar
-DTSTAMP:20260330T000000Z
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260331
-SUMMARY:The Magic Faraway Tree @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:The Magic Faraway Tree\nFamily, Fantasy, Adventure\n\nSoon afte
- r the Thompson family’s arrival in the countryside, the three children – J
- oe, Beth, and Fran – discover a magical tree and its extraordinary and ecc
- entric residents, including Moonface, Silky, Dame Washalot, and Saucepan M
- an. At the top of the tree, they're transported to spectacular and fantast
- ical lands and, through the joys and challenges of their adventures, the T
- hompsons learn to reconnect and value each other for the first time in yea
- rs.\n\nStarring: Claire Foy, Andrew Garfield, Phoenix Laroche, Delilah Ben
- nett-Cardy, Billie Gadsdon, Jennifer Saunders\n\nFilm release at Merlin Ci
- nemas Savoy Cinema, Penzance\nBook tickets: https://penzance.merlincinemas
- .co.uk/film/105538-the-magic-faraway-tree
-LOCATION:Merlin Cinemas Savoy Cinema, Penzance
-URL:https://penzance.merlincinemas.co.uk/film/105538-the-magic-faraway-tree
 END:VEVENT
 BEGIN:VEVENT
 UID:ffeb06be46e0060cbbf57a41b3ddd1f88e278bc0@merlin-cinemas-calendar
@@ -194,6 +174,23 @@ LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109013-savage-house
 END:VEVENT
 BEGIN:VEVENT
+UID:6b25fa23feb4f1df096508b2d69890b2b8c1d917@merlin-cinemas-calendar
+DTSTAMP:20260605T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Scary Movie @ Merlin Savoy Cinema, Penzance
+DESCRIPTION:Scary Movie\n★★★☆☆\nComedy\n\nA familiar-looking group of teena
+ gers find themselves being stalked by a more-than-vaguely recognizable mas
+ ked killer! As the victims begin to pile up and the laughs pile on, none o
+ f your favorite scary movies escape the razor-sharp satire of this outrage
+ ously funny parody!\n\nStarring: Anna Faris, Regina Hall, Marlon Wayans, S
+ hawn Wayans, Jon Abrahams, Lochlyn Munro\n\nFilm release at Merlin Cinemas
+  Savoy Cinema, Penzance\nBook tickets: https://penzance.merlincinemas.co.u
+ k/film/109183-scary-movie
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/109183-scary-movie
+END:VEVENT
+BEGIN:VEVENT
 UID:50b4281b22524a571d1125f90195303e7c6aee2d@merlin-cinemas-calendar
 DTSTAMP:20260612T000000Z
 DTSTART;VALUE=DATE:20260612
@@ -312,6 +309,23 @@ URL:https://penzance.merlincinemas.co.uk/film/109011-spiderman-brand-new-da
  y
 END:VEVENT
 BEGIN:VEVENT
+UID:a94c4d6fdf7bdb7836ed7c62a20febfeaa2bc3d0@merlin-cinemas-calendar
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Pressure @ Merlin Savoy Cinema, Penzance
+DESCRIPTION:Pressure\nThriller, History, War\n\nIn the tense 72 hours befor
+ e D-Day, and the fate of the free world hanging in the balance, General Dw
+ ight D. Eisenhower and Captain James Stagg face an impossible choice—launc
+ h the largest and most dangerous seaborne invasion in history or risk losi
+ ng the war altogether.\n\nStarring: Andrew Scott, Brendan Fraser, Kerry Co
+ ndon, Chris Messina, Damian Lewis, Con O'Neill\n\nFilm release at Merlin C
+ inemas Savoy Cinema, Penzance\nBook tickets: https://penzance.merlincinema
+ s.co.uk/film/109185-pressure
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/109185-pressure
+END:VEVENT
+BEGIN:VEVENT
 UID:d7b6e4c432470c27b13d976e36b19406ad52f75e@merlin-cinemas-calendar
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
@@ -331,6 +345,22 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-be
  ast-of-mossy-bottom
+END:VEVENT
+BEGIN:VEVENT
+UID:3b914f62fe0fef48c77961e42212e78514259c96@merlin-cinemas-calendar
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Forgotten Island @ Merlin Savoy Cinema, Penzance
+DESCRIPTION:Forgotten Island\nComedy, Adventure, Animation, Fantasy, Family
+ \n\nJo and Raissa find themselves stranded on the fantastic world of the f
+ orgotten island of Nakali. They find that their only way home might come a
+ t the expense of a lifetime of memories and emotions.\n\nStarring: H.E.R.,
+  Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto, Dolly de Leon\n\n
+ Film release at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https
+ ://penzance.merlincinemas.co.uk/film/109186-forgotten-island
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/109186-forgotten-island
 END:VEVENT
 BEGIN:VEVENT
 UID:993f503d9d7b813913a104b1a230507afdb48fe6@merlin-cinemas-calendar
