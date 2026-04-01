@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:2dd33bcc328bf5a92564639eb42b35a42ad8acd5@merlin-cinemas-calendar
-DTSTAMP:20260331T000000Z
-DTSTART;VALUE=DATE:20260331
-DTEND;VALUE=DATE:20260401
+UID:6721c7296864cee7145dc20c885a62e6f8c93218@merlin-cinemas-calendar
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
 SUMMARY:Ready Or Not 2: Here I Come @ Merlin Bodmin
 DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
  rviving an all-out attack from the Le Domas family, Grace discovers she’s 
