@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:81ce9f58b98f53d6423335aa0ef01d1c1b096167@merlin-cinemas-calendar
-DTSTAMP:20260401T000000Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260402
+UID:5797d26dd09e80d5eb33fd56f8c2d87d44038486@merlin-cinemas-calendar
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
 SUMMARY:Ready Or Not 2: Here I Come @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
  rviving an all-out attack from the Le Domas family, Grace discovers she’s 
