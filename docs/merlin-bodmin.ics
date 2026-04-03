@@ -7,26 +7,6 @@ X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:1f2647b07afba0c288abd3062c2b52665784ced0@merlin-cinemas-calendar
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
-SUMMARY:Ready Or Not 2: Here I Come @ Merlin Bodmin
-DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
- rviving an all-out attack from the Le Domas family, Grace discovers she’s 
- reached the next level of the nightmarish game — and this time with her es
- tranged sister Faith at her side. Grace has one chance to survive, keep he
- r sister alive, and claim the High Seat of the Council that controls the w
- orld. Four rival families are hunting her for the throne, and whoever wins
-  rules it all.\n\nStarring: Samara Weaving, Kathryn Newton, Sarah Michelle
-  Gellar, Shawn Hatosy, Nestor Carbonell, David Cronenberg\n\nFilm release 
- at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk
- /film/106037-ready-or-not-2-here-i-come
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-co
- me
-END:VEVENT
-BEGIN:VEVENT
 UID:e10273084fbf4df0a725c11b7e9a13ea8a3a7197@merlin-cinemas-calendar
 DTSTAMP:20260417T000000Z
 DTSTART;VALUE=DATE:20260417

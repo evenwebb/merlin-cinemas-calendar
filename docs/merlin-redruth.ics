@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:e316732fb3d88fc7cf69dbf5128a7af35d1c591f@merlin-cinemas-calendar
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
+UID:ea728e3e438f271c98c317a3e6a8f6e6bc94b915@merlin-cinemas-calendar
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
 SUMMARY:Ready Or Not 2: Here I Come @ Merlin Redruth
 DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
  rviving an all-out attack from the Le Domas family, Grace discovers she’s 
@@ -27,10 +27,10 @@ URL:https://redruth.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-c
  ome
 END:VEVENT
 BEGIN:VEVENT
-UID:9be8f254b7d5a24c44d89180df48856d3bb08f89@merlin-cinemas-calendar
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
+UID:956cf3ba37a71aa5440e5f882a830ae2906303ba@merlin-cinemas-calendar
+DTSTAMP:20260404T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
 SUMMARY:They Will Kill You @ Merlin Redruth
 DESCRIPTION:They Will Kill You\nAction, Comedy, Horror\n\nA woman answers a
   help wanted ad to be a housekeeper in a mysterious high-rise in New York 

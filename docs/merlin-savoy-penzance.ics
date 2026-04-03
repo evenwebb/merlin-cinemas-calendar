@@ -7,26 +7,6 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:5797d26dd09e80d5eb33fd56f8c2d87d44038486@merlin-cinemas-calendar
-DTSTAMP:20260402T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
-SUMMARY:Ready Or Not 2: Here I Come @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
- rviving an all-out attack from the Le Domas family, Grace discovers she’s 
- reached the next level of the nightmarish game — and this time with her es
- tranged sister Faith at her side. Grace has one chance to survive, keep he
- r sister alive, and claim the High Seat of the Council that controls the w
- orld. Four rival families are hunting her for the throne, and whoever wins
-  rules it all.\n\nStarring: Samara Weaving, Kathryn Newton, Sarah Michelle
-  Gellar, Shawn Hatosy, Nestor Carbonell, David Cronenberg\n\nFilm release 
- at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.m
- erlincinemas.co.uk/film/106037-ready-or-not-2-here-i-come
-LOCATION:Merlin Cinemas Savoy Cinema, Penzance
-URL:https://penzance.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-
- come
-END:VEVENT
-BEGIN:VEVENT
 UID:ffeb06be46e0060cbbf57a41b3ddd1f88e278bc0@merlin-cinemas-calendar
 DTSTAMP:20260417T000000Z
 DTSTART;VALUE=DATE:20260417
