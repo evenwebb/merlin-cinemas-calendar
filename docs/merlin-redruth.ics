@@ -7,40 +7,41 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:ea728e3e438f271c98c317a3e6a8f6e6bc94b915@merlin-cinemas-calendar
-DTSTAMP:20260403T000000Z
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
-SUMMARY:Ready Or Not 2: Here I Come @ Merlin Redruth
-DESCRIPTION:Ready Or Not 2: Here I Come\nHorror, Comedy\n\nMoments after su
- rviving an all-out attack from the Le Domas family, Grace discovers she’s 
- reached the next level of the nightmarish game — and this time with her es
- tranged sister Faith at her side. Grace has one chance to survive, keep he
- r sister alive, and claim the High Seat of the Council that controls the w
- orld. Four rival families are hunting her for the throne, and whoever wins
-  rules it all.\n\nStarring: Samara Weaving, Kathryn Newton, Sarah Michelle
-  Gellar, Shawn Hatosy, Nestor Carbonell, David Cronenberg\n\nFilm release 
- at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.
- uk/film/106037-ready-or-not-2-here-i-come
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-c
- ome
-END:VEVENT
-BEGIN:VEVENT
 UID:956cf3ba37a71aa5440e5f882a830ae2906303ba@merlin-cinemas-calendar
 DTSTAMP:20260404T000000Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260405
 SUMMARY:They Will Kill You @ Merlin Redruth
-DESCRIPTION:They Will Kill You\nAction, Comedy, Horror\n\nA woman answers a
-  help wanted ad to be a housekeeper in a mysterious high-rise in New York 
- City, not realizing she is entering a community that has seen a number of 
- disappearances over the years and may be under the grip of a Satanic cult.
- \n\nStarring: Zazie Beetz, Patricia Arquette, Heather Graham, Myha'la, Pat
- erson Joseph, Tom Felton\n\nFilm release at Merlin Cinemas Redruth\nBook t
- ickets: https://redruth.merlincinemas.co.uk/film/106687-they-will-kill-you
+DESCRIPTION:They Will Kill You\n★★★☆☆\nAction, Comedy, Horror\n\nA woman an
+ swers a help wanted ad to be a housekeeper in a mysterious high-rise in Ne
+ w York City, not realizing she is entering a community that has seen a num
+ ber of disappearances over the years and may be under the grip of a Satani
+ c cult.\n\nStarring: Zazie Beetz, Patricia Arquette, Myha'la, Paterson Jos
+ eph, Tom Felton, Heather Graham\n\nFilm release at Merlin Cinemas Redruth\
+ nBook tickets: https://redruth.merlincinemas.co.uk/film/106687-they-will-k
+ ill-you
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/106687-they-will-kill-you
+END:VEVENT
+BEGIN:VEVENT
+UID:6511e910f83e28fa2522b487289377047cff7ce9@merlin-cinemas-calendar
+DTSTAMP:20260405T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Ready Or Not 2: Here I Come @ Merlin Redruth
+DESCRIPTION:Ready Or Not 2: Here I Come\n★★★★☆\nHorror, Comedy\n\nMoments a
+ fter surviving an all-out attack from the Le Domas family, Grace discovers
+  she’s reached the next level of the nightmarish game — and this time with
+  her estranged sister Faith at her side. Grace has one chance to survive, 
+ keep her sister alive, and claim the High Seat of the Council that control
+ s the world. Four rival families are hunting her for the throne, and whoev
+ er wins rules it all.\n\nStarring: Samara Weaving, Kathryn Newton, Elijah 
+ Wood, Sarah Michelle Gellar, Shawn Hatosy, David Cronenberg\n\nFilm releas
+ e at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.c
+ o.uk/film/106037-ready-or-not-2-here-i-come
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-c
+ ome
 END:VEVENT
 BEGIN:VEVENT
 UID:d2a833d755d3b5d334f88001d7bd096f002ab2cd@merlin-cinemas-calendar
@@ -82,16 +83,16 @@ DTSTAMP:20260422T000000Z
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
 SUMMARY:Michael @ Merlin Redruth
-DESCRIPTION:Michael\nMusic, Drama\n\nDiscover the story of Michael Jackson,
-  one of the most influential artists the world has ever known, and his lif
- e beyond the music, tracing his journey from the discovery of his extraord
- inary talent as the lead of the Jackson Five, to the visionary artist whos
- e creative ambition fueled a relentless pursuit to become the biggest ente
- rtainer in the world, highlighting both his life off-stage and some of the
-  most iconic performances from his early solo career.\n\nStarring: Jaafar 
- Jackson, Colman Domingo, Nia Long, Kendrick Sampson, Miles Teller, Juliano
-  Krue Valdi\n\nFilm release at Merlin Cinemas Redruth\nBook tickets: https
- ://redruth.merlincinemas.co.uk/film/93222-michael
+DESCRIPTION:Michael\nMusic, Drama, History\n\nDiscover the story of Michael
+  Jackson, one of the most influential artists the world has ever known, an
+ d his life beyond the music, tracing his journey from the discovery of his
+  extraordinary talent as the lead of the Jackson Five, to the visionary ar
+ tist whose creative ambition fueled a relentless pursuit to become the big
+ gest entertainer in the world, highlighting both his life off-stage and so
+ me of the most iconic performances from his early solo career.\n\nStarring
+ : Jaafar Jackson, Colman Domingo, Nia Long, Kendrick Sampson, Miles Teller
+ , Juliano Krue Valdi\n\nFilm release at Merlin Cinemas Redruth\nBook ticke
+ ts: https://redruth.merlincinemas.co.uk/film/93222-michael
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/93222-michael
 END:VEVENT
@@ -259,9 +260,10 @@ DESCRIPTION:Minions & Monsters\nAnimation, Family, Comedy, Adventure, Fanta
  sy\n\nThis is the rambunctious, ridiculous and totally true story of how t
  he Minions conquered Hollywood, became movie stars, lost everything, unlea
  shed monsters onto the world and then banded together to try and save the 
- planet from the mayhem they had just created.\n\nStarring: Pierre Coffin\n
- \nFilm release at Merlin Cinemas Redruth\nBook tickets: https://redruth.me
- rlincinemas.co.uk/film/105910-minions-monsters
+ planet from the mayhem they had just created.\n\nStarring: Pierre Coffin, 
+ Allison Janney, Christoph Waltz, Jeff Bridges, Jesse Eisenberg, Trey Parke
+ r\n\nFilm release at Merlin Cinemas Redruth\nBook tickets: https://redruth
+ .merlincinemas.co.uk/film/105910-minions-monsters
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/105910-minions-monsters
 END:VEVENT
