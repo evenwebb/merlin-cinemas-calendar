@@ -41,10 +41,10 @@ LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/106935-lee-cronins-the-mummy
 END:VEVENT
 BEGIN:VEVENT
-UID:67b0f27601abfd25c8fcf2dbc4beb8938e19fc90@merlin-cinemas-calendar
-DTSTAMP:20260422T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
+UID:e169335fdce1152584d6b24d6380981b4062a421@merlin-cinemas-calendar
+DTSTAMP:20260424T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
 SUMMARY:Michael @ Merlin St Ives
 DESCRIPTION:Michael\nMusic, Drama, History\n\nDiscover the story of Michael
   Jackson, one of the most influential artists the world has ever known, an

@@ -7,26 +7,6 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:6511e910f83e28fa2522b487289377047cff7ce9@merlin-cinemas-calendar
-DTSTAMP:20260405T000000Z
-DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260406
-SUMMARY:Ready Or Not 2: Here I Come @ Merlin Redruth
-DESCRIPTION:Ready Or Not 2: Here I Come\n★★★★☆\nHorror, Comedy\n\nMoments a
- fter surviving an all-out attack from the Le Domas family, Grace discovers
-  she’s reached the next level of the nightmarish game — and this time with
-  her estranged sister Faith at her side. Grace has one chance to survive, 
- keep her sister alive, and claim the High Seat of the Council that control
- s the world. Four rival families are hunting her for the throne, and whoev
- er wins rules it all.\n\nStarring: Samara Weaving, Kathryn Newton, Elijah 
- Wood, Sarah Michelle Gellar, Shawn Hatosy, David Cronenberg\n\nFilm releas
- e at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.c
- o.uk/film/106037-ready-or-not-2-here-i-come
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-c
- ome
-END:VEVENT
-BEGIN:VEVENT
 UID:790446391a5df6c9e3ae4e7e58f9cbe9d505fe5e@merlin-cinemas-calendar
 DTSTAMP:20260406T000000Z
 DTSTART;VALUE=DATE:20260406
@@ -42,6 +22,26 @@ DESCRIPTION:They Will Kill You\n★★★☆☆\nAction, Comedy, Horror\n\nA wom
  ill-you
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/106687-they-will-kill-you
+END:VEVENT
+BEGIN:VEVENT
+UID:5ad0b8ddfdf266273d4545db8d74a03730d44f5d@merlin-cinemas-calendar
+DTSTAMP:20260407T000000Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:Ready Or Not 2: Here I Come @ Merlin Redruth
+DESCRIPTION:Ready Or Not 2: Here I Come\n★★★★☆\nHorror, Comedy\n\nMoments a
+ fter surviving an all-out attack from the Le Domas family, Grace discovers
+  she’s reached the next level of the nightmarish game — and this time with
+  her estranged sister Faith at her side. Grace has one chance to survive, 
+ keep her sister alive, and claim the High Seat of the Council that control
+ s the world. Four rival families are hunting her for the throne, and whoev
+ er wins rules it all.\n\nStarring: Samara Weaving, Kathryn Newton, Elijah 
+ Wood, Sarah Michelle Gellar, Shawn Hatosy, David Cronenberg\n\nFilm releas
+ e at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.c
+ o.uk/film/106037-ready-or-not-2-here-i-come
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-c
+ ome
 END:VEVENT
 BEGIN:VEVENT
 UID:d2a833d755d3b5d334f88001d7bd096f002ab2cd@merlin-cinemas-calendar
