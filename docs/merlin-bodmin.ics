@@ -284,6 +284,29 @@ LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109011-spiderman-brand-new-day
 END:VEVENT
 BEGIN:VEVENT
+UID:edd5038c149bb583435267d70fa6a19be7d56735@merlin-cinemas-calendar
+DTSTAMP:20260807T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:PAW Patrol: The Dino Movie @ Merlin Bodmin
+DESCRIPTION:PAW Patrol: The Dino Movie\nAnimation, Adventure, Family, Comed
+ y\n\nThe PAW Patrol pups crash land on an uncharted tropical island filled
+  with dinosaurs after their ship gets caught in a mysterious storm. They m
+ eet Rex, a pup who has been stranded on the island for years and has becom
+ e an expert in all things dino-related. When the Patrol’s archrival, Mayor
+  Humdinger, begins recklessly mining in hopes of exploiting the island for
+  its natural resources, he inadvertently causes a huge, dormant volcano to
+  erupt. The pups are thrown into a series of high-stakes, dino-sized rescu
+ es bigger than anything they’ve done before, as they must stop Humdinger b
+ efore everything on the island goes extinct.\n\nStarring: Mckenna Grace, R
+ ain Janjua, Henry Bolan, Lucien Duncan-Reid, Nylan Parthipan, Carter Young
+ \n\nFilm release at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.me
+ rlincinemas.co.uk/film/109428-paw-patrol-the-dino-movie
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-movi
+ e
+END:VEVENT
+BEGIN:VEVENT
 UID:905dfb226033e6df7940b26be8c4047c5f3ca79b@merlin-cinemas-calendar
 DTSTAMP:20260911T000000Z
 DTSTART;VALUE=DATE:20260911

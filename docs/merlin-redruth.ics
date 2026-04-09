@@ -7,23 +7,6 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:7dea0e8d051708acc13f915a88157b3c14691404@merlin-cinemas-calendar
-DTSTAMP:20260408T000000Z
-DTSTART;VALUE=DATE:20260408
-DTEND;VALUE=DATE:20260409
-SUMMARY:They Will Kill You @ Merlin Redruth
-DESCRIPTION:They Will Kill You\n★★★☆☆\nAction, Comedy, Horror\n\nA woman an
- swers a help wanted ad to be a housekeeper in a mysterious high-rise in Ne
- w York City, not realizing she is entering a community that has seen a num
- ber of disappearances over the years and may be under the grip of a Satani
- c cult.\n\nStarring: Zazie Beetz, Patricia Arquette, Myha'la, Paterson Jos
- eph, Tom Felton, Heather Graham\n\nFilm release at Merlin Cinemas Redruth\
- nBook tickets: https://redruth.merlincinemas.co.uk/film/106687-they-will-k
- ill-you
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/106687-they-will-kill-you
-END:VEVENT
-BEGIN:VEVENT
 UID:64f7ef5747a423186b6933e16b3f4878135224c9@merlin-cinemas-calendar
 DTSTAMP:20260409T000000Z
 DTSTART;VALUE=DATE:20260409
@@ -42,6 +25,23 @@ DESCRIPTION:Ready Or Not 2: Here I Come\n★★★★☆\nHorror, Comedy\n\nMome
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/106037-ready-or-not-2-here-i-c
  ome
+END:VEVENT
+BEGIN:VEVENT
+UID:c818c6d2e0216d261d66c6035405e4a7b03440e8@merlin-cinemas-calendar
+DTSTAMP:20260410T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:They Will Kill You @ Merlin Redruth
+DESCRIPTION:They Will Kill You\n★★★☆☆\nAction, Comedy, Horror\n\nA woman an
+ swers a help wanted ad to be a housekeeper in a mysterious high-rise in Ne
+ w York City, not realizing she is entering a community that has seen a num
+ ber of disappearances over the years and may be under the grip of a Satani
+ c cult.\n\nStarring: Zazie Beetz, Patricia Arquette, Myha'la, Paterson Jos
+ eph, Tom Felton, Heather Graham\n\nFilm release at Merlin Cinemas Redruth\
+ nBook tickets: https://redruth.merlincinemas.co.uk/film/106687-they-will-k
+ ill-you
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/106687-they-will-kill-you
 END:VEVENT
 BEGIN:VEVENT
 UID:d2a833d755d3b5d334f88001d7bd096f002ab2cd@merlin-cinemas-calendar
@@ -320,6 +320,29 @@ DESCRIPTION:Spider-Man: Brand New Day\nScience Fiction, Action, Adventure\n
  lm/109011-spiderman-brand-new-day
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109011-spiderman-brand-new-day
+END:VEVENT
+BEGIN:VEVENT
+UID:4df8fe3d2f310181bc2794ac3e5781e09575e045@merlin-cinemas-calendar
+DTSTAMP:20260807T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:PAW Patrol: The Dino Movie @ Merlin Redruth
+DESCRIPTION:PAW Patrol: The Dino Movie\nAnimation, Adventure, Family, Comed
+ y\n\nThe PAW Patrol pups crash land on an uncharted tropical island filled
+  with dinosaurs after their ship gets caught in a mysterious storm. They m
+ eet Rex, a pup who has been stranded on the island for years and has becom
+ e an expert in all things dino-related. When the Patrol’s archrival, Mayor
+  Humdinger, begins recklessly mining in hopes of exploiting the island for
+  its natural resources, he inadvertently causes a huge, dormant volcano to
+  erupt. The pups are thrown into a series of high-stakes, dino-sized rescu
+ es bigger than anything they’ve done before, as they must stop Humdinger b
+ efore everything on the island goes extinct.\n\nStarring: Mckenna Grace, R
+ ain Janjua, Henry Bolan, Lucien Duncan-Reid, Nylan Parthipan, Carter Young
+ \n\nFilm release at Merlin Cinemas Redruth\nBook tickets: https://redruth.
+ merlincinemas.co.uk/film/109428-paw-patrol-the-dino-movie
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mov
+ ie
 END:VEVENT
 BEGIN:VEVENT
 UID:b6f12d9c3e710662a273fc44eeadb57a8154064b@merlin-cinemas-calendar

@@ -285,6 +285,29 @@ LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109011-spiderman-brand-new-day
 END:VEVENT
 BEGIN:VEVENT
+UID:76a970504f37e538ac5011df369063afa886764f@merlin-cinemas-calendar
+DTSTAMP:20260807T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:PAW Patrol: The Dino Movie @ Merlin St Ives
+DESCRIPTION:PAW Patrol: The Dino Movie\nAnimation, Adventure, Family, Comed
+ y\n\nThe PAW Patrol pups crash land on an uncharted tropical island filled
+  with dinosaurs after their ship gets caught in a mysterious storm. They m
+ eet Rex, a pup who has been stranded on the island for years and has becom
+ e an expert in all things dino-related. When the Patrol’s archrival, Mayor
+  Humdinger, begins recklessly mining in hopes of exploiting the island for
+  its natural resources, he inadvertently causes a huge, dormant volcano to
+  erupt. The pups are thrown into a series of high-stakes, dino-sized rescu
+ es bigger than anything they’ve done before, as they must stop Humdinger b
+ efore everything on the island goes extinct.\n\nStarring: Mckenna Grace, R
+ ain Janjua, Henry Bolan, Lucien Duncan-Reid, Nylan Parthipan, Carter Young
+ \n\nFilm release at Merlin Cinemas St Ives\nBook tickets: https://st-ives.
+ merlincinemas.co.uk/film/109428-paw-patrol-the-dino-movie
+LOCATION:Merlin Cinemas St Ives
+URL:https://st-ives.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mov
+ ie
+END:VEVENT
+BEGIN:VEVENT
 UID:65e4ddd03071c2466ab252aee905ca1c3c5d8b87@merlin-cinemas-calendar
 DTSTAMP:20260911T000000Z
 DTSTART;VALUE=DATE:20260911
