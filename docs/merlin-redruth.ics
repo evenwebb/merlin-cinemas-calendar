@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:c818c6d2e0216d261d66c6035405e4a7b03440e8@merlin-cinemas-calendar
-DTSTAMP:20260410T000000Z
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260411
+UID:fc757445f096a6a8797d2155317e883a0ac809b6@merlin-cinemas-calendar
+DTSTAMP:20260412T000000Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
 SUMMARY:They Will Kill You @ Merlin Redruth
 DESCRIPTION:They Will Kill You\n★★★☆☆\nAction, Comedy, Horror\n\nA woman an
  swers a help wanted ad to be a housekeeper in a mysterious high-rise in Ne
