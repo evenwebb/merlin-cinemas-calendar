@@ -1,53 +1,4 @@
 {
-  "merlin:/film/109183-scary-movie": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-04-07T09:58:32.317055"
-  },
-  "merlin:/film/109013-savage-house": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-04-07T09:58:33.831748"
-  },
-  "merlin:/film/109011-spiderman-brand-new-day": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-04-07T09:58:37.591640"
-  },
-  "merlin:/film/109185-pressure": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-04-07T09:58:36.812815"
-  },
-  "merlin:/film/109186-forgotten-island": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-04-07T09:58:35.442297"
-  },
-  "merlin:/film/109012-wild-horse-nine": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-04-07T09:58:40.962168"
-  },
-  "merlin:/film/109010-dune-part-three": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-04-07T09:58:42.923174"
-  },
   "merlin:/film/109428-paw-patrol-the-dino-movie": {
     "runtime": "",
     "cast": "Starring Ben 2026",
@@ -180,5 +131,61 @@
     "synopsis": "",
     "director": "",
     "cached_at": "2026-04-11T09:31:51.447910"
+  },
+  "merlin:/film/98552-mortal-kombat-ii": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-04-14T10:07:04.049497"
+  },
+  "merlin:/film/109183-scary-movie": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-04-14T10:07:06.719137"
+  },
+  "merlin:/film/109013-savage-house": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-04-14T10:07:10.365999"
+  },
+  "merlin:/film/109011-spiderman-brand-new-day": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "The original date has been rescheduled by the promoter, and this event will now take place on 3rd August. We have emailed all bookings, and all tickets will be valid for the new date. Please contact action@merlincinemas.co.uk if you need any further assistance",
+    "director": "",
+    "cached_at": "2026-04-14T10:07:07.596328"
+  },
+  "merlin:/film/109185-pressure": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-04-14T10:07:13.106268"
+  },
+  "merlin:/film/109186-forgotten-island": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "New air con, new seats, new toilets and better access. We look forward to seeing you soon!",
+    "director": "",
+    "cached_at": "2026-04-14T10:07:10.322865"
+  },
+  "merlin:/film/109012-wild-horse-nine": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-04-14T10:07:16.103352"
+  },
+  "merlin:/film/109010-dune-part-three": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-04-14T10:07:17.974065"
   }
 }

@@ -7,59 +7,6 @@ X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:e10273084fbf4df0a725c11b7e9a13ea8a3a7197@merlin-cinemas-calendar
-DTSTAMP:20260417T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Glenrothan @ Merlin Bodmin
-DESCRIPTION:Glenrothan\nDrama\n\nAfter 35 years in Chicago, Donal reluctant
- ly returns to the Scottish Highlands to reconcile with his estranged older
-  brother Sandy. Sandy needs Donal to take over the family's whisky distill
- ery or he'll be forced to sell and give up on the family's legacy. But the
- ir reunion forces the brothers to confront the past and the real reason Do
- nal left Glenrothan.\n\nStarring: Brian Cox, Alan Cumming, Shirley Henders
- on, Alexandra Shipp, Aidan Redmond, Jess Douglas-Welsh\n\nFilm release at 
- Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/fi
- lm/107323-glenrothan
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/107323-glenrothan
-END:VEVENT
-BEGIN:VEVENT
-UID:e7a0aa808edcc2402aae54adbe745c5516216488@merlin-cinemas-calendar
-DTSTAMP:20260417T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:Lee Cronin's The Mummy @ Merlin Bodmin
-DESCRIPTION:Lee Cronin's The Mummy\nHorror, Mystery\n\nThe young daughter o
- f a journalist disappears into the desert without a trace—eight years late
- r, the broken family is shocked when she is returned to them, as what shou
- ld be a joyful reunion turns into a living nightmare.\n\nStarring: Jack Re
- ynor, Laia Costa, May Calamawy, Natalie Grace, Veronica Falcón, Shylo Moli
- na\n\nFilm release at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.
- merlincinemas.co.uk/film/106935-lee-cronins-the-mummy
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/106935-lee-cronins-the-mummy
-END:VEVENT
-BEGIN:VEVENT
-UID:6d6c9c9c9a4fb1b6651f4ba93d84d34712aa494f@merlin-cinemas-calendar
-DTSTAMP:20260422T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:Michael @ Merlin Bodmin
-DESCRIPTION:Michael\nMusic, Drama, History\n\nDiscover the story of Michael
-  Jackson, one of the most influential artists the world has ever known, an
- d his life beyond the music, tracing his journey from the discovery of his
-  extraordinary talent as the lead of the Jackson Five, to the visionary ar
- tist whose creative ambition fueled a relentless pursuit to become the big
- gest entertainer in the world, highlighting both his life off-stage and so
- me of the most iconic performances from his early solo career.\n\nStarring
- : Jaafar Jackson, Colman Domingo, Nia Long, Kendrick Sampson, Miles Teller
- , Juliano Krue Valdi\n\nFilm release at Merlin Cinemas Bodmin\nBook ticket
- s: https://bodmin.merlincinemas.co.uk/film/93222-michael
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/93222-michael
-END:VEVENT
-BEGIN:VEVENT
 UID:e73382792a8e1e7e1b413180d603ff6bf4f341cb@merlin-cinemas-calendar
 DTSTAMP:20260501T000000Z
 DTSTART;VALUE=DATE:20260501
@@ -93,6 +40,23 @@ DESCRIPTION:The Sheep Detectives\nMystery, Crime, Comedy, Family\n\nGeorge
  incinemas.co.uk/film/106218-the-sheep-detectives
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/106218-the-sheep-detectives
+END:VEVENT
+BEGIN:VEVENT
+UID:b966518141424df7d75d9a1fd29a9ad975c09b8c@merlin-cinemas-calendar
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Mortal Kombat II @ Merlin Bodmin
+DESCRIPTION:Mortal Kombat II\nAction, Fantasy, Adventure\n\nThe fan favorit
+ e champions—now joined by Johnny Cage himself—are pitted against one anoth
+ er in the ultimate, no-holds barred, gory battle to defeat the dark rule o
+ f Shao Kahn that threatens the very existence of the Earthrealm and its de
+ fenders.\n\nStarring: Karl Urban, Adeline Rudolph, Jessica McNamee, Josh L
+ awson, Ludi Lin, Mehcad Brooks\n\nFilm release at Merlin Cinemas Bodmin\nB
+ ook tickets: https://bodmin.merlincinemas.co.uk/film/98552-mortal-kombat-i
+ i
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/98552-mortal-kombat-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:0a4655aaf01c11f70fdbe8312a5b6901f97b1b78@merlin-cinemas-calendar
