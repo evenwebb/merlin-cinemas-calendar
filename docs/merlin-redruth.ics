@@ -7,23 +7,6 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:147f74c4e32892949d6182b319ad103ddc0b22f4@merlin-cinemas-calendar
-DTSTAMP:20260415T000000Z
-DTSTART;VALUE=DATE:20260415
-DTEND;VALUE=DATE:20260416
-SUMMARY:They Will Kill You @ Merlin Redruth
-DESCRIPTION:They Will Kill You\n★★★☆☆\nAction, Comedy, Horror\n\nA woman an
- swers a help wanted ad to be a housekeeper in a mysterious high-rise in Ne
- w York City, not realizing she is entering a community that has seen a num
- ber of disappearances over the years and may be under the grip of a Satani
- c cult.\n\nStarring: Zazie Beetz, Patricia Arquette, Myha'la, Paterson Jos
- eph, Tom Felton, Heather Graham\n\nFilm release at Merlin Cinemas Redruth\
- nBook tickets: https://redruth.merlincinemas.co.uk/film/106687-they-will-k
- ill-you
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/106687-they-will-kill-you
-END:VEVENT
-BEGIN:VEVENT
 UID:b8cff47366dffe3582417748efbac1c35f5668e8@merlin-cinemas-calendar
 DTSTAMP:20260501T000000Z
 DTSTART;VALUE=DATE:20260501

@@ -1,11 +1,4 @@
 {
-  "merlin:/film/109428-paw-patrol-the-dino-movie": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-04-09T10:03:32.231424"
-  },
   "merlin:/film/107323-glenrothan": {
     "runtime": "",
     "cast": "",
@@ -187,5 +180,12 @@
     "synopsis": "",
     "director": "",
     "cached_at": "2026-04-14T10:07:17.974065"
+  },
+  "merlin:/film/109428-paw-patrol-the-dino-movie": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-04-16T10:07:05.992474"
   }
 }
