@@ -135,10 +135,10 @@ LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109183-scary-movie
 END:VEVENT
 BEGIN:VEVENT
-UID:50b4281b22524a571d1125f90195303e7c6aee2d@merlin-cinemas-calendar
-DTSTAMP:20260612T000000Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
+UID:7637343141e9a4abdf07baebeed55ade1f74cdc7@merlin-cinemas-calendar
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
 SUMMARY:Disclosure Day @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:Disclosure Day\nScience Fiction, Thriller, Mystery\n\nIf you fo
  und out we weren’t alone, if someone showed you, proved it to you, would t
@@ -277,10 +277,10 @@ URL:https://penzance.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mo
  vie
 END:VEVENT
 BEGIN:VEVENT
-UID:a94c4d6fdf7bdb7836ed7c62a20febfeaa2bc3d0@merlin-cinemas-calendar
-DTSTAMP:20260911T000000Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
+UID:086f1d7de4693673442e44d8d081a43560bec031@merlin-cinemas-calendar
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
 SUMMARY:Pressure @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:Pressure\nThriller, History, War\n\nIn the tense 72 hours befor
  e D-Day, and the fate of the free world hanging in the balance, General Dw

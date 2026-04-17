@@ -130,10 +130,10 @@ LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109183-scary-movie
 END:VEVENT
 BEGIN:VEVENT
-UID:6bb8478be6823cd2a2c2f33cb66b1b2225a726b4@merlin-cinemas-calendar
-DTSTAMP:20260612T000000Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
+UID:bc9653be2afef67ba97ef827077778e84eff647b@merlin-cinemas-calendar
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
 SUMMARY:Disclosure Day @ Merlin Bodmin
 DESCRIPTION:Disclosure Day\nScience Fiction, Thriller, Mystery\n\nIf you fo
  und out we weren’t alone, if someone showed you, proved it to you, would t
@@ -271,10 +271,10 @@ URL:https://bodmin.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-movi
  e
 END:VEVENT
 BEGIN:VEVENT
-UID:905dfb226033e6df7940b26be8c4047c5f3ca79b@merlin-cinemas-calendar
-DTSTAMP:20260911T000000Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
+UID:4cc9105c849a87f26964eb76f6e3e177159bf554@merlin-cinemas-calendar
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
 SUMMARY:Pressure @ Merlin Bodmin
 DESCRIPTION:Pressure\nThriller, History, War\n\nIn the tense 72 hours befor
  e D-Day, and the fate of the free world hanging in the balance, General Dw

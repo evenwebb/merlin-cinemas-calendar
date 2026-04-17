@@ -131,10 +131,10 @@ LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109183-scary-movie
 END:VEVENT
 BEGIN:VEVENT
-UID:dfc891d63f4f098ad06ff5a9f1ce55050a3752c7@merlin-cinemas-calendar
-DTSTAMP:20260612T000000Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
+UID:eec640abe0e6e927801888532737d2f10f43fe2d@merlin-cinemas-calendar
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
 SUMMARY:Disclosure Day @ Merlin St Ives
 DESCRIPTION:Disclosure Day\nScience Fiction, Thriller, Mystery\n\nIf you fo
  und out we weren’t alone, if someone showed you, proved it to you, would t
@@ -272,10 +272,10 @@ URL:https://st-ives.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mov
  ie
 END:VEVENT
 BEGIN:VEVENT
-UID:65e4ddd03071c2466ab252aee905ca1c3c5d8b87@merlin-cinemas-calendar
-DTSTAMP:20260911T000000Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
+UID:c8a299e4d48e33e76713bec1b51c08e14e479448@merlin-cinemas-calendar
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
 SUMMARY:Pressure @ Merlin St Ives
 DESCRIPTION:Pressure\nThriller, History, War\n\nIn the tense 72 hours befor
  e D-Day, and the fate of the free world hanging in the balance, General Dw

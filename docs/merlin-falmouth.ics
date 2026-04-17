@@ -133,10 +133,10 @@ LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/109183-scary-movie
 END:VEVENT
 BEGIN:VEVENT
-UID:22585f08c224620766ef9d2ee158ec23cb99a62f@merlin-cinemas-calendar
-DTSTAMP:20260612T000000Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
+UID:d1050aaadd90fb127da68335b6bca109782a792e@merlin-cinemas-calendar
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
 SUMMARY:Disclosure Day @ Merlin Falmouth
 DESCRIPTION:Disclosure Day\nScience Fiction, Thriller, Mystery\n\nIf you fo
  und out we weren’t alone, if someone showed you, proved it to you, would t
@@ -275,10 +275,10 @@ URL:https://falmouth.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mo
  vie
 END:VEVENT
 BEGIN:VEVENT
-UID:af9e9a70005311acef89c7ccd1241c9ad2f36da5@merlin-cinemas-calendar
-DTSTAMP:20260911T000000Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
+UID:a96068bb02b4cb894a7c058bcdbeb82d57496829@merlin-cinemas-calendar
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
 SUMMARY:Pressure @ Merlin Falmouth
 DESCRIPTION:Pressure\nThriller, History, War\n\nIn the tense 72 hours befor
  e D-Day, and the fate of the free world hanging in the balance, General Dw

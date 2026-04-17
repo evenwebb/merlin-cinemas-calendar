@@ -131,10 +131,10 @@ LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109183-scary-movie
 END:VEVENT
 BEGIN:VEVENT
-UID:131ba7165324e323a98467986f7680631299ac00@merlin-cinemas-calendar
-DTSTAMP:20260612T000000Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
+UID:82724f93eb94d2c719e044b325fee97e47b84c3c@merlin-cinemas-calendar
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
 SUMMARY:Disclosure Day @ Merlin Helston
 DESCRIPTION:Disclosure Day\nScience Fiction, Thriller, Mystery\n\nIf you fo
  und out we weren’t alone, if someone showed you, proved it to you, would t
@@ -272,10 +272,10 @@ URL:https://helston.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mov
  ie
 END:VEVENT
 BEGIN:VEVENT
-UID:3b2e370c42df10ad6f5764c57e2d7deae6a3c46a@merlin-cinemas-calendar
-DTSTAMP:20260911T000000Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
+UID:da01c81065bd3f8a35ed677aa5cce0ea995b3154@merlin-cinemas-calendar
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
 SUMMARY:Pressure @ Merlin Helston
 DESCRIPTION:Pressure\nThriller, History, War\n\nIn the tense 72 hours befor
  e D-Day, and the fate of the free world hanging in the balance, General Dw
