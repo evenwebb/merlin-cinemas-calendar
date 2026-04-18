@@ -272,6 +272,23 @@ URL:https://st-ives.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mov
  ie
 END:VEVENT
 BEGIN:VEVENT
+UID:8ee3ffba95e12c0c385180add5a16775206bf7c8@merlin-cinemas-calendar
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Insidious: Out Of The Further @ Merlin St Ives
+DESCRIPTION:Insidious: Out Of The Further\nHorror, Thriller\n\nA trio of st
+ alkers infiltrate a quiet suburb and force a new family into the astral pl
+ ane, where they uncover a terrifying truth: the Further is bleeding into t
+ he real world.\n\nStarring: Amelia Eve, Brandon Perea, Lin Shaye, Maisie R
+ ichardson-Sellers, Sam Spruell, Island Austin\n\nFilm release at Merlin Ci
+ nemas St Ives\nBook tickets: https://st-ives.merlincinemas.co.uk/film/1098
+ 08-insidious-out-of-the-further
+LOCATION:Merlin Cinemas St Ives
+URL:https://st-ives.merlincinemas.co.uk/film/109808-insidious-out-of-the-fu
+ rther
+END:VEVENT
+BEGIN:VEVENT
 UID:c8a299e4d48e33e76713bec1b51c08e14e479448@merlin-cinemas-calendar
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909
@@ -325,6 +342,24 @@ LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109186-forgotten-island
 END:VEVENT
 BEGIN:VEVENT
+UID:27180deaa6acec818e8d07931a1debc8c8ec659e@merlin-cinemas-calendar
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Street Fighter @ Merlin St Ives
+DESCRIPTION:Street Fighter\nAction, Comedy, Fantasy\n\nIn 1993, estranged S
+ treet Fighters Ryu and Ken Masters are thrown back into combat when the my
+ sterious Chun-Li recruits them for the next World Warrior Tournament: a br
+ utal clash of fists, fate, and fury. But behind this battle royale lies a 
+ deadly conspiracy that forces them to face off against each other and the 
+ demons of their past. And if they don't, it's GAME OVER!\n\nStarring: Noah
+  Centineo, Andrew Koji, Callina Liang, Joe Anoa'i, David Dastmalchian, Cod
+ y Rhodes\n\nFilm release at Merlin Cinemas St Ives\nBook tickets: https://
+ st-ives.merlincinemas.co.uk/film/109884-street-fighter
+LOCATION:Merlin Cinemas St Ives
+URL:https://st-ives.merlincinemas.co.uk/film/109884-street-fighter
+END:VEVENT
+BEGIN:VEVENT
 UID:2a451225742024baf9d5933630975b514d043868@merlin-cinemas-calendar
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -358,6 +393,21 @@ DESCRIPTION:The Hunger Games: Sunrise On The Reaping\nScience Fiction, Acti
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/105537-the-hunger-games-sunris
  e-on-the-reaping
+END:VEVENT
+BEGIN:VEVENT
+UID:51cf861326b9edc4232b0945eae539c5fe74677e@merlin-cinemas-calendar
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Focker-In-Law @ Merlin St Ives
+DESCRIPTION:Focker-In-Law\nComedy, Romance\n\nHenry, son of Greg and Pam Fo
+ cker, faces family chaos when he decides to marry a strong-willed woman wh
+ o appears to be his complete mismatch.\n\nStarring: Robert De Niro, Ben St
+ iller, Ariana Grande, Owen Wilson, Blythe Danner, Teri Polo\n\nFilm releas
+ e at Merlin Cinemas St Ives\nBook tickets: https://st-ives.merlincinemas.c
+ o.uk/film/109883-fockerinlaw
+LOCATION:Merlin Cinemas St Ives
+URL:https://st-ives.merlincinemas.co.uk/film/109883-fockerinlaw
 END:VEVENT
 BEGIN:VEVENT
 UID:a3a07b2ce7a9adcfe6444d0be237fd2abcaeb461@merlin-cinemas-calendar

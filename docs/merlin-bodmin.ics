@@ -271,6 +271,23 @@ URL:https://bodmin.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-movi
  e
 END:VEVENT
 BEGIN:VEVENT
+UID:e1bebd75e1b258ce78e32cb7f8de189b11f1f11e@merlin-cinemas-calendar
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Insidious: Out Of The Further @ Merlin Bodmin
+DESCRIPTION:Insidious: Out Of The Further\nHorror, Thriller\n\nA trio of st
+ alkers infiltrate a quiet suburb and force a new family into the astral pl
+ ane, where they uncover a terrifying truth: the Further is bleeding into t
+ he real world.\n\nStarring: Amelia Eve, Brandon Perea, Lin Shaye, Maisie R
+ ichardson-Sellers, Sam Spruell, Island Austin\n\nFilm release at Merlin Ci
+ nemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/film/109808
+ -insidious-out-of-the-further
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/109808-insidious-out-of-the-fur
+ ther
+END:VEVENT
+BEGIN:VEVENT
 UID:4cc9105c849a87f26964eb76f6e3e177159bf554@merlin-cinemas-calendar
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909
@@ -323,6 +340,24 @@ LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109186-forgotten-island
 END:VEVENT
 BEGIN:VEVENT
+UID:ae5f7fb7b51b0ff1f74d1f1eb1eb8c9357821077@merlin-cinemas-calendar
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Street Fighter @ Merlin Bodmin
+DESCRIPTION:Street Fighter\nAction, Comedy, Fantasy\n\nIn 1993, estranged S
+ treet Fighters Ryu and Ken Masters are thrown back into combat when the my
+ sterious Chun-Li recruits them for the next World Warrior Tournament: a br
+ utal clash of fists, fate, and fury. But behind this battle royale lies a 
+ deadly conspiracy that forces them to face off against each other and the 
+ demons of their past. And if they don't, it's GAME OVER!\n\nStarring: Noah
+  Centineo, Andrew Koji, Callina Liang, Joe Anoa'i, David Dastmalchian, Cod
+ y Rhodes\n\nFilm release at Merlin Cinemas Bodmin\nBook tickets: https://b
+ odmin.merlincinemas.co.uk/film/109884-street-fighter
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/109884-street-fighter
+END:VEVENT
+BEGIN:VEVENT
 UID:6d43f422bf4024652c389ebbbde7e8e84cc51fd1@merlin-cinemas-calendar
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -356,6 +391,21 @@ DESCRIPTION:The Hunger Games: Sunrise On The Reaping\nScience Fiction, Acti
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/105537-the-hunger-games-sunrise
  -on-the-reaping
+END:VEVENT
+BEGIN:VEVENT
+UID:d4e1d59d01b3a9781b5050bc25491ca6a9eaff1a@merlin-cinemas-calendar
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Focker-In-Law @ Merlin Bodmin
+DESCRIPTION:Focker-In-Law\nComedy, Romance\n\nHenry, son of Greg and Pam Fo
+ cker, faces family chaos when he decides to marry a strong-willed woman wh
+ o appears to be his complete mismatch.\n\nStarring: Robert De Niro, Ben St
+ iller, Ariana Grande, Owen Wilson, Blythe Danner, Teri Polo\n\nFilm releas
+ e at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.
+ uk/film/109883-fockerinlaw
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/109883-fockerinlaw
 END:VEVENT
 BEGIN:VEVENT
 UID:8c23725a01d5bc1c29fb364c197c42f1fa33e6cb@merlin-cinemas-calendar

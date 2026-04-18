@@ -323,5 +323,39 @@
     "director": "Simon McQuoid",
     "cast": "Karl Urban, Adeline Rudolph, Jessica McNamee, Josh Lawson, Ludi Lin, Mehcad Brooks",
     "cached_at": "2026-04-14T10:07:18.690975"
+  },
+  "insidious-out-of-the-further": {
+    "overview": "A trio of stalkers infiltrate a quiet suburb and force a new family into the astral plane, where they uncover a terrifying truth: the Further is bleeding into the real world.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "vote_average": null,
+    "director": "Jacob Chase",
+    "cast": "Amelia Eve, Brandon Perea, Lin Shaye, Maisie Richardson-Sellers, Sam Spruell, Island Austin",
+    "cached_at": "2026-04-18T09:39:07.185954"
+  },
+  "street-fighter": {
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "vote_average": null,
+    "director": "Kitao Sakurai",
+    "cast": "Noah Centineo, Andrew Koji, Callina Liang, Joe Anoa'i, David Dastmalchian, Cody Rhodes",
+    "cached_at": "2026-04-18T09:39:07.726174"
+  },
+  "focker-in-law": {
+    "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "vote_average": null,
+    "director": "John Hamburg",
+    "cast": "Robert De Niro, Ben Stiller, Ariana Grande, Owen Wilson, Blythe Danner, Teri Polo",
+    "cached_at": "2026-04-18T09:39:08.244420"
   }
 }

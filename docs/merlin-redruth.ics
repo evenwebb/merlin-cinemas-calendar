@@ -272,6 +272,23 @@ URL:https://redruth.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mov
  ie
 END:VEVENT
 BEGIN:VEVENT
+UID:cd0e0d1ef1559a52b3481c91c2aeeb30731d6849@merlin-cinemas-calendar
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Insidious: Out Of The Further @ Merlin Redruth
+DESCRIPTION:Insidious: Out Of The Further\nHorror, Thriller\n\nA trio of st
+ alkers infiltrate a quiet suburb and force a new family into the astral pl
+ ane, where they uncover a terrifying truth: the Further is bleeding into t
+ he real world.\n\nStarring: Amelia Eve, Brandon Perea, Lin Shaye, Maisie R
+ ichardson-Sellers, Sam Spruell, Island Austin\n\nFilm release at Merlin Ci
+ nemas Redruth\nBook tickets: https://redruth.merlincinemas.co.uk/film/1098
+ 08-insidious-out-of-the-further
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/109808-insidious-out-of-the-fu
+ rther
+END:VEVENT
+BEGIN:VEVENT
 UID:a1bf6b87251ed4b85d81ceaf8bcf9e88c778fa76@merlin-cinemas-calendar
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909
@@ -325,6 +342,24 @@ LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109186-forgotten-island
 END:VEVENT
 BEGIN:VEVENT
+UID:4b27d593e35dea8d89f89a77666e953cbb3f179b@merlin-cinemas-calendar
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Street Fighter @ Merlin Redruth
+DESCRIPTION:Street Fighter\nAction, Comedy, Fantasy\n\nIn 1993, estranged S
+ treet Fighters Ryu and Ken Masters are thrown back into combat when the my
+ sterious Chun-Li recruits them for the next World Warrior Tournament: a br
+ utal clash of fists, fate, and fury. But behind this battle royale lies a 
+ deadly conspiracy that forces them to face off against each other and the 
+ demons of their past. And if they don't, it's GAME OVER!\n\nStarring: Noah
+  Centineo, Andrew Koji, Callina Liang, Joe Anoa'i, David Dastmalchian, Cod
+ y Rhodes\n\nFilm release at Merlin Cinemas Redruth\nBook tickets: https://
+ redruth.merlincinemas.co.uk/film/109884-street-fighter
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/109884-street-fighter
+END:VEVENT
+BEGIN:VEVENT
 UID:22950af4bb9bc5fd172b7d54ec1aa00856e0730e@merlin-cinemas-calendar
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -358,6 +393,21 @@ DESCRIPTION:The Hunger Games: Sunrise On The Reaping\nScience Fiction, Acti
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/105537-the-hunger-games-sunris
  e-on-the-reaping
+END:VEVENT
+BEGIN:VEVENT
+UID:52269a9f8e18fe1e2cc6e7ef55f5c2a0d438edf5@merlin-cinemas-calendar
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Focker-In-Law @ Merlin Redruth
+DESCRIPTION:Focker-In-Law\nComedy, Romance\n\nHenry, son of Greg and Pam Fo
+ cker, faces family chaos when he decides to marry a strong-willed woman wh
+ o appears to be his complete mismatch.\n\nStarring: Robert De Niro, Ben St
+ iller, Ariana Grande, Owen Wilson, Blythe Danner, Teri Polo\n\nFilm releas
+ e at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.c
+ o.uk/film/109883-fockerinlaw
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/109883-fockerinlaw
 END:VEVENT
 BEGIN:VEVENT
 UID:c3ee7ac0d7815454606a77f2fc0de1077ec6c9f5@merlin-cinemas-calendar

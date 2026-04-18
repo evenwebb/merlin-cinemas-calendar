@@ -277,6 +277,23 @@ URL:https://penzance.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mo
  vie
 END:VEVENT
 BEGIN:VEVENT
+UID:9a2400bf013752ac443b00638ba62027743354bf@merlin-cinemas-calendar
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Insidious: Out Of The Further @ Merlin Savoy Cinema, Penzance
+DESCRIPTION:Insidious: Out Of The Further\nHorror, Thriller\n\nA trio of st
+ alkers infiltrate a quiet suburb and force a new family into the astral pl
+ ane, where they uncover a terrifying truth: the Further is bleeding into t
+ he real world.\n\nStarring: Amelia Eve, Brandon Perea, Lin Shaye, Maisie R
+ ichardson-Sellers, Sam Spruell, Island Austin\n\nFilm release at Merlin Ci
+ nemas Savoy Cinema, Penzance\nBook tickets: https://penzance.merlincinemas
+ .co.uk/film/109808-insidious-out-of-the-further
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/109808-insidious-out-of-the-f
+ urther
+END:VEVENT
+BEGIN:VEVENT
 UID:086f1d7de4693673442e44d8d081a43560bec031@merlin-cinemas-calendar
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909
@@ -331,6 +348,24 @@ LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109186-forgotten-island
 END:VEVENT
 BEGIN:VEVENT
+UID:b7095402b26e2a4bb45ee0d3a0112fecdba66cd9@merlin-cinemas-calendar
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Street Fighter @ Merlin Savoy Cinema, Penzance
+DESCRIPTION:Street Fighter\nAction, Comedy, Fantasy\n\nIn 1993, estranged S
+ treet Fighters Ryu and Ken Masters are thrown back into combat when the my
+ sterious Chun-Li recruits them for the next World Warrior Tournament: a br
+ utal clash of fists, fate, and fury. But behind this battle royale lies a 
+ deadly conspiracy that forces them to face off against each other and the 
+ demons of their past. And if they don't, it's GAME OVER!\n\nStarring: Noah
+  Centineo, Andrew Koji, Callina Liang, Joe Anoa'i, David Dastmalchian, Cod
+ y Rhodes\n\nFilm release at Merlin Cinemas Savoy Cinema, Penzance\nBook ti
+ ckets: https://penzance.merlincinemas.co.uk/film/109884-street-fighter
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/109884-street-fighter
+END:VEVENT
+BEGIN:VEVENT
 UID:993f503d9d7b813913a104b1a230507afdb48fe6@merlin-cinemas-calendar
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -366,6 +401,21 @@ DESCRIPTION:The Hunger Games: Sunrise On The Reaping\nScience Fiction, Acti
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/105537-the-hunger-games-sunri
  se-on-the-reaping
+END:VEVENT
+BEGIN:VEVENT
+UID:561812ebf3a42e9758831f727fec584c13feed1f@merlin-cinemas-calendar
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Focker-In-Law @ Merlin Savoy Cinema, Penzance
+DESCRIPTION:Focker-In-Law\nComedy, Romance\n\nHenry, son of Greg and Pam Fo
+ cker, faces family chaos when he decides to marry a strong-willed woman wh
+ o appears to be his complete mismatch.\n\nStarring: Robert De Niro, Ben St
+ iller, Ariana Grande, Owen Wilson, Blythe Danner, Teri Polo\n\nFilm releas
+ e at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance
+ .merlincinemas.co.uk/film/109883-fockerinlaw
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/109883-fockerinlaw
 END:VEVENT
 BEGIN:VEVENT
 UID:612565ac0606a1b0b25dc6c6a418e5bda4b93449@merlin-cinemas-calendar

@@ -275,6 +275,23 @@ URL:https://falmouth.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mo
  vie
 END:VEVENT
 BEGIN:VEVENT
+UID:a458c33573434f4054df5eeb40b8941df217be41@merlin-cinemas-calendar
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Insidious: Out Of The Further @ Merlin Falmouth
+DESCRIPTION:Insidious: Out Of The Further\nHorror, Thriller\n\nA trio of st
+ alkers infiltrate a quiet suburb and force a new family into the astral pl
+ ane, where they uncover a terrifying truth: the Further is bleeding into t
+ he real world.\n\nStarring: Amelia Eve, Brandon Perea, Lin Shaye, Maisie R
+ ichardson-Sellers, Sam Spruell, Island Austin\n\nFilm release at Merlin Ci
+ nemas Falmouth\nBook tickets: https://falmouth.merlincinemas.co.uk/film/10
+ 9808-insidious-out-of-the-further
+LOCATION:Merlin Cinemas Falmouth
+URL:https://falmouth.merlincinemas.co.uk/film/109808-insidious-out-of-the-f
+ urther
+END:VEVENT
+BEGIN:VEVENT
 UID:a96068bb02b4cb894a7c058bcdbeb82d57496829@merlin-cinemas-calendar
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909
@@ -328,6 +345,24 @@ LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/109186-forgotten-island
 END:VEVENT
 BEGIN:VEVENT
+UID:6c91eed6d0ff37868b0e013cf4fde402f6af0ae1@merlin-cinemas-calendar
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Street Fighter @ Merlin Falmouth
+DESCRIPTION:Street Fighter\nAction, Comedy, Fantasy\n\nIn 1993, estranged S
+ treet Fighters Ryu and Ken Masters are thrown back into combat when the my
+ sterious Chun-Li recruits them for the next World Warrior Tournament: a br
+ utal clash of fists, fate, and fury. But behind this battle royale lies a 
+ deadly conspiracy that forces them to face off against each other and the 
+ demons of their past. And if they don't, it's GAME OVER!\n\nStarring: Noah
+  Centineo, Andrew Koji, Callina Liang, Joe Anoa'i, David Dastmalchian, Cod
+ y Rhodes\n\nFilm release at Merlin Cinemas Falmouth\nBook tickets: https:/
+ /falmouth.merlincinemas.co.uk/film/109884-street-fighter
+LOCATION:Merlin Cinemas Falmouth
+URL:https://falmouth.merlincinemas.co.uk/film/109884-street-fighter
+END:VEVENT
+BEGIN:VEVENT
 UID:04c9f145c8495b094c2cf408e11b255fbbce212d@merlin-cinemas-calendar
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -361,6 +396,21 @@ DESCRIPTION:The Hunger Games: Sunrise On The Reaping\nScience Fiction, Acti
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/105537-the-hunger-games-sunri
  se-on-the-reaping
+END:VEVENT
+BEGIN:VEVENT
+UID:6b1d935a392535530f9d19ff5657c47a81a769cb@merlin-cinemas-calendar
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Focker-In-Law @ Merlin Falmouth
+DESCRIPTION:Focker-In-Law\nComedy, Romance\n\nHenry, son of Greg and Pam Fo
+ cker, faces family chaos when he decides to marry a strong-willed woman wh
+ o appears to be his complete mismatch.\n\nStarring: Robert De Niro, Ben St
+ iller, Ariana Grande, Owen Wilson, Blythe Danner, Teri Polo\n\nFilm releas
+ e at Merlin Cinemas Falmouth\nBook tickets: https://falmouth.merlincinemas
+ .co.uk/film/109883-fockerinlaw
+LOCATION:Merlin Cinemas Falmouth
+URL:https://falmouth.merlincinemas.co.uk/film/109883-fockerinlaw
 END:VEVENT
 BEGIN:VEVENT
 UID:56a7aab2ac2a8321a85ee8c393f9fee56b7e5388@merlin-cinemas-calendar
