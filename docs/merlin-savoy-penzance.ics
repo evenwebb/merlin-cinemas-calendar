@@ -294,6 +294,24 @@ URL:https://penzance.merlincinemas.co.uk/film/109808-insidious-out-of-the-f
  urther
 END:VEVENT
 BEGIN:VEVENT
+UID:65149418991c58d93cc51aa4ffe8f0f4e0378e2e@merlin-cinemas-calendar
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:The Dog Stars @ Merlin Savoy Cinema, Penzance
+DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
+ e world's population has been ravaged by a pandemic, a man lives a lonesom
+ e existence in a Colorado airplane hangar with his dog and a dour gunman h
+ e has befriended. When a mysterious transmission comes through on the radi
+ o while he’s flying his old Cessna, it sparks a hunt for the provenance of
+  the sound.\n\nStarring: Jacob Elordi, Josh Brolin, Margaret Qualley, Guy 
+ Pearce, Allison Janney, Benedict Wong\n\nFilm release at Merlin Cinemas Sa
+ voy Cinema, Penzance\nBook tickets: https://penzance.merlincinemas.co.uk/f
+ ilm/109928-the-dog-stars
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/109928-the-dog-stars
+END:VEVENT
+BEGIN:VEVENT
 UID:086f1d7de4693673442e44d8d081a43560bec031@merlin-cinemas-calendar
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909

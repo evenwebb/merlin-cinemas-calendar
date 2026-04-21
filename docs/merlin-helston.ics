@@ -289,6 +289,24 @@ URL:https://helston.merlincinemas.co.uk/film/109808-insidious-out-of-the-fu
  rther
 END:VEVENT
 BEGIN:VEVENT
+UID:d14ecff601bcdab2310f569463ab3cec1160a44e@merlin-cinemas-calendar
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:The Dog Stars @ Merlin Helston
+DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
+ e world's population has been ravaged by a pandemic, a man lives a lonesom
+ e existence in a Colorado airplane hangar with his dog and a dour gunman h
+ e has befriended. When a mysterious transmission comes through on the radi
+ o while he’s flying his old Cessna, it sparks a hunt for the provenance of
+  the sound.\n\nStarring: Jacob Elordi, Josh Brolin, Margaret Qualley, Guy 
+ Pearce, Allison Janney, Benedict Wong\n\nFilm release at Merlin Cinemas He
+ lston\nBook tickets: https://helston.merlincinemas.co.uk/film/109928-the-d
+ og-stars
+LOCATION:Merlin Cinemas Helston
+URL:https://helston.merlincinemas.co.uk/film/109928-the-dog-stars
+END:VEVENT
+BEGIN:VEVENT
 UID:da01c81065bd3f8a35ed677aa5cce0ea995b3154@merlin-cinemas-calendar
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909

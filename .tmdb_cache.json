@@ -357,5 +357,17 @@
     "director": "Steve Cox, Matthew Walker",
     "cast": "Justin Fletcher, John Sparkes, Kate Harbour",
     "cached_at": "2026-04-20T10:27:18.146111"
+  },
+  "the-dog-stars": {
+    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "vote_average": null,
+    "director": "Ridley Scott",
+    "cast": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Allison Janney, Benedict Wong",
+    "cached_at": "2026-04-21T10:10:53.351014"
   }
 }

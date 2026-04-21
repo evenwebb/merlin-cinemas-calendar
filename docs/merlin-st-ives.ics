@@ -289,6 +289,24 @@ URL:https://st-ives.merlincinemas.co.uk/film/109808-insidious-out-of-the-fu
  rther
 END:VEVENT
 BEGIN:VEVENT
+UID:a80b8547aa281ff6cf21cd6805a3a12b7cbabf25@merlin-cinemas-calendar
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:The Dog Stars @ Merlin St Ives
+DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
+ e world's population has been ravaged by a pandemic, a man lives a lonesom
+ e existence in a Colorado airplane hangar with his dog and a dour gunman h
+ e has befriended. When a mysterious transmission comes through on the radi
+ o while he’s flying his old Cessna, it sparks a hunt for the provenance of
+  the sound.\n\nStarring: Jacob Elordi, Josh Brolin, Margaret Qualley, Guy 
+ Pearce, Allison Janney, Benedict Wong\n\nFilm release at Merlin Cinemas St
+  Ives\nBook tickets: https://st-ives.merlincinemas.co.uk/film/109928-the-d
+ og-stars
+LOCATION:Merlin Cinemas St Ives
+URL:https://st-ives.merlincinemas.co.uk/film/109928-the-dog-stars
+END:VEVENT
+BEGIN:VEVENT
 UID:c8a299e4d48e33e76713bec1b51c08e14e479448@merlin-cinemas-calendar
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909

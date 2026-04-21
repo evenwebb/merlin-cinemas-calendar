@@ -288,6 +288,24 @@ URL:https://ritz.merlincinemas.co.uk/film/109808-insidious-out-of-the-furth
  er
 END:VEVENT
 BEGIN:VEVENT
+UID:29b2f9255e7d0a5206907aa4c7331189c9987326@merlin-cinemas-calendar
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:The Dog Stars @ Merlin The Ritz, Penzance
+DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
+ e world's population has been ravaged by a pandemic, a man lives a lonesom
+ e existence in a Colorado airplane hangar with his dog and a dour gunman h
+ e has befriended. When a mysterious transmission comes through on the radi
+ o while he’s flying his old Cessna, it sparks a hunt for the provenance of
+  the sound.\n\nStarring: Jacob Elordi, Josh Brolin, Margaret Qualley, Guy 
+ Pearce, Allison Janney, Benedict Wong\n\nFilm release at Merlin Cinemas Th
+ e Ritz, Penzance\nBook tickets: https://ritz.merlincinemas.co.uk/film/1099
+ 28-the-dog-stars
+LOCATION:Merlin Cinemas The Ritz, Penzance
+URL:https://ritz.merlincinemas.co.uk/film/109928-the-dog-stars
+END:VEVENT
+BEGIN:VEVENT
 UID:008d6fe99a66f1255bae71f0297dec15b5686e9c@merlin-cinemas-calendar
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909
