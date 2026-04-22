@@ -24,6 +24,23 @@ LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/105261-the-devil-wears-prada-2
 END:VEVENT
 BEGIN:VEVENT
+UID:9a993d650b094ce4a366f7e3c1649ad49a8c1704@merlin-cinemas-calendar
+DTSTAMP:20260508T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Mortal Kombat II @ Merlin Bodmin
+DESCRIPTION:Mortal Kombat II\nAction, Fantasy, Adventure\n\nThe fan favorit
+ e champions—now joined by Johnny Cage himself—are pitted against one anoth
+ er in the ultimate, no-holds barred, gory battle to defeat the dark rule o
+ f Shao Kahn that threatens the very existence of the Earthrealm and its de
+ fenders.\n\nStarring: Karl Urban, Adeline Rudolph, Jessica McNamee, Josh L
+ awson, Ludi Lin, Mehcad Brooks\n\nFilm release at Merlin Cinemas Bodmin\nB
+ ook tickets: https://bodmin.merlincinemas.co.uk/film/98552-mortal-kombat-i
+ i
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/98552-mortal-kombat-ii
+END:VEVENT
+BEGIN:VEVENT
 UID:7bbb6e036394353065e3572e5a4588d682a37027@merlin-cinemas-calendar
 DTSTAMP:20260508T000000Z
 DTSTART;VALUE=DATE:20260508
@@ -40,23 +57,6 @@ DESCRIPTION:The Sheep Detectives\nMystery, Crime, Comedy, Family\n\nGeorge
  incinemas.co.uk/film/106218-the-sheep-detectives
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/106218-the-sheep-detectives
-END:VEVENT
-BEGIN:VEVENT
-UID:b966518141424df7d75d9a1fd29a9ad975c09b8c@merlin-cinemas-calendar
-DTSTAMP:20260515T000000Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-SUMMARY:Mortal Kombat II @ Merlin Bodmin
-DESCRIPTION:Mortal Kombat II\nAction, Fantasy, Adventure\n\nThe fan favorit
- e champions—now joined by Johnny Cage himself—are pitted against one anoth
- er in the ultimate, no-holds barred, gory battle to defeat the dark rule o
- f Shao Kahn that threatens the very existence of the Earthrealm and its de
- fenders.\n\nStarring: Karl Urban, Adeline Rudolph, Jessica McNamee, Josh L
- awson, Ludi Lin, Mehcad Brooks\n\nFilm release at Merlin Cinemas Bodmin\nB
- ook tickets: https://bodmin.merlincinemas.co.uk/film/98552-mortal-kombat-i
- i
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/98552-mortal-kombat-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:0a4655aaf01c11f70fdbe8312a5b6901f97b1b78@merlin-cinemas-calendar
@@ -446,13 +446,13 @@ DTSTAMP:20261218T000000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ Merlin Bodmin
-DESCRIPTION:Dune: Part Three\nAdventure, Science Fiction, Thriller\n\nAs Em
- peror, Paul Atreides grapples with the consequences of his rise to power a
- s political conspiracies and a galaxy-spanning holy war threaten the futur
- e he alone can foresee.\n\nStarring: Timothée Chalamet, Zendaya, Jason Mom
- oa, Florence Pugh, Rebecca Ferguson, Isaach de Bankolé\n\nFilm release at 
- Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/fi
- lm/109010-dune-part-three
+DESCRIPTION:Dune: Part Three\nScience Fiction, Drama\n\nAs Emperor, Paul At
+ reides grapples with the consequences of his rise to power as political co
+ nspiracies and a galaxy-spanning holy war threaten the future he alone can
+  foresee.\n\nStarring: Timothée Chalamet, Zendaya, Jason Momoa, Florence P
+ ugh, Rebecca Ferguson, Isaach de Bankolé\n\nFilm release at Merlin Cinemas
+  Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/film/109010-dune
+ -part-three
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109010-dune-part-three
 END:VEVENT

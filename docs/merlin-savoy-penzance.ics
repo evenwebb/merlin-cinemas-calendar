@@ -25,6 +25,23 @@ URL:https://penzance.merlincinemas.co.uk/film/105261-the-devil-wears-prada-
  2
 END:VEVENT
 BEGIN:VEVENT
+UID:510d0d5bdb2827f679025f526349c4fc890a5fd9@merlin-cinemas-calendar
+DTSTAMP:20260508T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Mortal Kombat II @ Merlin Savoy Cinema, Penzance
+DESCRIPTION:Mortal Kombat II\nAction, Fantasy, Adventure\n\nThe fan favorit
+ e champions—now joined by Johnny Cage himself—are pitted against one anoth
+ er in the ultimate, no-holds barred, gory battle to defeat the dark rule o
+ f Shao Kahn that threatens the very existence of the Earthrealm and its de
+ fenders.\n\nStarring: Karl Urban, Adeline Rudolph, Jessica McNamee, Josh L
+ awson, Ludi Lin, Mehcad Brooks\n\nFilm release at Merlin Cinemas Savoy Cin
+ ema, Penzance\nBook tickets: https://penzance.merlincinemas.co.uk/film/985
+ 52-mortal-kombat-ii
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/98552-mortal-kombat-ii
+END:VEVENT
+BEGIN:VEVENT
 UID:828b31b676e527a14b0eccdc9adc2a0da569b8c0@merlin-cinemas-calendar
 DTSTAMP:20260508T000000Z
 DTSTART;VALUE=DATE:20260508
@@ -41,23 +58,6 @@ DESCRIPTION:The Sheep Detectives\nMystery, Crime, Comedy, Family\n\nGeorge
  ps://penzance.merlincinemas.co.uk/film/106218-the-sheep-detectives
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/106218-the-sheep-detectives
-END:VEVENT
-BEGIN:VEVENT
-UID:d1276e5ae95837b85ba1e5566a154ea2a82d2a7f@merlin-cinemas-calendar
-DTSTAMP:20260515T000000Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-SUMMARY:Mortal Kombat II @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:Mortal Kombat II\nAction, Fantasy, Adventure\n\nThe fan favorit
- e champions—now joined by Johnny Cage himself—are pitted against one anoth
- er in the ultimate, no-holds barred, gory battle to defeat the dark rule o
- f Shao Kahn that threatens the very existence of the Earthrealm and its de
- fenders.\n\nStarring: Karl Urban, Adeline Rudolph, Jessica McNamee, Josh L
- awson, Ludi Lin, Mehcad Brooks\n\nFilm release at Merlin Cinemas Savoy Cin
- ema, Penzance\nBook tickets: https://penzance.merlincinemas.co.uk/film/985
- 52-mortal-kombat-ii
-LOCATION:Merlin Cinemas Savoy Cinema, Penzance
-URL:https://penzance.merlincinemas.co.uk/film/98552-mortal-kombat-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:c4fdb6c62a67992c781fd83a907e74d8f21ec3ff@merlin-cinemas-calendar
@@ -456,13 +456,13 @@ DTSTAMP:20261218T000000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:Dune: Part Three\nAdventure, Science Fiction, Thriller\n\nAs Em
- peror, Paul Atreides grapples with the consequences of his rise to power a
- s political conspiracies and a galaxy-spanning holy war threaten the futur
- e he alone can foresee.\n\nStarring: Timothée Chalamet, Zendaya, Jason Mom
- oa, Florence Pugh, Rebecca Ferguson, Isaach de Bankolé\n\nFilm release at 
- Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.merl
- incinemas.co.uk/film/109010-dune-part-three
+DESCRIPTION:Dune: Part Three\nScience Fiction, Drama\n\nAs Emperor, Paul At
+ reides grapples with the consequences of his rise to power as political co
+ nspiracies and a galaxy-spanning holy war threaten the future he alone can
+  foresee.\n\nStarring: Timothée Chalamet, Zendaya, Jason Momoa, Florence P
+ ugh, Rebecca Ferguson, Isaach de Bankolé\n\nFilm release at Merlin Cinemas
+  Savoy Cinema, Penzance\nBook tickets: https://penzance.merlincinemas.co.u
+ k/film/109010-dune-part-three
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109010-dune-part-three
 END:VEVENT

@@ -24,6 +24,23 @@ LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/105261-the-devil-wears-prada-2
 END:VEVENT
 BEGIN:VEVENT
+UID:887ce5b53c028b441dcca3996a69bfe86b21202f@merlin-cinemas-calendar
+DTSTAMP:20260508T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Mortal Kombat II @ Merlin Redruth
+DESCRIPTION:Mortal Kombat II\nAction, Fantasy, Adventure\n\nThe fan favorit
+ e champions—now joined by Johnny Cage himself—are pitted against one anoth
+ er in the ultimate, no-holds barred, gory battle to defeat the dark rule o
+ f Shao Kahn that threatens the very existence of the Earthrealm and its de
+ fenders.\n\nStarring: Karl Urban, Adeline Rudolph, Jessica McNamee, Josh L
+ awson, Ludi Lin, Mehcad Brooks\n\nFilm release at Merlin Cinemas Redruth\n
+ Book tickets: https://redruth.merlincinemas.co.uk/film/98552-mortal-kombat
+ -ii
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/98552-mortal-kombat-ii
+END:VEVENT
+BEGIN:VEVENT
 UID:5a7dc26fb17adaeb2bb8bd1d3c5f9e72149d2b69@merlin-cinemas-calendar
 DTSTAMP:20260508T000000Z
 DTSTART;VALUE=DATE:20260508
@@ -40,23 +57,6 @@ DESCRIPTION:The Sheep Detectives\nMystery, Crime, Comedy, Family\n\nGeorge
  rlincinemas.co.uk/film/106218-the-sheep-detectives
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/106218-the-sheep-detectives
-END:VEVENT
-BEGIN:VEVENT
-UID:09c5e7a396f23c16a3d2dec6f1f5fd262d8b81b8@merlin-cinemas-calendar
-DTSTAMP:20260515T000000Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-SUMMARY:Mortal Kombat II @ Merlin Redruth
-DESCRIPTION:Mortal Kombat II\nAction, Fantasy, Adventure\n\nThe fan favorit
- e champions—now joined by Johnny Cage himself—are pitted against one anoth
- er in the ultimate, no-holds barred, gory battle to defeat the dark rule o
- f Shao Kahn that threatens the very existence of the Earthrealm and its de
- fenders.\n\nStarring: Karl Urban, Adeline Rudolph, Jessica McNamee, Josh L
- awson, Ludi Lin, Mehcad Brooks\n\nFilm release at Merlin Cinemas Redruth\n
- Book tickets: https://redruth.merlincinemas.co.uk/film/98552-mortal-kombat
- -ii
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/98552-mortal-kombat-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:bdb59a3fa09b41686b159a9161d3b92f683e6067@merlin-cinemas-calendar
@@ -448,13 +448,13 @@ DTSTAMP:20261218T000000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ Merlin Redruth
-DESCRIPTION:Dune: Part Three\nAdventure, Science Fiction, Thriller\n\nAs Em
- peror, Paul Atreides grapples with the consequences of his rise to power a
- s political conspiracies and a galaxy-spanning holy war threaten the futur
- e he alone can foresee.\n\nStarring: Timothée Chalamet, Zendaya, Jason Mom
- oa, Florence Pugh, Rebecca Ferguson, Isaach de Bankolé\n\nFilm release at 
- Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.uk/
- film/109010-dune-part-three
+DESCRIPTION:Dune: Part Three\nScience Fiction, Drama\n\nAs Emperor, Paul At
+ reides grapples with the consequences of his rise to power as political co
+ nspiracies and a galaxy-spanning holy war threaten the future he alone can
+  foresee.\n\nStarring: Timothée Chalamet, Zendaya, Jason Momoa, Florence P
+ ugh, Rebecca Ferguson, Isaach de Bankolé\n\nFilm release at Merlin Cinemas
+  Redruth\nBook tickets: https://redruth.merlincinemas.co.uk/film/109010-du
+ ne-part-three
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109010-dune-part-three
 END:VEVENT
