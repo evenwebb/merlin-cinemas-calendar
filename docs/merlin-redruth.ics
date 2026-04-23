@@ -324,6 +324,21 @@ LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109185-pressure
 END:VEVENT
 BEGIN:VEVENT
+UID:e2a19f454e224916ca7fdbbca2d1ed1deea472fc@merlin-cinemas-calendar
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Practical Magic 2 @ Merlin Redruth
+DESCRIPTION:Practical Magic 2\nFantasy, Drama, Comedy\n\nThe Owens sisters 
+ must confront the dark curse that threatens to unravel their family once a
+ nd for all.\n\nStarring: Sandra Bullock, Nicole Kidman, Joey King, Lee Pac
+ e, Dianne Wiest, Stockard Channing\n\nFilm release at Merlin Cinemas Redru
+ th\nBook tickets: https://redruth.merlincinemas.co.uk/film/110125-practica
+ l-magic-2
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/110125-practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
 UID:ed60d4e9cd34b458a46b6c7a314fa17878513a1e@merlin-cinemas-calendar
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918

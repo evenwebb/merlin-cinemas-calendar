@@ -327,6 +327,21 @@ LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/109185-pressure
 END:VEVENT
 BEGIN:VEVENT
+UID:48aafebff326ca11daa111b89c90ad4194af871c@merlin-cinemas-calendar
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Practical Magic 2 @ Merlin Falmouth
+DESCRIPTION:Practical Magic 2\nFantasy, Drama, Comedy\n\nThe Owens sisters 
+ must confront the dark curse that threatens to unravel their family once a
+ nd for all.\n\nStarring: Sandra Bullock, Nicole Kidman, Joey King, Lee Pac
+ e, Dianne Wiest, Stockard Channing\n\nFilm release at Merlin Cinemas Falmo
+ uth\nBook tickets: https://falmouth.merlincinemas.co.uk/film/110125-practi
+ cal-magic-2
+LOCATION:Merlin Cinemas Falmouth
+URL:https://falmouth.merlincinemas.co.uk/film/110125-practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
 UID:2f3e68b812b599c2877cc50fc3f5759bbe1ce0af@merlin-cinemas-calendar
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918

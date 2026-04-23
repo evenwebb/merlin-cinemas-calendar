@@ -323,6 +323,21 @@ LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/109185-pressure
 END:VEVENT
 BEGIN:VEVENT
+UID:a12437fb622885806c3da792ac8fb62b76cd9688@merlin-cinemas-calendar
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Practical Magic 2 @ Merlin The Ritz, Penzance
+DESCRIPTION:Practical Magic 2\nFantasy, Drama, Comedy\n\nThe Owens sisters 
+ must confront the dark curse that threatens to unravel their family once a
+ nd for all.\n\nStarring: Sandra Bullock, Nicole Kidman, Joey King, Lee Pac
+ e, Dianne Wiest, Stockard Channing\n\nFilm release at Merlin Cinemas The R
+ itz, Penzance\nBook tickets: https://ritz.merlincinemas.co.uk/film/110125-
+ practical-magic-2
+LOCATION:Merlin Cinemas The Ritz, Penzance
+URL:https://ritz.merlincinemas.co.uk/film/110125-practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
 UID:8acbb98a00ef0ed6aa7eaa41d7c084e291b089fa@merlin-cinemas-calendar
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918

@@ -323,6 +323,21 @@ LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109185-pressure
 END:VEVENT
 BEGIN:VEVENT
+UID:7952eec5cd9d02995643404ff72d0832f97867d9@merlin-cinemas-calendar
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Practical Magic 2 @ Merlin Bodmin
+DESCRIPTION:Practical Magic 2\nFantasy, Drama, Comedy\n\nThe Owens sisters 
+ must confront the dark curse that threatens to unravel their family once a
+ nd for all.\n\nStarring: Sandra Bullock, Nicole Kidman, Joey King, Lee Pac
+ e, Dianne Wiest, Stockard Channing\n\nFilm release at Merlin Cinemas Bodmi
+ n\nBook tickets: https://bodmin.merlincinemas.co.uk/film/110125-practical-
+ magic-2
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/110125-practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
 UID:54b5bcf86bb3b17db3f3665216b85dfd23c73aa2@merlin-cinemas-calendar
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918

@@ -324,6 +324,21 @@ LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109185-pressure
 END:VEVENT
 BEGIN:VEVENT
+UID:922406559e01c735698de9a279a20b49d1614c7d@merlin-cinemas-calendar
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Practical Magic 2 @ Merlin St Ives
+DESCRIPTION:Practical Magic 2\nFantasy, Drama, Comedy\n\nThe Owens sisters 
+ must confront the dark curse that threatens to unravel their family once a
+ nd for all.\n\nStarring: Sandra Bullock, Nicole Kidman, Joey King, Lee Pac
+ e, Dianne Wiest, Stockard Channing\n\nFilm release at Merlin Cinemas St Iv
+ es\nBook tickets: https://st-ives.merlincinemas.co.uk/film/110125-practica
+ l-magic-2
+LOCATION:Merlin Cinemas St Ives
+URL:https://st-ives.merlincinemas.co.uk/film/110125-practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
 UID:eddf797f1f0ef968a784f7b0c7fb23f279bc90e0@merlin-cinemas-calendar
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918

@@ -368,5 +368,17 @@
     "director": "Denis Villeneuve",
     "cast": "Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson, Isaach de Bankolé",
     "cached_at": "2026-04-22T10:10:44.859132"
+  },
+  "practical-magic-2": {
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Comedy"
+    ],
+    "vote_average": null,
+    "director": "Susanne Bier",
+    "cast": "Sandra Bullock, Nicole Kidman, Joey King, Lee Pace, Dianne Wiest, Stockard Channing",
+    "cached_at": "2026-04-23T10:14:38.822558"
   }
 }

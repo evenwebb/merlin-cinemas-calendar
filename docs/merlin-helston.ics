@@ -324,6 +324,21 @@ LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109185-pressure
 END:VEVENT
 BEGIN:VEVENT
+UID:4322f5b37affce87bc32fedf8de786be9f31cd26@merlin-cinemas-calendar
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Practical Magic 2 @ Merlin Helston
+DESCRIPTION:Practical Magic 2\nFantasy, Drama, Comedy\n\nThe Owens sisters 
+ must confront the dark curse that threatens to unravel their family once a
+ nd for all.\n\nStarring: Sandra Bullock, Nicole Kidman, Joey King, Lee Pac
+ e, Dianne Wiest, Stockard Channing\n\nFilm release at Merlin Cinemas Helst
+ on\nBook tickets: https://helston.merlincinemas.co.uk/film/110125-practica
+ l-magic-2
+LOCATION:Merlin Cinemas Helston
+URL:https://helston.merlincinemas.co.uk/film/110125-practical-magic-2
+END:VEVENT
+BEGIN:VEVENT
 UID:d3e3985b7bebed3e0147cb4c1529ecd0c070bd49@merlin-cinemas-calendar
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
