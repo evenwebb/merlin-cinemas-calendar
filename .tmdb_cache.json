@@ -1,14 +1,4 @@
 {
-  "scary-movie": {
-    "overview": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
-    "genres": [
-      "Comedy"
-    ],
-    "vote_average": 6.386,
-    "director": "Keenen Ivory Wayans",
-    "cast": "Anna Faris, Regina Hall, Marlon Wayans, Shawn Wayans, Jon Abrahams, Lochlyn Munro",
-    "cached_at": "2026-03-30T10:07:05.273857"
-  },
   "pressure": {
     "overview": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
     "genres": [
@@ -388,5 +378,15 @@
     "director": "",
     "cast": "",
     "cached_at": "2026-04-28T10:54:45.400301"
+  },
+  "scary-movie": {
+    "overview": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
+    "genres": [
+      "Comedy"
+    ],
+    "vote_average": 6.39,
+    "director": "Keenen Ivory Wayans",
+    "cast": "Anna Faris, Regina Hall, Marlon Wayans, Shawn Wayans, Jon Abrahams, Lochlyn Munro",
+    "cached_at": "2026-04-29T10:45:52.411944"
   }
 }
