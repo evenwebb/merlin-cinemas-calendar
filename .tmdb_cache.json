@@ -1,30 +1,4 @@
 {
-  "pressure": {
-    "overview": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
-    "genres": [
-      "Thriller",
-      "History",
-      "War"
-    ],
-    "vote_average": null,
-    "director": "Anthony Maras",
-    "cast": "Andrew Scott, Brendan Fraser, Kerry Condon, Chris Messina, Damian Lewis, Con O'Neill",
-    "cached_at": "2026-03-31T09:54:58.401036"
-  },
-  "forgotten-island": {
-    "overview": "Jo and Raissa find themselves stranded on the fantastic world of the forgotten island of Nakali. They find that their only way home might come at the expense of a lifetime of memories and emotions.",
-    "genres": [
-      "Comedy",
-      "Adventure",
-      "Animation",
-      "Fantasy",
-      "Family"
-    ],
-    "vote_average": null,
-    "director": "Januel Mercado, Joel Crawford",
-    "cast": "H.E.R., Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto, Dolly de Leon",
-    "cached_at": "2026-03-31T09:54:59.150506"
-  },
   "glenrothan": {
     "overview": "After 35 years in Chicago, Donal reluctantly returns to the Scottish Highlands to reconcile with his estranged older brother Sandy. Sandy needs Donal to take over the family's whisky distillery or he'll be forced to sell and give up on the family's legacy. But their reunion forces the brothers to confront the past and the real reason Donal left Glenrothan.",
     "genres": [
@@ -388,5 +362,44 @@
     "director": "Keenen Ivory Wayans",
     "cast": "Anna Faris, Regina Hall, Marlon Wayans, Shawn Wayans, Jon Abrahams, Lochlyn Munro",
     "cached_at": "2026-04-29T10:45:52.411944"
+  },
+  "the-amazing-digital-circus-the-last-act": {
+    "overview": "With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus and its history.  Will they come to terms with what they uncover, or will they make… the other choice? Also, presumably at some point someone says something funny, because this ending can’t be THAT depressing, can it? A theatrical screening of episode 8 and the all new, hour-long episode 9.",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "vote_average": null,
+    "director": "Gooseworx",
+    "cast": "Lizzie Freeman, Michael Kovach, Amanda Hufford, Marissa Lenti, Ashley Nichols, Sean Chiplock",
+    "cached_at": "2026-04-30T10:45:56.174078"
+  },
+  "pressure": {
+    "overview": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+    "genres": [
+      "Thriller",
+      "History",
+      "War"
+    ],
+    "vote_average": null,
+    "director": "Anthony Maras",
+    "cast": "Andrew Scott, Brendan Fraser, Kerry Condon, Chris Messina, Damian Lewis, Con O'Neill",
+    "cached_at": "2026-04-30T10:45:56.683328"
+  },
+  "forgotten-island": {
+    "overview": "Jo and Raissa find themselves stranded in the mystical world of the forgotten island of Nakali. They discover that their only way home might come at the expense of a lifetime of shared memories.",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Animation",
+      "Fantasy",
+      "Family"
+    ],
+    "vote_average": null,
+    "director": "Januel Mercado, Joel Crawford",
+    "cast": "H.E.R., Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto, Dolly de Leon",
+    "cached_at": "2026-04-30T10:45:57.244700"
   }
 }

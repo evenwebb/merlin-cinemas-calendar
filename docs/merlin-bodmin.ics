@@ -41,6 +41,28 @@ URL:https://bodmin.merlincinemas.co.uk/film/110073-bonnie-clive-with-the-ji
  ve-aces-double-bill
 END:VEVENT
 BEGIN:VEVENT
+UID:2da8cf2deb08af59b9b611e4d98317e6908b5379@merlin-cinemas-calendar
+DTSTAMP:20260604T000000Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin Bodmin
+DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
+ ence Fiction, Thriller\n\nWith Caine gone and the circus dark, the cast ar
+ e left with only the mistakes and traumas of their pasts to keep them comp
+ any. As the prospect of eternity closes in around them, they discover the 
+ truth about the Digital Circus and its history.  Will they come to terms w
+ ith what they uncover, or will they make… the other choice? Also, presumab
+ ly at some point someone says something funny, because this ending can’t b
+ e THAT depressing, can it? A theatrical screening of episode 8 and the all
+  new, hour-long episode 9.\n\nStarring: Lizzie Freeman, Michael Kovach, Am
+ anda Hufford, Marissa Lenti, Ashley Nichols, Sean Chiplock\n\nFilm release
+  at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.u
+ k/film/110320-the-amazing-digital-circus-the-last-act
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/110320-the-amazing-digital-circ
+ us-the-last-act
+END:VEVENT
+BEGIN:VEVENT
 UID:ff4143d2cb2684e2e7b9da140b8430899b5b3934@merlin-cinemas-calendar
 DTSTAMP:20260605T000000Z
 DTSTART;VALUE=DATE:20260605
@@ -326,12 +348,12 @@ DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Forgotten Island @ Merlin Bodmin
 DESCRIPTION:Forgotten Island\nComedy, Adventure, Animation, Fantasy, Family
- \n\nJo and Raissa find themselves stranded on the fantastic world of the f
- orgotten island of Nakali. They find that their only way home might come a
- t the expense of a lifetime of memories and emotions.\n\nStarring: H.E.R.,
-  Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto, Dolly de Leon\n\n
- Film release at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlin
- cinemas.co.uk/film/109186-forgotten-island
+ \n\nJo and Raissa find themselves stranded in the mystical world of the fo
+ rgotten island of Nakali. They discover that their only way home might com
+ e at the expense of a lifetime of shared memories.\n\nStarring: H.E.R., Li
+ za Soberano, Dave Franco, Jenny Slate, Manny Jacinto, Dolly de Leon\n\nFil
+ m release at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincin
+ emas.co.uk/film/109186-forgotten-island
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109186-forgotten-island
 END:VEVENT
