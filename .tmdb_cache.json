@@ -321,5 +321,61 @@
     "director": "Joe Russo, Anthony Russo",
     "cast": "Robert Downey Jr., Chris Evans, Chris Hemsworth, Pedro Pascal, Paul Rudd, Anthony Mackie",
     "cached_at": "2026-05-04T10:56:09.116658"
+  },
+  "500-miles": {
+    "overview": "A broken family is forced to come together when 16-year-old Finn and his livewire younger brother Charlie run away from trouble at home in England to reach their estranged grandfather on Ireland’s stunning and wild west coast.",
+    "genres": [
+      "Drama"
+    ],
+    "vote_average": null,
+    "director": "Morgan Matthews",
+    "cast": "Bill Nighy, Roman Griffin Davis, Dexter Sol Ansell, Clare Dunne, Michael Socha, Maisie Williams",
+    "cached_at": "2026-05-05T10:27:36.042478"
+  },
+  "jackass-best-and-last": {
+    "overview": "The 5th and final installment to Jackass franchise where the crew go on one last insane crusade.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Documentary"
+    ],
+    "vote_average": null,
+    "director": "Jeff Tremaine",
+    "cast": "Johnny Knoxville, Steve-O, Chris Pontius, Jason 'Wee Man' Acuña, Dave England, Preston Lacy",
+    "cached_at": "2026-05-05T10:27:36.535176"
+  },
+  "resident-evil": {
+    "overview": "Bryan, a medical courier, is in the process of making a delivery when a sudden outbreak occurs, forcing him to fight for survival.",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "vote_average": null,
+    "director": "Zach Cregger",
+    "cast": "Austin Abrams, Zach Cherry, Kali Reis, Paul Walter Hauser, Johnno Wilson",
+    "cached_at": "2026-05-05T10:27:37.012117"
+  },
+  "verity": {
+    "overview": "Struggling writer Lowen Ashleigh relocates to the remote Crawford estate to ghostwrite for Verity Crawford. After Lowen uncovers what appears to be Verity's chilling autobiographical notes, she wrestles with the disturbing and twisted confessions about Verity’s husband Jeremy, and finds it hard to separate fiction from reality, manipulation from attraction, and opportunity from obsession.",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "vote_average": null,
+    "director": "Michael Showalter",
+    "cast": "Dakota Johnson, Anne Hathaway, Josh Hartnett, Ismael Cruz Cordova, Brady Wagner, Irina Dvorovenko",
+    "cached_at": "2026-05-05T10:27:37.490319"
+  },
+  "clayface": {
+    "overview": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "vote_average": null,
+    "director": "James Watkins",
+    "cast": "Tom Rhys Harries, Naomi Ackie, David Dencik, Max Minghella, Eddie Marsan, Nancy Carroll",
+    "cached_at": "2026-05-05T10:27:37.982346"
   }
 }

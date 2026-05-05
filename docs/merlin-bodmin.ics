@@ -147,6 +147,37 @@ LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/105258-toy-story-5
 END:VEVENT
 BEGIN:VEVENT
+UID:4420b7a665e9e9872ee150fe3d0d0dd0310977fe@merlin-cinemas-calendar
+DTSTAMP:20260626T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:500 Miles @ Merlin Bodmin
+DESCRIPTION:500 Miles\nDrama\n\nA broken family is forced to come together 
+ when 16-year-old Finn and his livewire younger brother Charlie run away fr
+ om trouble at home in England to reach their estranged grandfather on Irel
+ and’s stunning and wild west coast.\n\nStarring: Bill Nighy, Roman Griffin
+  Davis, Dexter Sol Ansell, Clare Dunne, Michael Socha, Maisie Williams\n\n
+ Film release at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlin
+ cinemas.co.uk/film/110400-500-miles
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/110400-500-miles
+END:VEVENT
+BEGIN:VEVENT
+UID:5707459852fbf64b987f540b78ec0b1b1f769a21@merlin-cinemas-calendar
+DTSTAMP:20260626T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Jackass: Best And Last @ Merlin Bodmin
+DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe 5th 
+ and final installment to Jackass franchise where the crew go on one last i
+ nsane crusade.\n\nStarring: Johnny Knoxville, Steve-O, Chris Pontius, Jaso
+ n 'Wee Man' Acuña, Dave England, Preston Lacy\n\nFilm release at Merlin Ci
+ nemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/film/110402
+ -jackass-best-and-last
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/110402-jackass-best-and-last
+END:VEVENT
+BEGIN:VEVENT
 UID:025cb2452289b10cc4e026b4bffb18fba28bb720@merlin-cinemas-calendar
 DTSTAMP:20260626T000000Z
 DTSTART;VALUE=DATE:20260626
@@ -324,6 +355,21 @@ LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110125-practical-magic-2
 END:VEVENT
 BEGIN:VEVENT
+UID:fb362daa8e4a3976f1cf7fb19c327cd6cd2cec4c@merlin-cinemas-calendar
+DTSTAMP:20260918T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Resident Evil @ Merlin Bodmin
+DESCRIPTION:Resident Evil\nHorror, Science Fiction\n\nBryan, a medical cour
+ ier, is in the process of making a delivery when a sudden outbreak occurs,
+  forcing him to fight for survival.\n\nStarring: Austin Abrams, Zach Cherr
+ y, Kali Reis, Paul Walter Hauser, Johnno Wilson\n\nFilm release at Merlin 
+ Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/film/1104
+ 04-resident-evil
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/110404-resident-evil
+END:VEVENT
+BEGIN:VEVENT
 UID:54b5bcf86bb3b17db3f3665216b85dfd23c73aa2@merlin-cinemas-calendar
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
@@ -341,6 +387,24 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-beas
  t-of-mossy-bottom
+END:VEVENT
+BEGIN:VEVENT
+UID:0958e52f6d23b0a2a13aec60beed93aa7f943e00@merlin-cinemas-calendar
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Verity @ Merlin Bodmin
+DESCRIPTION:Verity\nMystery, Thriller\n\nStruggling writer Lowen Ashleigh r
+ elocates to the remote Crawford estate to ghostwrite for Verity Crawford. 
+ After Lowen uncovers what appears to be Verity's chilling autobiographical
+  notes, she wrestles with the disturbing and twisted confessions about Ver
+ ity’s husband Jeremy, and finds it hard to separate fiction from reality, 
+ manipulation from attraction, and opportunity from obsession.\n\nStarring:
+  Dakota Johnson, Anne Hathaway, Josh Hartnett, Ismael Cruz Cordova, Brady 
+ Wagner, Irina Dvorovenko\n\nFilm release at Merlin Cinemas Bodmin\nBook ti
+ ckets: https://bodmin.merlincinemas.co.uk/film/110405-verity
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/110405-verity
 END:VEVENT
 BEGIN:VEVENT
 UID:22a65f76f500b34bce807210ad75b5a263db110d@merlin-cinemas-calendar
@@ -375,6 +439,22 @@ DESCRIPTION:Street Fighter\nAction, Comedy, Fantasy\n\nIn 1993, estranged S
  odmin.merlincinemas.co.uk/film/109884-street-fighter
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109884-street-fighter
+END:VEVENT
+BEGIN:VEVENT
+UID:ea90a8d6dc265eba894bfa719309f6ea4474be58@merlin-cinemas-calendar
+DTSTAMP:20261023T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Clayface @ Merlin Bodmin
+DESCRIPTION:Clayface\nHorror, Thriller, Science Fiction\n\nFollow the terri
+ fying descent into hell of a promising Hollywood actor who has become a mo
+ nster driven by revenge, exploring the loss of identity and humanity, the 
+ ravages of toxic love and the dark side of scientific ambition.\n\nStarrin
+ g: Tom Rhys Harries, Naomi Ackie, David Dencik, Max Minghella, Eddie Marsa
+ n, Nancy Carroll\n\nFilm release at Merlin Cinemas Bodmin\nBook tickets: h
+ ttps://bodmin.merlincinemas.co.uk/film/110406-clayface
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/110406-clayface
 END:VEVENT
 BEGIN:VEVENT
 UID:6d43f422bf4024652c389ebbbde7e8e84cc51fd1@merlin-cinemas-calendar

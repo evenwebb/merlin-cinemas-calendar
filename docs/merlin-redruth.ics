@@ -148,6 +148,37 @@ LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/105258-toy-story-5
 END:VEVENT
 BEGIN:VEVENT
+UID:91241ce9cacd32bdf990d143700c5624c3412816@merlin-cinemas-calendar
+DTSTAMP:20260626T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:500 Miles @ Merlin Redruth
+DESCRIPTION:500 Miles\nDrama\n\nA broken family is forced to come together 
+ when 16-year-old Finn and his livewire younger brother Charlie run away fr
+ om trouble at home in England to reach their estranged grandfather on Irel
+ and’s stunning and wild west coast.\n\nStarring: Bill Nighy, Roman Griffin
+  Davis, Dexter Sol Ansell, Clare Dunne, Michael Socha, Maisie Williams\n\n
+ Film release at Merlin Cinemas Redruth\nBook tickets: https://redruth.merl
+ incinemas.co.uk/film/110400-500-miles
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/110400-500-miles
+END:VEVENT
+BEGIN:VEVENT
+UID:28252b3fd6126a8da71a8056a7f94e6bff8d2751@merlin-cinemas-calendar
+DTSTAMP:20260626T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Jackass: Best And Last @ Merlin Redruth
+DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe 5th 
+ and final installment to Jackass franchise where the crew go on one last i
+ nsane crusade.\n\nStarring: Johnny Knoxville, Steve-O, Chris Pontius, Jaso
+ n 'Wee Man' Acuña, Dave England, Preston Lacy\n\nFilm release at Merlin Ci
+ nemas Redruth\nBook tickets: https://redruth.merlincinemas.co.uk/film/1104
+ 02-jackass-best-and-last
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/110402-jackass-best-and-last
+END:VEVENT
+BEGIN:VEVENT
 UID:c0a27cf0637703307b6511031cb4c6c448dda8a7@merlin-cinemas-calendar
 DTSTAMP:20260626T000000Z
 DTSTART;VALUE=DATE:20260626
@@ -325,6 +356,21 @@ LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110125-practical-magic-2
 END:VEVENT
 BEGIN:VEVENT
+UID:09c6cbf6bd118aaa57f85eecbce445d402730b38@merlin-cinemas-calendar
+DTSTAMP:20260918T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Resident Evil @ Merlin Redruth
+DESCRIPTION:Resident Evil\nHorror, Science Fiction\n\nBryan, a medical cour
+ ier, is in the process of making a delivery when a sudden outbreak occurs,
+  forcing him to fight for survival.\n\nStarring: Austin Abrams, Zach Cherr
+ y, Kali Reis, Paul Walter Hauser, Johnno Wilson\n\nFilm release at Merlin 
+ Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.uk/film/11
+ 0404-resident-evil
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/110404-resident-evil
+END:VEVENT
+BEGIN:VEVENT
 UID:ed60d4e9cd34b458a46b6c7a314fa17878513a1e@merlin-cinemas-calendar
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
@@ -343,6 +389,24 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-bea
  st-of-mossy-bottom
+END:VEVENT
+BEGIN:VEVENT
+UID:e6b524776827827006da3cb5c917154bf09b84df@merlin-cinemas-calendar
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Verity @ Merlin Redruth
+DESCRIPTION:Verity\nMystery, Thriller\n\nStruggling writer Lowen Ashleigh r
+ elocates to the remote Crawford estate to ghostwrite for Verity Crawford. 
+ After Lowen uncovers what appears to be Verity's chilling autobiographical
+  notes, she wrestles with the disturbing and twisted confessions about Ver
+ ity’s husband Jeremy, and finds it hard to separate fiction from reality, 
+ manipulation from attraction, and opportunity from obsession.\n\nStarring:
+  Dakota Johnson, Anne Hathaway, Josh Hartnett, Ismael Cruz Cordova, Brady 
+ Wagner, Irina Dvorovenko\n\nFilm release at Merlin Cinemas Redruth\nBook t
+ ickets: https://redruth.merlincinemas.co.uk/film/110405-verity
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/110405-verity
 END:VEVENT
 BEGIN:VEVENT
 UID:64c38fe445a9549c59beee567c9f2b4f1b833ca0@merlin-cinemas-calendar
@@ -377,6 +441,22 @@ DESCRIPTION:Street Fighter\nAction, Comedy, Fantasy\n\nIn 1993, estranged S
  redruth.merlincinemas.co.uk/film/109884-street-fighter
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109884-street-fighter
+END:VEVENT
+BEGIN:VEVENT
+UID:a0f0d70bcf15c44a8d57b369c891ba240e30d7c0@merlin-cinemas-calendar
+DTSTAMP:20261023T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Clayface @ Merlin Redruth
+DESCRIPTION:Clayface\nHorror, Thriller, Science Fiction\n\nFollow the terri
+ fying descent into hell of a promising Hollywood actor who has become a mo
+ nster driven by revenge, exploring the loss of identity and humanity, the 
+ ravages of toxic love and the dark side of scientific ambition.\n\nStarrin
+ g: Tom Rhys Harries, Naomi Ackie, David Dencik, Max Minghella, Eddie Marsa
+ n, Nancy Carroll\n\nFilm release at Merlin Cinemas Redruth\nBook tickets: 
+ https://redruth.merlincinemas.co.uk/film/110406-clayface
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/110406-clayface
 END:VEVENT
 BEGIN:VEVENT
 UID:22950af4bb9bc5fd172b7d54ec1aa00856e0730e@merlin-cinemas-calendar
