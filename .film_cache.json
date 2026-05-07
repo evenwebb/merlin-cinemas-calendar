@@ -1,25 +1,4 @@
 {
-  "merlin:/film/110320-the-amazing-digital-circus-the-last-act": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-04-30T10:45:50.279925"
-  },
-  "merlin:/film/109428-paw-patrol-the-dino-movie": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-04-30T10:45:52.678984"
-  },
-  "merlin:/film/110125-practical-magic-2": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-04-30T10:45:55.480093"
-  },
   "merlin:/film/102342-star-wars-the-mandalorian-and-grogu": {
     "runtime": "",
     "cast": "Starring Ben 2026",
@@ -215,5 +194,26 @@
     "synopsis": "Q&A Lineup in Redruth: Director Pip Piper - Rachel Yates, Surfers Against Sewage",
     "director": "",
     "cached_at": "2026-05-06T10:56:33.450533"
+  },
+  "merlin:/film/110320-the-amazing-digital-circus-the-last-act": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Q&A Lineup in Redruth: Director Pip Piper - Rachel Yates, Surfers Against Sewage",
+    "director": "",
+    "cached_at": "2026-05-07T11:00:17.886304"
+  },
+  "merlin:/film/109428-paw-patrol-the-dino-movie": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "Q&A Lineup in Penzance: Director Pip Piper - Chris Hines, Co-founder Surfers Against Sewage - Colin Campbell, Founder Sunray Sportswear",
+    "director": "",
+    "cached_at": "2026-05-07T11:00:19.587155"
+  },
+  "merlin:/film/110125-practical-magic-2": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Q&A Lineup in Redruth: Director Pip Piper - Rachel Yates, Surfers Against Sewage",
+    "director": "",
+    "cached_at": "2026-05-07T11:00:23.289381"
   }
 }
