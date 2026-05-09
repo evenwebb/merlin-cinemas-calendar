@@ -195,7 +195,7 @@ LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/106024-supergirl
 END:VEVENT
 BEGIN:VEVENT
-UID:a96139d471e16f51fdb77fa9babd70d95f42c5b5@merlin-cinemas-calendar
+UID:c36042c5c862f4b764b0f42da3ad5b3f5cfa005d@merlin-cinemas-calendar
 DTSTAMP:20260701T000000Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
@@ -207,9 +207,9 @@ DESCRIPTION:Minions & Monsters\nAnimation, Family, Comedy, Adventure, Fanta
  planet from the mayhem they had just created.\n\nStarring: Pierre Coffin, 
  Allison Janney, Christoph Waltz, Jeff Bridges, Jesse Eisenberg, Trey Parke
  r\n\nFilm release at Merlin Cinemas Helston\nBook tickets: https://helston
- .merlincinemas.co.uk/film/105910-minions-monsters
+ .merlincinemas.co.uk/film/110835-minions-monsters
 LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/105910-minions-monsters
+URL:https://helston.merlincinemas.co.uk/film/110835-minions-monsters
 END:VEVENT
 BEGIN:VEVENT
 UID:1ecc0fbddee13eb902c9859fa0b076bd219cd247@merlin-cinemas-calendar

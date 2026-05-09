@@ -194,7 +194,7 @@ LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/106024-supergirl
 END:VEVENT
 BEGIN:VEVENT
-UID:69d696e735dfff8a404bd2942bbab4f29319cef5@merlin-cinemas-calendar
+UID:26b1af22ca825120a3b5fd5839fd39934b9be441@merlin-cinemas-calendar
 DTSTAMP:20260701T000000Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
@@ -206,9 +206,9 @@ DESCRIPTION:Minions & Monsters\nAnimation, Family, Comedy, Adventure, Fanta
  planet from the mayhem they had just created.\n\nStarring: Pierre Coffin, 
  Allison Janney, Christoph Waltz, Jeff Bridges, Jesse Eisenberg, Trey Parke
  r\n\nFilm release at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.m
- erlincinemas.co.uk/film/105910-minions-monsters
+ erlincinemas.co.uk/film/110835-minions-monsters
 LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/105910-minions-monsters
+URL:https://bodmin.merlincinemas.co.uk/film/110835-minions-monsters
 END:VEVENT
 BEGIN:VEVENT
 UID:a0cce910f3647bab212aeb6446291d6cf88859cf@merlin-cinemas-calendar

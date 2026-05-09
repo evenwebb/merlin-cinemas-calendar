@@ -197,7 +197,7 @@ LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/106024-supergirl
 END:VEVENT
 BEGIN:VEVENT
-UID:2bbe8332a1c40a392c1895a536be0ffc15806982@merlin-cinemas-calendar
+UID:20cb1c22a360db454079c6c0ff34249a5190b50a@merlin-cinemas-calendar
 DTSTAMP:20260701T000000Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
@@ -209,9 +209,9 @@ DESCRIPTION:Minions & Monsters\nAnimation, Family, Comedy, Adventure, Fanta
  planet from the mayhem they had just created.\n\nStarring: Pierre Coffin, 
  Allison Janney, Christoph Waltz, Jeff Bridges, Jesse Eisenberg, Trey Parke
  r\n\nFilm release at Merlin Cinemas The Ritz, Penzance\nBook tickets: http
- s://ritz.merlincinemas.co.uk/film/105910-minions-monsters
+ s://ritz.merlincinemas.co.uk/film/110835-minions-monsters
 LOCATION:Merlin Cinemas The Ritz, Penzance
-URL:https://ritz.merlincinemas.co.uk/film/105910-minions-monsters
+URL:https://ritz.merlincinemas.co.uk/film/110835-minions-monsters
 END:VEVENT
 BEGIN:VEVENT
 UID:a27bd19d781413e2537f402b993e743f60b5b800@merlin-cinemas-calendar

@@ -199,7 +199,7 @@ LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/106024-supergirl
 END:VEVENT
 BEGIN:VEVENT
-UID:e6e3ab84acbfe8fe339bf2cdef2ebeb24bbfcc8c@merlin-cinemas-calendar
+UID:a94dc1f99d816c4ccf6c1b24314fcf779e4aa94a@merlin-cinemas-calendar
 DTSTAMP:20260701T000000Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
@@ -211,9 +211,9 @@ DESCRIPTION:Minions & Monsters\nAnimation, Family, Comedy, Adventure, Fanta
  planet from the mayhem they had just created.\n\nStarring: Pierre Coffin, 
  Allison Janney, Christoph Waltz, Jeff Bridges, Jesse Eisenberg, Trey Parke
  r\n\nFilm release at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: 
- https://penzance.merlincinemas.co.uk/film/105910-minions-monsters
+ https://penzance.merlincinemas.co.uk/film/110835-minions-monsters
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
-URL:https://penzance.merlincinemas.co.uk/film/105910-minions-monsters
+URL:https://penzance.merlincinemas.co.uk/film/110835-minions-monsters
 END:VEVENT
 BEGIN:VEVENT
 UID:8fd8023287825b0db40281652a8a7d26647117ca@merlin-cinemas-calendar
