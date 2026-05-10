@@ -1,17 +1,4 @@
 {
-  "paw-patrol-the-dino-movie": {
-    "overview": "The PAW Patrol pups crash land on an uncharted tropical island filled with dinosaurs after their ship gets caught in a mysterious storm. They meet Rex, a pup who has been stranded on the island for years and has become an expert in all things dino-related. When the Patrol’s archrival, Mayor Humdinger, begins recklessly mining in hopes of exploiting the island for its natural resources, he inadvertently causes a huge, dormant volcano to erupt. The pups are thrown into a series of high-stakes, dino-sized rescues bigger than anything they’ve done before, as they must stop Humdinger before everything on the island goes extinct.",
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Family",
-      "Comedy"
-    ],
-    "vote_average": null,
-    "director": "Cal Brunker",
-    "cast": "Mckenna Grace, Rain Janjua, Henry Bolan, Lucien Duncan-Reid, Nylan Parthipan, Carter Young",
-    "cached_at": "2026-04-09T10:03:32.743891"
-  },
   "mortal-kombat-ii": {
     "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
     "genres": [
@@ -377,5 +364,19 @@
     "director": "James Watkins",
     "cast": "Tom Rhys Harries, Naomi Ackie, David Dencik, Max Minghella, Eddie Marsan, Nancy Carroll",
     "cached_at": "2026-05-05T10:27:37.982346"
+  },
+  "paw-patrol-the-dino-movie": {
+    "overview": "The PAW Patrol pups crash land on an uncharted tropical island filled with dinosaurs after their ship gets caught in a mysterious storm. They meet Rex, a pup who has been stranded on the island for years and has become an expert in all things dino-related. When the Patrol’s archrival, Mayor Humdinger, begins recklessly mining in hopes of exploiting the island for its natural resources, he inadvertently causes a huge, dormant volcano to erupt. The pups are thrown into a series of high-stakes, dino-sized rescues bigger than anything they’ve done before, as they must stop Humdinger before everything on the island goes extinct.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "vote_average": null,
+    "director": "Cal Brunker",
+    "cast": "Carter Young, Hayden Chamberlen, Mckenna Grace, Rain Janjua, Henry Bolan, Lucien Duncan-Reid",
+    "cached_at": "2026-05-10T10:05:21.191917"
   }
 }
