@@ -212,6 +212,23 @@ LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110835-minions-monsters
 END:VEVENT
 BEGIN:VEVENT
+UID:9d49d02fbb5098cf90fea8697638cb799c23bf1e@merlin-cinemas-calendar
+DTSTAMP:20260710T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Evil Dead Burn @ Merlin Redruth
+DESCRIPTION:Evil Dead Burn\nHorror\n\nAfter the loss of her husband, a woma
+ n seeks solace with her in-laws in their secluded family home. As one by o
+ ne they are transformed into Deadites—turning the gathering into a family 
+ reunion from hell—she comes to discover that the vows she took in life... 
+ live on even in death.\n\nStarring: Souheila Yacoub, Tandi Wright, Hunter 
+ Doohan, Luciane Buchanan, Erroll Shand, Maude Davey\n\nFilm release at Mer
+ lin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.uk/fil
+ m/110872-evil-dead-burn
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/110872-evil-dead-burn
+END:VEVENT
+BEGIN:VEVENT
 UID:13dc4edf7c83fa385f1147c962a4c8fa03d9589e@merlin-cinemas-calendar
 DTSTAMP:20260710T000000Z
 DTSTART;VALUE=DATE:20260710

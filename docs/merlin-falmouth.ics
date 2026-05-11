@@ -213,6 +213,23 @@ LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/110835-minions-monsters
 END:VEVENT
 BEGIN:VEVENT
+UID:850659ffb6345dc06623bd68b45de16090ece9af@merlin-cinemas-calendar
+DTSTAMP:20260710T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Evil Dead Burn @ Merlin Falmouth
+DESCRIPTION:Evil Dead Burn\nHorror\n\nAfter the loss of her husband, a woma
+ n seeks solace with her in-laws in their secluded family home. As one by o
+ ne they are transformed into Deadites—turning the gathering into a family 
+ reunion from hell—she comes to discover that the vows she took in life... 
+ live on even in death.\n\nStarring: Souheila Yacoub, Tandi Wright, Hunter 
+ Doohan, Luciane Buchanan, Erroll Shand, Maude Davey\n\nFilm release at Mer
+ lin Cinemas Falmouth\nBook tickets: https://falmouth.merlincinemas.co.uk/f
+ ilm/110872-evil-dead-burn
+LOCATION:Merlin Cinemas Falmouth
+URL:https://falmouth.merlincinemas.co.uk/film/110872-evil-dead-burn
+END:VEVENT
+BEGIN:VEVENT
 UID:e8b5f757000862a897217ecaa08f3624593cd9eb@merlin-cinemas-calendar
 DTSTAMP:20260710T000000Z
 DTSTART;VALUE=DATE:20260710

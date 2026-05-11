@@ -214,6 +214,23 @@ LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/110835-minions-monsters
 END:VEVENT
 BEGIN:VEVENT
+UID:e4ae451938cc24bf246ac8c04ee73d1d772a335b@merlin-cinemas-calendar
+DTSTAMP:20260710T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Evil Dead Burn @ Merlin The Ritz, Penzance
+DESCRIPTION:Evil Dead Burn\nHorror\n\nAfter the loss of her husband, a woma
+ n seeks solace with her in-laws in their secluded family home. As one by o
+ ne they are transformed into Deadites—turning the gathering into a family 
+ reunion from hell—she comes to discover that the vows she took in life... 
+ live on even in death.\n\nStarring: Souheila Yacoub, Tandi Wright, Hunter 
+ Doohan, Luciane Buchanan, Erroll Shand, Maude Davey\n\nFilm release at Mer
+ lin Cinemas The Ritz, Penzance\nBook tickets: https://ritz.merlincinemas.c
+ o.uk/film/110872-evil-dead-burn
+LOCATION:Merlin Cinemas The Ritz, Penzance
+URL:https://ritz.merlincinemas.co.uk/film/110872-evil-dead-burn
+END:VEVENT
+BEGIN:VEVENT
 UID:a27bd19d781413e2537f402b993e743f60b5b800@merlin-cinemas-calendar
 DTSTAMP:20260710T000000Z
 DTSTART;VALUE=DATE:20260710

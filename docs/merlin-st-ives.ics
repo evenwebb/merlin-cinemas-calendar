@@ -212,6 +212,23 @@ LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/110835-minions-monsters
 END:VEVENT
 BEGIN:VEVENT
+UID:7c1cb8a48eb0a44ba3e8f6fd362ef41a1a739a10@merlin-cinemas-calendar
+DTSTAMP:20260710T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Evil Dead Burn @ Merlin St Ives
+DESCRIPTION:Evil Dead Burn\nHorror\n\nAfter the loss of her husband, a woma
+ n seeks solace with her in-laws in their secluded family home. As one by o
+ ne they are transformed into Deadites—turning the gathering into a family 
+ reunion from hell—she comes to discover that the vows she took in life... 
+ live on even in death.\n\nStarring: Souheila Yacoub, Tandi Wright, Hunter 
+ Doohan, Luciane Buchanan, Erroll Shand, Maude Davey\n\nFilm release at Mer
+ lin Cinemas St Ives\nBook tickets: https://st-ives.merlincinemas.co.uk/fil
+ m/110872-evil-dead-burn
+LOCATION:Merlin Cinemas St Ives
+URL:https://st-ives.merlincinemas.co.uk/film/110872-evil-dead-burn
+END:VEVENT
+BEGIN:VEVENT
 UID:3ebf5561e9c84e25fc671d54a6e0c2ce20260f95@merlin-cinemas-calendar
 DTSTAMP:20260710T000000Z
 DTSTART;VALUE=DATE:20260710

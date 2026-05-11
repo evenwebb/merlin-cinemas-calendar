@@ -216,6 +216,23 @@ LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110835-minions-monsters
 END:VEVENT
 BEGIN:VEVENT
+UID:a2ab886e93f91268ea5a1836cf4597bb8f5fe607@merlin-cinemas-calendar
+DTSTAMP:20260710T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Evil Dead Burn @ Merlin Savoy Cinema, Penzance
+DESCRIPTION:Evil Dead Burn\nHorror\n\nAfter the loss of her husband, a woma
+ n seeks solace with her in-laws in their secluded family home. As one by o
+ ne they are transformed into Deadites—turning the gathering into a family 
+ reunion from hell—she comes to discover that the vows she took in life... 
+ live on even in death.\n\nStarring: Souheila Yacoub, Tandi Wright, Hunter 
+ Doohan, Luciane Buchanan, Erroll Shand, Maude Davey\n\nFilm release at Mer
+ lin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.merlinc
+ inemas.co.uk/film/110872-evil-dead-burn
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/110872-evil-dead-burn
+END:VEVENT
+BEGIN:VEVENT
 UID:8fd8023287825b0db40281652a8a7d26647117ca@merlin-cinemas-calendar
 DTSTAMP:20260710T000000Z
 DTSTART;VALUE=DATE:20260710
