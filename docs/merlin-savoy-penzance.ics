@@ -33,11 +33,9 @@ DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Bonnie & Clive with The Jive Aces Double Bill @ Merlin Savoy Cinema
  , Penzance
-DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nQ&A Lineup in 
- Penzance: Director Pip Piper - Chris Hines, Co-founder Surfers Against Sew
- age - Colin Campbell, Founder Sunray Sportswear\n\nFilm release at Merlin 
- Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.merlincinem
- as.co.uk/film/110073-bonnie-clive-with-the-jive-aces-double-bill
+DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nFilm release a
+ t Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.me
+ rlincinemas.co.uk/film/110073-bonnie-clive-with-the-jive-aces-double-bill
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110073-bonnie-clive-with-the-
  jive-aces-double-bill
@@ -329,10 +327,10 @@ URL:https://penzance.merlincinemas.co.uk/film/109808-insidious-out-of-the-f
  urther
 END:VEVENT
 BEGIN:VEVENT
-UID:65149418991c58d93cc51aa4ffe8f0f4e0378e2e@merlin-cinemas-calendar
-DTSTAMP:20260828T000000Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
+UID:7932fb17d3e3ab321da7d42760482e5b48958945@merlin-cinemas-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
 SUMMARY:The Dog Stars @ Merlin Savoy Cinema, Penzance
 DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  e world's population has been ravaged by a pandemic, a man lives a lonesom

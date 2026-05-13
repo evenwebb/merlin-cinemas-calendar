@@ -31,11 +31,9 @@ DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Bonnie & Clive with The Jive Aces Double Bill @ Merlin Falmouth
-DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nQ&A Lineup in 
- Penzance: Director Pip Piper - Chris Hines, Co-founder Surfers Against Sew
- age - Colin Campbell, Founder Sunray Sportswear\n\nFilm release at Merlin 
- Cinemas Falmouth\nBook tickets: https://falmouth.merlincinemas.co.uk/film/
- 110073-bonnie-clive-with-the-jive-aces-double-bill
+DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nFilm release a
+ t Merlin Cinemas Falmouth\nBook tickets: https://falmouth.merlincinemas.co
+ .uk/film/110073-bonnie-clive-with-the-jive-aces-double-bill
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/110073-bonnie-clive-with-the-
  jive-aces-double-bill
@@ -325,10 +323,10 @@ URL:https://falmouth.merlincinemas.co.uk/film/109808-insidious-out-of-the-f
  urther
 END:VEVENT
 BEGIN:VEVENT
-UID:fcb50272efa244db3cf85cc1571e9fe0ea30878c@merlin-cinemas-calendar
-DTSTAMP:20260828T000000Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
+UID:6e826180265f5d20ff5a0c198e8a909e4e2776b9@merlin-cinemas-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
 SUMMARY:The Dog Stars @ Merlin Falmouth
 DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  e world's population has been ravaged by a pandemic, a man lives a lonesom

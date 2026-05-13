@@ -31,11 +31,9 @@ DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Bonnie & Clive with The Jive Aces Double Bill @ Merlin Helston
-DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nQ&A Lineup in 
- Penzance: Director Pip Piper - Chris Hines, Co-founder Surfers Against Sew
- age - Colin Campbell, Founder Sunray Sportswear\n\nFilm release at Merlin 
- Cinemas Helston\nBook tickets: https://helston.merlincinemas.co.uk/film/11
- 0073-bonnie-clive-with-the-jive-aces-double-bill
+DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nFilm release a
+ t Merlin Cinemas Helston\nBook tickets: https://helston.merlincinemas.co.u
+ k/film/110073-bonnie-clive-with-the-jive-aces-double-bill
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/110073-bonnie-clive-with-the-j
  ive-aces-double-bill
@@ -323,10 +321,10 @@ URL:https://helston.merlincinemas.co.uk/film/109808-insidious-out-of-the-fu
  rther
 END:VEVENT
 BEGIN:VEVENT
-UID:d14ecff601bcdab2310f569463ab3cec1160a44e@merlin-cinemas-calendar
-DTSTAMP:20260828T000000Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
+UID:2da8eaf99c05b4d6c999f036ae313bf49f62347d@merlin-cinemas-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
 SUMMARY:The Dog Stars @ Merlin Helston
 DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  e world's population has been ravaged by a pandemic, a man lives a lonesom

@@ -31,11 +31,9 @@ DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Bonnie & Clive with The Jive Aces Double Bill @ Merlin Bodmin
-DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nQ&A Lineup in 
- Penzance: Director Pip Piper - Chris Hines, Co-founder Surfers Against Sew
- age - Colin Campbell, Founder Sunray Sportswear\n\nFilm release at Merlin 
- Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/film/1100
- 73-bonnie-clive-with-the-jive-aces-double-bill
+DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nFilm release a
+ t Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/
+ film/110073-bonnie-clive-with-the-jive-aces-double-bill
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110073-bonnie-clive-with-the-ji
  ve-aces-double-bill
@@ -322,10 +320,10 @@ URL:https://bodmin.merlincinemas.co.uk/film/109808-insidious-out-of-the-fur
  ther
 END:VEVENT
 BEGIN:VEVENT
-UID:aa9d200ab758c0806b10ddc386d2981cbe6530df@merlin-cinemas-calendar
-DTSTAMP:20260828T000000Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
+UID:d33134566c56fdca2d3657585f70bd47b889dc1f@merlin-cinemas-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
 SUMMARY:The Dog Stars @ Merlin Bodmin
 DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  e world's population has been ravaged by a pandemic, a man lives a lonesom

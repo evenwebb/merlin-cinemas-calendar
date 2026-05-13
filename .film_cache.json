@@ -1,67 +1,4 @@
 {
-  "merlin:/film/110073-bonnie-clive-with-the-jive-aces-double-bill": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "Q&A Lineup in Penzance: Director Pip Piper - Chris Hines, Co-founder Surfers Against Sewage - Colin Campbell, Founder Sunray Sportswear",
-    "director": "",
-    "cached_at": "2026-05-06T10:56:12.324763"
-  },
-  "merlin:/film/109183-scary-movie": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-06T10:56:15.760215"
-  },
-  "merlin:/film/109013-savage-house": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Q&A Lineup in Redruth: Director Pip Piper - Rachel Yates, Surfers Against Sewage",
-    "director": "",
-    "cached_at": "2026-05-06T10:56:17.274717"
-  },
-  "merlin:/film/109011-spiderman-brand-new-day": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-06T10:56:20.323344"
-  },
-  "merlin:/film/109928-the-dog-stars": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Q&A Lineup in Redruth: Director Pip Piper - Rachel Yates, Surfers Against Sewage",
-    "director": "",
-    "cached_at": "2026-05-06T10:56:22.696901"
-  },
-  "merlin:/film/109185-pressure": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "The original date has been rescheduled by the promoter, and this event will now take place on 3rd August. We have emailed all bookings, and all tickets will be valid for the new date. Please contact action@merlincinemas.co.uk if you need any further assistance",
-    "director": "",
-    "cached_at": "2026-05-06T10:56:24.799269"
-  },
-  "merlin:/film/109186-forgotten-island": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-06T10:56:28.755876"
-  },
-  "merlin:/film/109012-wild-horse-nine": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-06T10:56:28.468164"
-  },
-  "merlin:/film/109010-dune-part-three": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Q&A Lineup in Redruth: Director Pip Piper - Rachel Yates, Surfers Against Sewage",
-    "director": "",
-    "cached_at": "2026-05-06T10:56:33.450533"
-  },
   "merlin:/film/110320-the-amazing-digital-circus-the-last-act": {
     "runtime": "",
     "cast": "Starring Ben 2026",
@@ -222,5 +159,68 @@
     "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
     "director": "",
     "cached_at": "2026-05-12T11:12:05.005604"
+  },
+  "merlin:/film/110073-bonnie-clive-with-the-jive-aces-double-bill": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-13T11:25:16.999217"
+  },
+  "merlin:/film/109183-scary-movie": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-13T11:25:18.675195"
+  },
+  "merlin:/film/109013-savage-house": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-13T11:25:23.270823"
+  },
+  "merlin:/film/109011-spiderman-brand-new-day": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-13T11:25:24.501606"
+  },
+  "merlin:/film/109928-the-dog-stars": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-13T11:25:28.659734"
+  },
+  "merlin:/film/109185-pressure": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-13T11:25:30.116222"
+  },
+  "merlin:/film/109186-forgotten-island": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-13T11:25:29.923340"
+  },
+  "merlin:/film/109012-wild-horse-nine": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-13T11:25:34.060652"
+  },
+  "merlin:/film/109010-dune-part-three": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-13T11:25:37.052020"
   }
 }
