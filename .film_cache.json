@@ -1,102 +1,4 @@
 {
-  "merlin:/film/102342-star-wars-the-mandalorian-and-grogu": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Q&A Lineup in Redruth: Director Pip Piper - Rachel Yates, Surfers Against Sewage",
-    "director": "",
-    "cached_at": "2026-05-09T10:00:07.593551"
-  },
-  "merlin:/film/107143-masters-of-the-universe": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-09T10:00:10.512880"
-  },
-  "merlin:/film/106122-disclosure-day": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Q&A Lineup in Redruth: Director Pip Piper - Rachel Yates, Surfers Against Sewage",
-    "director": "",
-    "cached_at": "2026-05-09T10:00:13.690366"
-  },
-  "merlin:/film/105258-toy-story-5": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-09T10:00:14.348395"
-  },
-  "merlin:/film/106024-supergirl": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Q&A Lineup in Redruth: Director Pip Piper - Rachel Yates, Surfers Against Sewage",
-    "director": "",
-    "cached_at": "2026-05-09T10:00:18.508218"
-  },
-  "merlin:/film/110835-minions-monsters": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "The original date has been rescheduled by the promoter, and this event will now take place on 3rd August. We have emailed all bookings, and all tickets will be valid for the new date. Please contact action@merlincinemas.co.uk if you need any further assistance",
-    "director": "",
-    "cached_at": "2026-05-09T10:00:19.278691"
-  },
-  "merlin:/film/105535-moana": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Q&A Lineup in Redruth: Director Pip Piper - Rachel Yates, Surfers Against Sewage",
-    "director": "",
-    "cached_at": "2026-05-09T10:00:23.637679"
-  },
-  "merlin:/film/106038-the-odyssey": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-09T10:00:25.475003"
-  },
-  "merlin:/film/109808-insidious-out-of-the-further": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Q&A Lineup in Redruth: Director Pip Piper - Rachel Yates, Surfers Against Sewage",
-    "director": "",
-    "cached_at": "2026-05-09T10:00:28.511766"
-  },
-  "merlin:/film/108998-shaun-the-sheep-the-beast-of-mossy-bottom": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-09T10:00:29.033325"
-  },
-  "merlin:/film/109884-street-fighter": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Q&A Lineup in Redruth: Director Pip Piper - Rachel Yates, Surfers Against Sewage",
-    "director": "",
-    "cached_at": "2026-05-09T10:00:33.235621"
-  },
-  "merlin:/film/105537-the-hunger-games-sunrise-on-the-reaping": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-09T10:00:34.105276"
-  },
-  "merlin:/film/109883-fockerinlaw": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Q&A Lineup in Redruth: Director Pip Piper - Rachel Yates, Surfers Against Sewage",
-    "director": "",
-    "cached_at": "2026-05-09T10:00:38.524020"
-  },
-  "merlin:/film/106451-avengers-doomsday": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-09T10:00:40.739999"
-  },
   "merlin:/film/110872-evil-dead-burn": {
     "runtime": "",
     "cast": "Starring Ben 2026",
@@ -222,5 +124,103 @@
     "synopsis": "",
     "director": "",
     "cached_at": "2026-05-14T11:08:30.681771"
+  },
+  "merlin:/film/102342-star-wars-the-mandalorian-and-grogu": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-16T10:07:22.817226"
+  },
+  "merlin:/film/107143-masters-of-the-universe": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-16T10:07:24.591774"
+  },
+  "merlin:/film/106122-disclosure-day": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-16T10:07:30.177249"
+  },
+  "merlin:/film/105258-toy-story-5": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-16T10:07:31.012605"
+  },
+  "merlin:/film/106024-supergirl": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-16T10:07:37.511203"
+  },
+  "merlin:/film/110835-minions-monsters": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "The original date has been rescheduled by the promoter, and this event will now take place on 3rd August. We have emailed all bookings, and all tickets will be valid for the new date. Please contact action@merlincinemas.co.uk if you need any further assistance",
+    "director": "",
+    "cached_at": "2026-05-16T10:07:36.239835"
+  },
+  "merlin:/film/105535-moana": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-16T10:07:42.292205"
+  },
+  "merlin:/film/106038-the-odyssey": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-16T10:07:44.607050"
+  },
+  "merlin:/film/109808-insidious-out-of-the-further": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-16T10:07:46.348373"
+  },
+  "merlin:/film/108998-shaun-the-sheep-the-beast-of-mossy-bottom": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-16T10:07:52.936237"
+  },
+  "merlin:/film/109884-street-fighter": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "The original date has been rescheduled by the promoter, and this event will now take place on 3rd August. We have emailed all bookings, and all tickets will be valid for the new date. Please contact action@merlincinemas.co.uk if you need any further assistance",
+    "director": "",
+    "cached_at": "2026-05-16T10:07:53.541124"
+  },
+  "merlin:/film/105537-the-hunger-games-sunrise-on-the-reaping": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-16T10:07:57.687197"
+  },
+  "merlin:/film/109883-fockerinlaw": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-16T10:07:59.239054"
+  },
+  "merlin:/film/106451-avengers-doomsday": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-16T10:08:03.383795"
   }
 }
