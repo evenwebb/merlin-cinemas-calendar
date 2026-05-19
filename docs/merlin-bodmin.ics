@@ -7,25 +7,6 @@ X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:0a4655aaf01c11f70fdbe8312a5b6901f97b1b78@merlin-cinemas-calendar
-DTSTAMP:20260522T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-SUMMARY:Star Wars: The Mandalorian And Grogu @ Merlin Bodmin
-DESCRIPTION:Star Wars: The Mandalorian And Grogu\nAction, Adventure, Scienc
- e Fiction\n\nThe evil Empire has fallen, and Imperial warlords remain scat
- tered throughout the galaxy. As the fledgling New Republic works to protec
- t everything the Rebellion fought for, they have enlisted the help of lege
- ndary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.
- \n\nStarring: Pedro Pascal, Jeremy Allen White, Sigourney Weaver, Jonny Co
- yne, Dave Filoni, Steve Blum\n\nFilm release at Merlin Cinemas Bodmin\nBoo
- k tickets: https://bodmin.merlincinemas.co.uk/film/102342-star-wars-the-ma
- ndalorian-and-grogu
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/102342-star-wars-the-mandaloria
- n-and-grogu
-END:VEVENT
-BEGIN:VEVENT
 UID:d1fbfa8627fb468b071dc792098d7cbe54f7e2b8@merlin-cinemas-calendar
 DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603

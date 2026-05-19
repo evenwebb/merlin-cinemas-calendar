@@ -7,25 +7,6 @@ X-WR-CALNAME:Merlin The Ritz, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas The Ritz, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:4cbd47b5a4bd808a8a71d1993cef692f7868373e@merlin-cinemas-calendar
-DTSTAMP:20260522T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-SUMMARY:Star Wars: The Mandalorian And Grogu @ Merlin The Ritz, Penzance
-DESCRIPTION:Star Wars: The Mandalorian And Grogu\nAction, Adventure, Scienc
- e Fiction\n\nThe evil Empire has fallen, and Imperial warlords remain scat
- tered throughout the galaxy. As the fledgling New Republic works to protec
- t everything the Rebellion fought for, they have enlisted the help of lege
- ndary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.
- \n\nStarring: Pedro Pascal, Jeremy Allen White, Sigourney Weaver, Jonny Co
- yne, Dave Filoni, Steve Blum\n\nFilm release at Merlin Cinemas The Ritz, P
- enzance\nBook tickets: https://ritz.merlincinemas.co.uk/film/102342-star-w
- ars-the-mandalorian-and-grogu
-LOCATION:Merlin Cinemas The Ritz, Penzance
-URL:https://ritz.merlincinemas.co.uk/film/102342-star-wars-the-mandalorian-
- and-grogu
-END:VEVENT
-BEGIN:VEVENT
 UID:cef0e7fb920076b85d37d7fdf23d7ef3e0d4ff89@merlin-cinemas-calendar
 DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603

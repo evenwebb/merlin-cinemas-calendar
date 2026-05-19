@@ -7,25 +7,6 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:bdb59a3fa09b41686b159a9161d3b92f683e6067@merlin-cinemas-calendar
-DTSTAMP:20260522T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-SUMMARY:Star Wars: The Mandalorian And Grogu @ Merlin Redruth
-DESCRIPTION:Star Wars: The Mandalorian And Grogu\nAction, Adventure, Scienc
- e Fiction\n\nThe evil Empire has fallen, and Imperial warlords remain scat
- tered throughout the galaxy. As the fledgling New Republic works to protec
- t everything the Rebellion fought for, they have enlisted the help of lege
- ndary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.
- \n\nStarring: Pedro Pascal, Jeremy Allen White, Sigourney Weaver, Jonny Co
- yne, Dave Filoni, Steve Blum\n\nFilm release at Merlin Cinemas Redruth\nBo
- ok tickets: https://redruth.merlincinemas.co.uk/film/102342-star-wars-the-
- mandalorian-and-grogu
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/102342-star-wars-the-mandalori
- an-and-grogu
-END:VEVENT
-BEGIN:VEVENT
 UID:8dd15c323a835122a688b53e63741429fd4c931c@merlin-cinemas-calendar
 DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603

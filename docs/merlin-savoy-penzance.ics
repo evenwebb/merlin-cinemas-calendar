@@ -7,26 +7,6 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:c4fdb6c62a67992c781fd83a907e74d8f21ec3ff@merlin-cinemas-calendar
-DTSTAMP:20260522T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-SUMMARY:Star Wars: The Mandalorian And Grogu @ Merlin Savoy Cinema, Penzanc
- e
-DESCRIPTION:Star Wars: The Mandalorian And Grogu\nAction, Adventure, Scienc
- e Fiction\n\nThe evil Empire has fallen, and Imperial warlords remain scat
- tered throughout the galaxy. As the fledgling New Republic works to protec
- t everything the Rebellion fought for, they have enlisted the help of lege
- ndary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.
- \n\nStarring: Pedro Pascal, Jeremy Allen White, Sigourney Weaver, Jonny Co
- yne, Dave Filoni, Steve Blum\n\nFilm release at Merlin Cinemas Savoy Cinem
- a, Penzance\nBook tickets: https://penzance.merlincinemas.co.uk/film/10234
- 2-star-wars-the-mandalorian-and-grogu
-LOCATION:Merlin Cinemas Savoy Cinema, Penzance
-URL:https://penzance.merlincinemas.co.uk/film/102342-star-wars-the-mandalor
- ian-and-grogu
-END:VEVENT
-BEGIN:VEVENT
 UID:0f2b9a2c0eafca77bccdc9e819fb405e84915c46@merlin-cinemas-calendar
 DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603

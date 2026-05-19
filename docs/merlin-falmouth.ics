@@ -7,25 +7,6 @@ X-WR-CALNAME:Merlin Falmouth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Falmouth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:14ce7f9e217fd2e45598e2b1e7e87a5f74d72118@merlin-cinemas-calendar
-DTSTAMP:20260522T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-SUMMARY:Star Wars: The Mandalorian And Grogu @ Merlin Falmouth
-DESCRIPTION:Star Wars: The Mandalorian And Grogu\nAction, Adventure, Scienc
- e Fiction\n\nThe evil Empire has fallen, and Imperial warlords remain scat
- tered throughout the galaxy. As the fledgling New Republic works to protec
- t everything the Rebellion fought for, they have enlisted the help of lege
- ndary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.
- \n\nStarring: Pedro Pascal, Jeremy Allen White, Sigourney Weaver, Jonny Co
- yne, Dave Filoni, Steve Blum\n\nFilm release at Merlin Cinemas Falmouth\nB
- ook tickets: https://falmouth.merlincinemas.co.uk/film/102342-star-wars-th
- e-mandalorian-and-grogu
-LOCATION:Merlin Cinemas Falmouth
-URL:https://falmouth.merlincinemas.co.uk/film/102342-star-wars-the-mandalor
- ian-and-grogu
-END:VEVENT
-BEGIN:VEVENT
 UID:6bbc14d7f5060154472e27f4d5e0d81e05209782@merlin-cinemas-calendar
 DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603
