@@ -7,6 +7,24 @@ X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
+UID:41f06e162b116f70d3a9b7ef42635a0ed118494b@merlin-cinemas-calendar
+DTSTAMP:20260529T000000Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Power Ballad @ Merlin Bodmin
+DESCRIPTION:Power Ballad\nComedy, Music, Drama\n\nWhen Rick, a past-his-pri
+ me wedding singer, meets fading boy-band star Danny during a gig, the two 
+ bond over music and a late-night jam session. But when Danny turns one of 
+ Rick’s songs into the hit that reignites his career, Rick sets out to recl
+ aim the recognition he believes he deserves - even if it means risking eve
+ rything he cares about.\n\nStarring: Paul Rudd, Nick Jonas, Peter McDonald
+ , Marcella Plunkett, Rory Keenan, Keith McErlean\n\nFilm release at Merlin
+  Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/film/108
+ 363-power-ballad
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/108363-power-ballad
+END:VEVENT
+BEGIN:VEVENT
 UID:d1fbfa8627fb468b071dc792098d7cbe54f7e2b8@merlin-cinemas-calendar
 DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603
@@ -95,6 +113,19 @@ DESCRIPTION:Scary Movie\n★★★☆☆\nComedy\n\nA familiar-looking group of 
  y-movie
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109183-scary-movie
+END:VEVENT
+BEGIN:VEVENT
+UID:8e7576fcaec0b2cd5c2f219e9932824f7a9df770@merlin-cinemas-calendar
+DTSTAMP:20260607T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Zog & Zog And The Flying Doctors Toddler Cinema @ Merlin Bodmin
+DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nFilm release
+  at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.u
+ k/film/110837-zog-zog-and-the-flying-doctors-toddler-cinema
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying-d
+ octors-toddler-cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:bc9653be2afef67ba97ef827077778e84eff647b@merlin-cinemas-calendar
@@ -526,13 +557,13 @@ DTSTAMP:20261218T000000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ Merlin Bodmin
-DESCRIPTION:Dune: Part Three\nScience Fiction, Drama\n\nAs Emperor, Paul At
- reides grapples with the consequences of his rise to power as political co
- nspiracies and a galaxy-spanning holy war threaten the future he alone can
-  foresee.\n\nStarring: Timothée Chalamet, Zendaya, Jason Momoa, Florence P
- ugh, Rebecca Ferguson, Isaach de Bankolé\n\nFilm release at Merlin Cinemas
-  Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/film/109010-dune
- -part-three
+DESCRIPTION:Dune: Part Three\nScience Fiction, Adventure, Action\n\nAs Empe
+ ror, Paul Atreides grapples with the consequences of his rise to power as 
+ political conspiracies and a galaxy-spanning holy war threaten the future 
+ he alone can foresee.\n\nStarring: Timothée Chalamet, Zendaya, Jason Momoa
+ , Florence Pugh, Rebecca Ferguson, Isaach de Bankolé\n\nFilm release at Me
+ rlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/film
+ /109010-dune-part-three
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109010-dune-part-three
 END:VEVENT

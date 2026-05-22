@@ -7,6 +7,24 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
+UID:b211ee5d75a1c5d1db235d0d6877c7f1e663c750@merlin-cinemas-calendar
+DTSTAMP:20260529T000000Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Power Ballad @ Merlin Savoy Cinema, Penzance
+DESCRIPTION:Power Ballad\nComedy, Music, Drama\n\nWhen Rick, a past-his-pri
+ me wedding singer, meets fading boy-band star Danny during a gig, the two 
+ bond over music and a late-night jam session. But when Danny turns one of 
+ Rick’s songs into the hit that reignites his career, Rick sets out to recl
+ aim the recognition he believes he deserves - even if it means risking eve
+ rything he cares about.\n\nStarring: Paul Rudd, Nick Jonas, Peter McDonald
+ , Marcella Plunkett, Rory Keenan, Keith McErlean\n\nFilm release at Merlin
+  Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.merlincine
+ mas.co.uk/film/108363-power-ballad
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/108363-power-ballad
+END:VEVENT
+BEGIN:VEVENT
 UID:0f2b9a2c0eafca77bccdc9e819fb405e84915c46@merlin-cinemas-calendar
 DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603
@@ -99,6 +117,21 @@ DESCRIPTION:Scary Movie\n★★★☆☆\nComedy\n\nA familiar-looking group of 
  k/film/109183-scary-movie
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109183-scary-movie
+END:VEVENT
+BEGIN:VEVENT
+UID:a6cbd8a50bea9c75d46ab4b15d22e11c969c429c@merlin-cinemas-calendar
+DTSTAMP:20260607T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Zog & Zog And The Flying Doctors Toddler Cinema @ Merlin Savoy Cine
+ ma, Penzance
+DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nFilm release
+  at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.
+ merlincinemas.co.uk/film/110837-zog-zog-and-the-flying-doctors-toddler-cin
+ ema
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying
+ -doctors-toddler-cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:7637343141e9a4abdf07baebeed55ade1f74cdc7@merlin-cinemas-calendar
@@ -538,13 +571,13 @@ DTSTAMP:20261218T000000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Dune: Part Three @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:Dune: Part Three\nScience Fiction, Drama\n\nAs Emperor, Paul At
- reides grapples with the consequences of his rise to power as political co
- nspiracies and a galaxy-spanning holy war threaten the future he alone can
-  foresee.\n\nStarring: Timothée Chalamet, Zendaya, Jason Momoa, Florence P
- ugh, Rebecca Ferguson, Isaach de Bankolé\n\nFilm release at Merlin Cinemas
-  Savoy Cinema, Penzance\nBook tickets: https://penzance.merlincinemas.co.u
- k/film/109010-dune-part-three
+DESCRIPTION:Dune: Part Three\nScience Fiction, Adventure, Action\n\nAs Empe
+ ror, Paul Atreides grapples with the consequences of his rise to power as 
+ political conspiracies and a galaxy-spanning holy war threaten the future 
+ he alone can foresee.\n\nStarring: Timothée Chalamet, Zendaya, Jason Momoa
+ , Florence Pugh, Rebecca Ferguson, Isaach de Bankolé\n\nFilm release at Me
+ rlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.merlin
+ cinemas.co.uk/film/109010-dune-part-three
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109010-dune-part-three
 END:VEVENT
