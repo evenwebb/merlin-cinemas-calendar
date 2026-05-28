@@ -7,34 +7,14 @@ X-WR-CALNAME:Merlin Helston Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Helston
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:710f28c7c8305e884963c8e6b4e82672cdd5dba2@merlin-cinemas-calendar
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260530
-SUMMARY:Power Ballad @ Merlin Helston
-DESCRIPTION:Power Ballad\nComedy, Music, Drama\n\nWhen Rick, a past-his-pri
- me wedding singer, meets fading boy-band star Danny during a gig, the two 
- bond over music and a late-night jam session. But when Danny turns one of 
- Rick’s songs into the hit that reignites his career, Rick sets out to recl
- aim the recognition he believes he deserves - even if it means risking eve
- rything he cares about.\n\nStarring: Paul Rudd, Nick Jonas, Peter McDonald
- , Marcella Plunkett, Rory Keenan, Keith McErlean\n\nFilm release at Merlin
-  Cinemas Helston\nBook tickets: https://helston.merlincinemas.co.uk/film/1
- 08363-power-ballad
-LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/108363-power-ballad
-END:VEVENT
-BEGIN:VEVENT
 UID:9947eeadff0c4a517cda508ddfe89b18e6b88366@merlin-cinemas-calendar
 DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Bonnie & Clive with The Jive Aces Double Bill @ Merlin Helston
-DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nPrivate Luxury
-  Boxes are available for some performances,look out for the balcony icon w
- hen hovering over times.\n\nStarring: Starring Ben 2026\n\nFilm release at
-  Merlin Cinemas Helston\nBook tickets: https://helston.merlincinemas.co.uk
- /film/110073-bonnie-clive-with-the-jive-aces-double-bill
+DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nFilm release a
+ t Merlin Cinemas Helston\nBook tickets: https://helston.merlincinemas.co.u
+ k/film/110073-bonnie-clive-with-the-jive-aces-double-bill
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/110073-bonnie-clive-with-the-j
  ive-aces-double-bill
@@ -60,25 +40,6 @@ DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/110320-the-amazing-digital-cir
  cus-the-last-act
-END:VEVENT
-BEGIN:VEVENT
-UID:7796ff99f1edc3811bf8de9a154da640c8965502@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Masters Of The Universe @ Merlin Helston
-DESCRIPTION:Masters Of The Universe\nAction, Fantasy, Science Fiction\n\nAf
- ter being separated for 15 years, the Sword of Power leads Prince Adam bac
- k to Eternia, where he discovers his home shattered under the fiendish rul
- e of Skeletor. To save his family and his world, Adam must join forces wit
- h his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true d
- estiny as He-Man — the most powerful man in the universe.\n\nStarring: Nic
- holas Galitzine, Camila Mendes, Alison Brie, James Purefoy, Morena Baccari
- n, Jóhannes Haukur Jóhannesson\n\nFilm release at Merlin Cinemas Helston\n
- Book tickets: https://helston.merlincinemas.co.uk/film/107143-masters-of-t
- he-universe
-LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/107143-masters-of-the-universe
 END:VEVENT
 BEGIN:VEVENT
 UID:3aa723dcc24e69cdeecfd5b2c82ace88b08f82f2@merlin-cinemas-calendar
@@ -160,6 +121,22 @@ LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/105258-toy-story-5
 END:VEVENT
 BEGIN:VEVENT
+UID:85aff4542e18ab9233aaa4a92ba21d30a06ca97d@merlin-cinemas-calendar
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Supergirl @ Merlin Helston
+DESCRIPTION:Supergirl\nAction, Adventure, Science Fiction\n\nWhen an unexpe
+ cted and ruthless adversary strikes too close to home, Kara Zor-El, aka Su
+ pergirl, reluctantly joins forces with an unlikely companion on an epic, i
+ nterstellar journey of vengeance and justice.\n\nStarring: Milly Alcock, M
+ atthias Schoenaerts, Eve Ridley, David Krumholtz, Emily Beecham, Jason Mom
+ oa\n\nFilm release at Merlin Cinemas Helston\nBook tickets: https://helsto
+ n.merlincinemas.co.uk/film/106024-supergirl
+LOCATION:Merlin Cinemas Helston
+URL:https://helston.merlincinemas.co.uk/film/106024-supergirl
+END:VEVENT
+BEGIN:VEVENT
 UID:8cfb12531ef34268775bf93e42fe6c0c5085d9d8@merlin-cinemas-calendar
 DTSTAMP:20260626T000000Z
 DTSTART;VALUE=DATE:20260626
@@ -189,22 +166,6 @@ DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe 5th
  02-jackass-best-and-last
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/110402-jackass-best-and-last
-END:VEVENT
-BEGIN:VEVENT
-UID:fb79d737ea5e4f7ce850b39db6f533dd315ad55e@merlin-cinemas-calendar
-DTSTAMP:20260626T000000Z
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260627
-SUMMARY:Supergirl @ Merlin Helston
-DESCRIPTION:Supergirl\nAction, Adventure, Science Fiction\n\nWhen an unexpe
- cted and ruthless adversary strikes too close to home, Kara Zor-El, aka Su
- pergirl, reluctantly joins forces with an unlikely companion on an epic, i
- nterstellar journey of vengeance and justice.\n\nStarring: Milly Alcock, M
- atthias Schoenaerts, Eve Ridley, David Krumholtz, Emily Beecham, Jason Mom
- oa\n\nFilm release at Merlin Cinemas Helston\nBook tickets: https://helsto
- n.merlincinemas.co.uk/film/106024-supergirl
-LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/106024-supergirl
 END:VEVENT
 BEGIN:VEVENT
 UID:c36042c5c862f4b764b0f42da3ad5b3f5cfa005d@merlin-cinemas-calendar

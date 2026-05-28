@@ -7,34 +7,14 @@ X-WR-CALNAME:Merlin Falmouth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Falmouth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:fb1e3189edf46c8ec46902b0f0302697e9c2db23@merlin-cinemas-calendar
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260530
-SUMMARY:Power Ballad @ Merlin Falmouth
-DESCRIPTION:Power Ballad\nComedy, Music, Drama\n\nWhen Rick, a past-his-pri
- me wedding singer, meets fading boy-band star Danny during a gig, the two 
- bond over music and a late-night jam session. But when Danny turns one of 
- Rick’s songs into the hit that reignites his career, Rick sets out to recl
- aim the recognition he believes he deserves - even if it means risking eve
- rything he cares about.\n\nStarring: Paul Rudd, Nick Jonas, Peter McDonald
- , Marcella Plunkett, Rory Keenan, Keith McErlean\n\nFilm release at Merlin
-  Cinemas Falmouth\nBook tickets: https://falmouth.merlincinemas.co.uk/film
- /108363-power-ballad
-LOCATION:Merlin Cinemas Falmouth
-URL:https://falmouth.merlincinemas.co.uk/film/108363-power-ballad
-END:VEVENT
-BEGIN:VEVENT
 UID:6bbc14d7f5060154472e27f4d5e0d81e05209782@merlin-cinemas-calendar
 DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Bonnie & Clive with The Jive Aces Double Bill @ Merlin Falmouth
-DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nPrivate Luxury
-  Boxes are available for some performances,look out for the balcony icon w
- hen hovering over times.\n\nStarring: Starring Ben 2026\n\nFilm release at
-  Merlin Cinemas Falmouth\nBook tickets: https://falmouth.merlincinemas.co.
- uk/film/110073-bonnie-clive-with-the-jive-aces-double-bill
+DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nFilm release a
+ t Merlin Cinemas Falmouth\nBook tickets: https://falmouth.merlincinemas.co
+ .uk/film/110073-bonnie-clive-with-the-jive-aces-double-bill
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/110073-bonnie-clive-with-the-
  jive-aces-double-bill
@@ -60,26 +40,6 @@ DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/110320-the-amazing-digital-ci
  rcus-the-last-act
-END:VEVENT
-BEGIN:VEVENT
-UID:a3c27f482c2a7649f63d877199ca81e80e7535e0@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Masters Of The Universe @ Merlin Falmouth
-DESCRIPTION:Masters Of The Universe\nAction, Fantasy, Science Fiction\n\nAf
- ter being separated for 15 years, the Sword of Power leads Prince Adam bac
- k to Eternia, where he discovers his home shattered under the fiendish rul
- e of Skeletor. To save his family and his world, Adam must join forces wit
- h his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true d
- estiny as He-Man — the most powerful man in the universe.\n\nStarring: Nic
- holas Galitzine, Camila Mendes, Alison Brie, James Purefoy, Morena Baccari
- n, Jóhannes Haukur Jóhannesson\n\nFilm release at Merlin Cinemas Falmouth\
- nBook tickets: https://falmouth.merlincinemas.co.uk/film/107143-masters-of
- -the-universe
-LOCATION:Merlin Cinemas Falmouth
-URL:https://falmouth.merlincinemas.co.uk/film/107143-masters-of-the-univers
- e
 END:VEVENT
 BEGIN:VEVENT
 UID:03d046f8206c0cdffde8dde1a060bcf715792b26@merlin-cinemas-calendar
@@ -161,6 +121,22 @@ LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/105258-toy-story-5
 END:VEVENT
 BEGIN:VEVENT
+UID:10b01cbd8568f7cde60039aff461ae0534358c95@merlin-cinemas-calendar
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Supergirl @ Merlin Falmouth
+DESCRIPTION:Supergirl\nAction, Adventure, Science Fiction\n\nWhen an unexpe
+ cted and ruthless adversary strikes too close to home, Kara Zor-El, aka Su
+ pergirl, reluctantly joins forces with an unlikely companion on an epic, i
+ nterstellar journey of vengeance and justice.\n\nStarring: Milly Alcock, M
+ atthias Schoenaerts, Eve Ridley, David Krumholtz, Emily Beecham, Jason Mom
+ oa\n\nFilm release at Merlin Cinemas Falmouth\nBook tickets: https://falmo
+ uth.merlincinemas.co.uk/film/106024-supergirl
+LOCATION:Merlin Cinemas Falmouth
+URL:https://falmouth.merlincinemas.co.uk/film/106024-supergirl
+END:VEVENT
+BEGIN:VEVENT
 UID:31ae8c9e001b362d638a3edf0833df8fbfbe8878@merlin-cinemas-calendar
 DTSTAMP:20260626T000000Z
 DTSTART;VALUE=DATE:20260626
@@ -190,22 +166,6 @@ DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe 5th
  0402-jackass-best-and-last
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/110402-jackass-best-and-last
-END:VEVENT
-BEGIN:VEVENT
-UID:104ab32dc5de77e8ff26a59d79d517541f3d0e2a@merlin-cinemas-calendar
-DTSTAMP:20260626T000000Z
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260627
-SUMMARY:Supergirl @ Merlin Falmouth
-DESCRIPTION:Supergirl\nAction, Adventure, Science Fiction\n\nWhen an unexpe
- cted and ruthless adversary strikes too close to home, Kara Zor-El, aka Su
- pergirl, reluctantly joins forces with an unlikely companion on an epic, i
- nterstellar journey of vengeance and justice.\n\nStarring: Milly Alcock, M
- atthias Schoenaerts, Eve Ridley, David Krumholtz, Emily Beecham, Jason Mom
- oa\n\nFilm release at Merlin Cinemas Falmouth\nBook tickets: https://falmo
- uth.merlincinemas.co.uk/film/106024-supergirl
-LOCATION:Merlin Cinemas Falmouth
-URL:https://falmouth.merlincinemas.co.uk/film/106024-supergirl
 END:VEVENT
 BEGIN:VEVENT
 UID:751e37face8b19bf28df81075d8e99fc40cd4035@merlin-cinemas-calendar

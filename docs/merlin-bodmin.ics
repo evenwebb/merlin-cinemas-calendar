@@ -7,34 +7,14 @@ X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:41f06e162b116f70d3a9b7ef42635a0ed118494b@merlin-cinemas-calendar
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260530
-SUMMARY:Power Ballad @ Merlin Bodmin
-DESCRIPTION:Power Ballad\nComedy, Music, Drama\n\nWhen Rick, a past-his-pri
- me wedding singer, meets fading boy-band star Danny during a gig, the two 
- bond over music and a late-night jam session. But when Danny turns one of 
- Rick’s songs into the hit that reignites his career, Rick sets out to recl
- aim the recognition he believes he deserves - even if it means risking eve
- rything he cares about.\n\nStarring: Paul Rudd, Nick Jonas, Peter McDonald
- , Marcella Plunkett, Rory Keenan, Keith McErlean\n\nFilm release at Merlin
-  Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/film/108
- 363-power-ballad
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/108363-power-ballad
-END:VEVENT
-BEGIN:VEVENT
 UID:d1fbfa8627fb468b071dc792098d7cbe54f7e2b8@merlin-cinemas-calendar
 DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Bonnie & Clive with The Jive Aces Double Bill @ Merlin Bodmin
-DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nPrivate Luxury
-  Boxes are available for some performances,look out for the balcony icon w
- hen hovering over times.\n\nStarring: Starring Ben 2026\n\nFilm release at
-  Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/f
- ilm/110073-bonnie-clive-with-the-jive-aces-double-bill
+DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nFilm release a
+ t Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/
+ film/110073-bonnie-clive-with-the-jive-aces-double-bill
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110073-bonnie-clive-with-the-ji
  ve-aces-double-bill
@@ -60,25 +40,6 @@ DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110320-the-amazing-digital-circ
  us-the-last-act
-END:VEVENT
-BEGIN:VEVENT
-UID:ff4143d2cb2684e2e7b9da140b8430899b5b3934@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Masters Of The Universe @ Merlin Bodmin
-DESCRIPTION:Masters Of The Universe\nAction, Fantasy, Science Fiction\n\nAf
- ter being separated for 15 years, the Sword of Power leads Prince Adam bac
- k to Eternia, where he discovers his home shattered under the fiendish rul
- e of Skeletor. To save his family and his world, Adam must join forces wit
- h his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true d
- estiny as He-Man — the most powerful man in the universe.\n\nStarring: Nic
- holas Galitzine, Camila Mendes, Alison Brie, James Purefoy, Morena Baccari
- n, Jóhannes Haukur Jóhannesson\n\nFilm release at Merlin Cinemas Bodmin\nB
- ook tickets: https://bodmin.merlincinemas.co.uk/film/107143-masters-of-the
- -universe
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/107143-masters-of-the-universe
 END:VEVENT
 BEGIN:VEVENT
 UID:b55187cdc5fc8cc6d6db05ea77899c72b4581b22@merlin-cinemas-calendar
@@ -159,6 +120,22 @@ LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/105258-toy-story-5
 END:VEVENT
 BEGIN:VEVENT
+UID:e56c50b3a1f646b902ee58f744c2ef40b1071972@merlin-cinemas-calendar
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Supergirl @ Merlin Bodmin
+DESCRIPTION:Supergirl\nAction, Adventure, Science Fiction\n\nWhen an unexpe
+ cted and ruthless adversary strikes too close to home, Kara Zor-El, aka Su
+ pergirl, reluctantly joins forces with an unlikely companion on an epic, i
+ nterstellar journey of vengeance and justice.\n\nStarring: Milly Alcock, M
+ atthias Schoenaerts, Eve Ridley, David Krumholtz, Emily Beecham, Jason Mom
+ oa\n\nFilm release at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.
+ merlincinemas.co.uk/film/106024-supergirl
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/106024-supergirl
+END:VEVENT
+BEGIN:VEVENT
 UID:4420b7a665e9e9872ee150fe3d0d0dd0310977fe@merlin-cinemas-calendar
 DTSTAMP:20260626T000000Z
 DTSTART;VALUE=DATE:20260626
@@ -188,22 +165,6 @@ DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe 5th
  -jackass-best-and-last
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110402-jackass-best-and-last
-END:VEVENT
-BEGIN:VEVENT
-UID:025cb2452289b10cc4e026b4bffb18fba28bb720@merlin-cinemas-calendar
-DTSTAMP:20260626T000000Z
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260627
-SUMMARY:Supergirl @ Merlin Bodmin
-DESCRIPTION:Supergirl\nAction, Adventure, Science Fiction\n\nWhen an unexpe
- cted and ruthless adversary strikes too close to home, Kara Zor-El, aka Su
- pergirl, reluctantly joins forces with an unlikely companion on an epic, i
- nterstellar journey of vengeance and justice.\n\nStarring: Milly Alcock, M
- atthias Schoenaerts, Eve Ridley, David Krumholtz, Emily Beecham, Jason Mom
- oa\n\nFilm release at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.
- merlincinemas.co.uk/film/106024-supergirl
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/106024-supergirl
 END:VEVENT
 BEGIN:VEVENT
 UID:26b1af22ca825120a3b5fd5839fd39934b9be441@merlin-cinemas-calendar

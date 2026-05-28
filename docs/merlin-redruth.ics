@@ -7,24 +7,6 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:5e7d3e3b0d525f2e355ec1398e2f997cc3465b49@merlin-cinemas-calendar
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260530
-SUMMARY:Power Ballad @ Merlin Redruth
-DESCRIPTION:Power Ballad\nComedy, Music, Drama\n\nWhen Rick, a past-his-pri
- me wedding singer, meets fading boy-band star Danny during a gig, the two 
- bond over music and a late-night jam session. But when Danny turns one of 
- Rick’s songs into the hit that reignites his career, Rick sets out to recl
- aim the recognition he believes he deserves - even if it means risking eve
- rything he cares about.\n\nStarring: Paul Rudd, Nick Jonas, Peter McDonald
- , Marcella Plunkett, Rory Keenan, Keith McErlean\n\nFilm release at Merlin
-  Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.uk/film/1
- 08363-power-ballad
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/108363-power-ballad
-END:VEVENT
-BEGIN:VEVENT
 UID:8dd15c323a835122a688b53e63741429fd4c931c@merlin-cinemas-calendar
 DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603
@@ -60,25 +42,6 @@ DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110320-the-amazing-digital-cir
  cus-the-last-act
-END:VEVENT
-BEGIN:VEVENT
-UID:8453808323823244cc385ffe2905a0e09a826863@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Masters Of The Universe @ Merlin Redruth
-DESCRIPTION:Masters Of The Universe\nAction, Fantasy, Science Fiction\n\nAf
- ter being separated for 15 years, the Sword of Power leads Prince Adam bac
- k to Eternia, where he discovers his home shattered under the fiendish rul
- e of Skeletor. To save his family and his world, Adam must join forces wit
- h his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true d
- estiny as He-Man — the most powerful man in the universe.\n\nStarring: Nic
- holas Galitzine, Camila Mendes, Alison Brie, James Purefoy, Morena Baccari
- n, Jóhannes Haukur Jóhannesson\n\nFilm release at Merlin Cinemas Redruth\n
- Book tickets: https://redruth.merlincinemas.co.uk/film/107143-masters-of-t
- he-universe
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/107143-masters-of-the-universe
 END:VEVENT
 BEGIN:VEVENT
 UID:1e09cf3c078a8b6118f9a1ea72b5c27f03079a43@merlin-cinemas-calendar
@@ -160,6 +123,22 @@ LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/105258-toy-story-5
 END:VEVENT
 BEGIN:VEVENT
+UID:a02e6e850d63bca5fdb437f5bd21ec3e17503923@merlin-cinemas-calendar
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Supergirl @ Merlin Redruth
+DESCRIPTION:Supergirl\nAction, Adventure, Science Fiction\n\nWhen an unexpe
+ cted and ruthless adversary strikes too close to home, Kara Zor-El, aka Su
+ pergirl, reluctantly joins forces with an unlikely companion on an epic, i
+ nterstellar journey of vengeance and justice.\n\nStarring: Milly Alcock, M
+ atthias Schoenaerts, Eve Ridley, David Krumholtz, Emily Beecham, Jason Mom
+ oa\n\nFilm release at Merlin Cinemas Redruth\nBook tickets: https://redrut
+ h.merlincinemas.co.uk/film/106024-supergirl
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/106024-supergirl
+END:VEVENT
+BEGIN:VEVENT
 UID:91241ce9cacd32bdf990d143700c5624c3412816@merlin-cinemas-calendar
 DTSTAMP:20260626T000000Z
 DTSTART;VALUE=DATE:20260626
@@ -189,22 +168,6 @@ DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe 5th
  02-jackass-best-and-last
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110402-jackass-best-and-last
-END:VEVENT
-BEGIN:VEVENT
-UID:c0a27cf0637703307b6511031cb4c6c448dda8a7@merlin-cinemas-calendar
-DTSTAMP:20260626T000000Z
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260627
-SUMMARY:Supergirl @ Merlin Redruth
-DESCRIPTION:Supergirl\nAction, Adventure, Science Fiction\n\nWhen an unexpe
- cted and ruthless adversary strikes too close to home, Kara Zor-El, aka Su
- pergirl, reluctantly joins forces with an unlikely companion on an epic, i
- nterstellar journey of vengeance and justice.\n\nStarring: Milly Alcock, M
- atthias Schoenaerts, Eve Ridley, David Krumholtz, Emily Beecham, Jason Mom
- oa\n\nFilm release at Merlin Cinemas Redruth\nBook tickets: https://redrut
- h.merlincinemas.co.uk/film/106024-supergirl
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/106024-supergirl
 END:VEVENT
 BEGIN:VEVENT
 UID:fa6a09411f6a268726b045a78ee097cdf6e3c952@merlin-cinemas-calendar
