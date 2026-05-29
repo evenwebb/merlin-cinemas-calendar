@@ -1,14 +1,4 @@
 {
-  "scary-movie": {
-    "overview": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
-    "genres": [
-      "Comedy"
-    ],
-    "vote_average": 6.39,
-    "director": "Keenen Ivory Wayans",
-    "cast": "Anna Faris, Regina Hall, Marlon Wayans, Shawn Wayans, Jon Abrahams, Lochlyn Munro",
-    "cached_at": "2026-04-29T10:45:52.411944"
-  },
   "the-amazing-digital-circus-the-last-act": {
     "overview": "With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus and its history.  Will they come to terms with what they uncover, or will they make… the other choice? Also, presumably at some point someone says something funny, because this ending can’t be THAT depressing, can it? A theatrical screening of episode 8 and the all new, hour-long episode 9.",
     "genres": [
@@ -397,5 +387,16 @@
     "director": "",
     "cast": "",
     "cached_at": "2026-05-28T12:19:42.680974"
+  },
+  "scary-movie": {
+    "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "vote_average": null,
+    "director": "Michael Tiddes",
+    "cast": "Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall, Damon Wayans Jr., Gregg Wayans",
+    "cached_at": "2026-05-29T12:08:13.326331"
   }
 }

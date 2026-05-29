@@ -1,18 +1,4 @@
 {
-  "merlin:/film/108363-power-ballad": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-05-22T11:37:43.733518"
-  },
-  "merlin:/film/110837-zog-zog-and-the-flying-doctors-toddler-cinema": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-22T11:37:46.344058"
-  },
   "merlin:/film/107143-masters-of-the-universe": {
     "runtime": "",
     "cast": "Starring Ben 2026",
@@ -229,5 +215,12 @@
     "synopsis": "",
     "director": "",
     "cached_at": "2026-05-28T12:19:42.302483"
+  },
+  "merlin:/film/110837-zog-zog-and-the-flying-doctors-toddler-cinema": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-29T12:08:12.801999"
   }
 }

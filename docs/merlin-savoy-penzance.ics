@@ -13,9 +13,11 @@ DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Bonnie & Clive with The Jive Aces Double Bill @ Merlin Savoy Cinema
  , Penzance
-DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nFilm release a
- t Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.me
- rlincinemas.co.uk/film/110073-bonnie-clive-with-the-jive-aces-double-bill
+DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nPrivate Luxury
+  Boxes are available for some performances,look out for the balcony icon w
+ hen hovering over times.\n\nStarring: Starring Ben 2026\n\nFilm release at
+  Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.mer
+ lincinemas.co.uk/film/110073-bonnie-clive-with-the-jive-aces-double-bill
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110073-bonnie-clive-with-the-
  jive-aces-double-bill
@@ -67,14 +69,12 @@ DTSTAMP:20260605T000000Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Scary Movie @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:Scary Movie\n★★★☆☆\nComedy\n\nA familiar-looking group of teena
- gers find themselves being stalked by a more-than-vaguely recognizable mas
- ked killer! As the victims begin to pile up and the laughs pile on, none o
- f your favorite scary movies escape the razor-sharp satire of this outrage
- ously funny parody!\n\nStarring: Anna Faris, Regina Hall, Marlon Wayans, S
- hawn Wayans, Jon Abrahams, Lochlyn Munro\n\nFilm release at Merlin Cinemas
-  Savoy Cinema, Penzance\nBook tickets: https://penzance.merlincinemas.co.u
- k/film/109183-scary-movie
+DESCRIPTION:Scary Movie\nComedy, Horror\n\nTwenty-six years after outrunnin
+ g a suspiciously familiar masked killer, the Core Four are back in the kil
+ ler's crosshairs and no horror movie IP is safe.\n\nStarring: Marlon Wayan
+ s, Shawn Wayans, Anna Faris, Regina Hall, Damon Wayans Jr., Gregg Wayans\n
+ \nFilm release at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: htt
+ ps://penzance.merlincinemas.co.uk/film/109183-scary-movie
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109183-scary-movie
 END:VEVENT
