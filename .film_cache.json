@@ -1,95 +1,4 @@
 {
-  "merlin:/film/107143-masters-of-the-universe": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-05-23T10:21:08.324458"
-  },
-  "merlin:/film/106122-disclosure-day": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-23T10:21:11.440828"
-  },
-  "merlin:/film/105258-toy-story-5": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-05-23T10:21:13.852055"
-  },
-  "merlin:/film/106024-supergirl": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "The original date has been rescheduled by the promoter, and this event will now take place on 3rd August. We have emailed all bookings, and all tickets will be valid for the new date. Please contact action@merlincinemas.co.uk if you need any further assistance",
-    "director": "",
-    "cached_at": "2026-05-23T10:21:15.388943"
-  },
-  "merlin:/film/110835-minions-monsters": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-23T10:21:19.540292"
-  },
-  "merlin:/film/105535-moana": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-23T10:21:20.874019"
-  },
-  "merlin:/film/106038-the-odyssey": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-05-23T10:21:24.992393"
-  },
-  "merlin:/film/109808-insidious-out-of-the-further": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-23T10:21:26.217811"
-  },
-  "merlin:/film/108998-shaun-the-sheep-the-beast-of-mossy-bottom": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-05-23T10:21:30.507606"
-  },
-  "merlin:/film/109884-street-fighter": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-23T10:21:32.474790"
-  },
-  "merlin:/film/105537-the-hunger-games-sunrise-on-the-reaping": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-05-23T10:21:36.125736"
-  },
-  "merlin:/film/109883-fockerinlaw": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "The original date has been rescheduled by the promoter, and this event will now take place on 3rd August. We have emailed all bookings, and all tickets will be valid for the new date. Please contact action@merlincinemas.co.uk if you need any further assistance",
-    "director": "",
-    "cached_at": "2026-05-23T10:21:36.815921"
-  },
-  "merlin:/film/106451-avengers-doomsday": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-05-23T10:21:41.630478"
-  },
   "merlin:/film/110073-bonnie-clive-with-the-jive-aces-double-bill": {
     "runtime": "",
     "cast": "Starring Ben 2026",
@@ -222,5 +131,89 @@
     "synopsis": "",
     "director": "",
     "cached_at": "2026-05-29T12:08:12.801999"
+  },
+  "merlin:/film/106122-disclosure-day": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-30T10:43:16.914875"
+  },
+  "merlin:/film/105258-toy-story-5": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-30T10:43:20.282678"
+  },
+  "merlin:/film/106024-supergirl": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-30T10:43:21.576728"
+  },
+  "merlin:/film/110835-minions-monsters": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-30T10:43:25.579673"
+  },
+  "merlin:/film/105535-moana": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-30T10:43:27.074508"
+  },
+  "merlin:/film/106038-the-odyssey": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-30T10:43:29.190331"
+  },
+  "merlin:/film/109808-insidious-out-of-the-further": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-30T10:43:32.527916"
+  },
+  "merlin:/film/108998-shaun-the-sheep-the-beast-of-mossy-bottom": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-30T10:43:33.995980"
+  },
+  "merlin:/film/109884-street-fighter": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-30T10:43:37.378077"
+  },
+  "merlin:/film/105537-the-hunger-games-sunrise-on-the-reaping": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-30T10:43:37.542890"
+  },
+  "merlin:/film/109883-fockerinlaw": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-05-30T10:43:42.340750"
+  },
+  "merlin:/film/106451-avengers-doomsday": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-05-30T10:43:43.365990"
   }
 }
