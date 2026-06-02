@@ -46,39 +46,6 @@ URL:https://ritz.merlincinemas.co.uk/film/110320-the-amazing-digital-circus
  -the-last-act
 END:VEVENT
 BEGIN:VEVENT
-UID:d1c36354eafa57a189d6d5b7de347aec93ccc654@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Savage House @ Merlin The Ritz, Penzance
-DESCRIPTION:Savage House\nDrama, Comedy\n\nAgainst the backdrop of 18th cen
- tury England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey
-  Savage and Lady Savage blindly pursue a better life. It's not without a t
- inge of irony that their family name is the Savages, for this is a Savage 
- House indeed, filled with duels, decadence, and bloodshed.\n\nStarring: Ri
- chard E. Grant, Claire Foy, Sebastian Armesto, Roger Ashton-Griffiths, Kíl
- a Lord Cassidy, Dominic Charman\n\nFilm release at Merlin Cinemas The Ritz
- , Penzance\nBook tickets: https://ritz.merlincinemas.co.uk/film/109013-sav
- age-house
-LOCATION:Merlin Cinemas The Ritz, Penzance
-URL:https://ritz.merlincinemas.co.uk/film/109013-savage-house
-END:VEVENT
-BEGIN:VEVENT
-UID:52564a1efa0b9dee4cc5fbfc6b932bb9b1dec82f@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Scary Movie @ Merlin The Ritz, Penzance
-DESCRIPTION:Scary Movie\nComedy, Horror\n\nTwenty-six years after outrunnin
- g a suspiciously familiar masked killer, the Core Four are back in the kil
- ler's crosshairs and no horror movie IP is safe.\n\nStarring: Marlon Wayan
- s, Shawn Wayans, Anna Faris, Regina Hall, Damon Wayans Jr., Gregg Wayans\n
- \nFilm release at Merlin Cinemas The Ritz, Penzance\nBook tickets: https:/
- /ritz.merlincinemas.co.uk/film/109183-scary-movie
-LOCATION:Merlin Cinemas The Ritz, Penzance
-URL:https://ritz.merlincinemas.co.uk/film/109183-scary-movie
-END:VEVENT
-BEGIN:VEVENT
 UID:ab4987bb48b4eeba04bd0972cfd2842f8d2509de@merlin-cinemas-calendar
 DTSTAMP:20260606T000000Z
 DTSTART;VALUE=DATE:20260606
@@ -91,21 +58,6 @@ DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nFilm release
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying-doc
  tors-toddler-cinema
-END:VEVENT
-BEGIN:VEVENT
-UID:9887f484b909c50c579953830ed33a2a278eb30f@merlin-cinemas-calendar
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-SUMMARY:Disclosure Day @ Merlin The Ritz, Penzance
-DESCRIPTION:Disclosure Day\nMystery, Science Fiction, Thriller\n\nIf you fo
- und out we weren’t alone, if someone showed you, proved it to you, would t
- hat frighten you?\n\nStarring: Emily Blunt, Josh O'Connor, Colin Firth, Ev
- e Hewson, Colman Domingo, Wyatt Russell\n\nFilm release at Merlin Cinemas 
- The Ritz, Penzance\nBook tickets: https://ritz.merlincinemas.co.uk/film/10
- 6122-disclosure-day
-LOCATION:Merlin Cinemas The Ritz, Penzance
-URL:https://ritz.merlincinemas.co.uk/film/106122-disclosure-day
 END:VEVENT
 BEGIN:VEVENT
 UID:59bb46b5f5bf3727914cb275cc0e5537993fd779@merlin-cinemas-calendar

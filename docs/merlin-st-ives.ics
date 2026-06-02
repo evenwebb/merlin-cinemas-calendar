@@ -44,39 +44,6 @@ URL:https://st-ives.merlincinemas.co.uk/film/110320-the-amazing-digital-cir
  cus-the-last-act
 END:VEVENT
 BEGIN:VEVENT
-UID:d0221c4a5430abc195a2f3ef53470dbb2179f81a@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Savage House @ Merlin St Ives
-DESCRIPTION:Savage House\nDrama, Comedy\n\nAgainst the backdrop of 18th cen
- tury England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey
-  Savage and Lady Savage blindly pursue a better life. It's not without a t
- inge of irony that their family name is the Savages, for this is a Savage 
- House indeed, filled with duels, decadence, and bloodshed.\n\nStarring: Ri
- chard E. Grant, Claire Foy, Sebastian Armesto, Roger Ashton-Griffiths, Kíl
- a Lord Cassidy, Dominic Charman\n\nFilm release at Merlin Cinemas St Ives\
- nBook tickets: https://st-ives.merlincinemas.co.uk/film/109013-savage-hous
- e
-LOCATION:Merlin Cinemas St Ives
-URL:https://st-ives.merlincinemas.co.uk/film/109013-savage-house
-END:VEVENT
-BEGIN:VEVENT
-UID:1ab132bfa7c8f2b20f70d0a9cbcc56b135d07ff0@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Scary Movie @ Merlin St Ives
-DESCRIPTION:Scary Movie\nComedy, Horror\n\nTwenty-six years after outrunnin
- g a suspiciously familiar masked killer, the Core Four are back in the kil
- ler's crosshairs and no horror movie IP is safe.\n\nStarring: Marlon Wayan
- s, Shawn Wayans, Anna Faris, Regina Hall, Damon Wayans Jr., Gregg Wayans\n
- \nFilm release at Merlin Cinemas St Ives\nBook tickets: https://st-ives.me
- rlincinemas.co.uk/film/109183-scary-movie
-LOCATION:Merlin Cinemas St Ives
-URL:https://st-ives.merlincinemas.co.uk/film/109183-scary-movie
-END:VEVENT
-BEGIN:VEVENT
 UID:3af5420a390e9755566ad51e798637c1b10337a9@merlin-cinemas-calendar
 DTSTAMP:20260607T000000Z
 DTSTART;VALUE=DATE:20260607
@@ -88,21 +55,6 @@ DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nFilm release
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying-
  doctors-toddler-cinema
-END:VEVENT
-BEGIN:VEVENT
-UID:eec640abe0e6e927801888532737d2f10f43fe2d@merlin-cinemas-calendar
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-SUMMARY:Disclosure Day @ Merlin St Ives
-DESCRIPTION:Disclosure Day\nMystery, Science Fiction, Thriller\n\nIf you fo
- und out we weren’t alone, if someone showed you, proved it to you, would t
- hat frighten you?\n\nStarring: Emily Blunt, Josh O'Connor, Colin Firth, Ev
- e Hewson, Colman Domingo, Wyatt Russell\n\nFilm release at Merlin Cinemas 
- St Ives\nBook tickets: https://st-ives.merlincinemas.co.uk/film/106122-dis
- closure-day
-LOCATION:Merlin Cinemas St Ives
-URL:https://st-ives.merlincinemas.co.uk/film/106122-disclosure-day
 END:VEVENT
 BEGIN:VEVENT
 UID:3b7666fab47c3df83847b6d32d08b0ae1d73f827@merlin-cinemas-calendar

@@ -44,39 +44,6 @@ URL:https://helston.merlincinemas.co.uk/film/110320-the-amazing-digital-cir
  cus-the-last-act
 END:VEVENT
 BEGIN:VEVENT
-UID:3aa723dcc24e69cdeecfd5b2c82ace88b08f82f2@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Savage House @ Merlin Helston
-DESCRIPTION:Savage House\nDrama, Comedy\n\nAgainst the backdrop of 18th cen
- tury England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey
-  Savage and Lady Savage blindly pursue a better life. It's not without a t
- inge of irony that their family name is the Savages, for this is a Savage 
- House indeed, filled with duels, decadence, and bloodshed.\n\nStarring: Ri
- chard E. Grant, Claire Foy, Sebastian Armesto, Roger Ashton-Griffiths, Kíl
- a Lord Cassidy, Dominic Charman\n\nFilm release at Merlin Cinemas Helston\
- nBook tickets: https://helston.merlincinemas.co.uk/film/109013-savage-hous
- e
-LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/109013-savage-house
-END:VEVENT
-BEGIN:VEVENT
-UID:0c69320d81343bfd0e06d22cdc6dc15697bc3603@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Scary Movie @ Merlin Helston
-DESCRIPTION:Scary Movie\nComedy, Horror\n\nTwenty-six years after outrunnin
- g a suspiciously familiar masked killer, the Core Four are back in the kil
- ler's crosshairs and no horror movie IP is safe.\n\nStarring: Marlon Wayan
- s, Shawn Wayans, Anna Faris, Regina Hall, Damon Wayans Jr., Gregg Wayans\n
- \nFilm release at Merlin Cinemas Helston\nBook tickets: https://helston.me
- rlincinemas.co.uk/film/109183-scary-movie
-LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/109183-scary-movie
-END:VEVENT
-BEGIN:VEVENT
 UID:365fe98f473f3138b9524ffddd3062d392829d07@merlin-cinemas-calendar
 DTSTAMP:20260607T000000Z
 DTSTART;VALUE=DATE:20260607
@@ -88,21 +55,6 @@ DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nFilm release
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying-
  doctors-toddler-cinema
-END:VEVENT
-BEGIN:VEVENT
-UID:82724f93eb94d2c719e044b325fee97e47b84c3c@merlin-cinemas-calendar
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-SUMMARY:Disclosure Day @ Merlin Helston
-DESCRIPTION:Disclosure Day\nMystery, Science Fiction, Thriller\n\nIf you fo
- und out we weren’t alone, if someone showed you, proved it to you, would t
- hat frighten you?\n\nStarring: Emily Blunt, Josh O'Connor, Colin Firth, Ev
- e Hewson, Colman Domingo, Wyatt Russell\n\nFilm release at Merlin Cinemas 
- Helston\nBook tickets: https://helston.merlincinemas.co.uk/film/106122-dis
- closure-day
-LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/106122-disclosure-day
 END:VEVENT
 BEGIN:VEVENT
 UID:a7350d33061fd89112b192779147c4c2d12a216f@merlin-cinemas-calendar

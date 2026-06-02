@@ -44,38 +44,6 @@ URL:https://bodmin.merlincinemas.co.uk/film/110320-the-amazing-digital-circ
  us-the-last-act
 END:VEVENT
 BEGIN:VEVENT
-UID:b55187cdc5fc8cc6d6db05ea77899c72b4581b22@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Savage House @ Merlin Bodmin
-DESCRIPTION:Savage House\nDrama, Comedy\n\nAgainst the backdrop of 18th cen
- tury England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey
-  Savage and Lady Savage blindly pursue a better life. It's not without a t
- inge of irony that their family name is the Savages, for this is a Savage 
- House indeed, filled with duels, decadence, and bloodshed.\n\nStarring: Ri
- chard E. Grant, Claire Foy, Sebastian Armesto, Roger Ashton-Griffiths, Kíl
- a Lord Cassidy, Dominic Charman\n\nFilm release at Merlin Cinemas Bodmin\n
- Book tickets: https://bodmin.merlincinemas.co.uk/film/109013-savage-house
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/109013-savage-house
-END:VEVENT
-BEGIN:VEVENT
-UID:9ebd7ecd8a08a30a4361e4d004ba4e92751fc3c4@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Scary Movie @ Merlin Bodmin
-DESCRIPTION:Scary Movie\nComedy, Horror\n\nTwenty-six years after outrunnin
- g a suspiciously familiar masked killer, the Core Four are back in the kil
- ler's crosshairs and no horror movie IP is safe.\n\nStarring: Marlon Wayan
- s, Shawn Wayans, Anna Faris, Regina Hall, Damon Wayans Jr., Gregg Wayans\n
- \nFilm release at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merl
- incinemas.co.uk/film/109183-scary-movie
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/109183-scary-movie
-END:VEVENT
-BEGIN:VEVENT
 UID:8e7576fcaec0b2cd5c2f219e9932824f7a9df770@merlin-cinemas-calendar
 DTSTAMP:20260607T000000Z
 DTSTART;VALUE=DATE:20260607
@@ -87,21 +55,6 @@ DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nFilm release
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying-d
  octors-toddler-cinema
-END:VEVENT
-BEGIN:VEVENT
-UID:bc9653be2afef67ba97ef827077778e84eff647b@merlin-cinemas-calendar
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-SUMMARY:Disclosure Day @ Merlin Bodmin
-DESCRIPTION:Disclosure Day\nMystery, Science Fiction, Thriller\n\nIf you fo
- und out we weren’t alone, if someone showed you, proved it to you, would t
- hat frighten you?\n\nStarring: Emily Blunt, Josh O'Connor, Colin Firth, Ev
- e Hewson, Colman Domingo, Wyatt Russell\n\nFilm release at Merlin Cinemas 
- Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/film/106122-discl
- osure-day
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/106122-disclosure-day
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fdcd6b2dbb5c2304b6ee1beb3cf02c42a9a788@merlin-cinemas-calendar

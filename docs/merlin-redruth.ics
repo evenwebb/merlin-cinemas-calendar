@@ -44,39 +44,6 @@ URL:https://redruth.merlincinemas.co.uk/film/110320-the-amazing-digital-cir
  cus-the-last-act
 END:VEVENT
 BEGIN:VEVENT
-UID:1e09cf3c078a8b6118f9a1ea72b5c27f03079a43@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Savage House @ Merlin Redruth
-DESCRIPTION:Savage House\nDrama, Comedy\n\nAgainst the backdrop of 18th cen
- tury England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey
-  Savage and Lady Savage blindly pursue a better life. It's not without a t
- inge of irony that their family name is the Savages, for this is a Savage 
- House indeed, filled with duels, decadence, and bloodshed.\n\nStarring: Ri
- chard E. Grant, Claire Foy, Sebastian Armesto, Roger Ashton-Griffiths, Kíl
- a Lord Cassidy, Dominic Charman\n\nFilm release at Merlin Cinemas Redruth\
- nBook tickets: https://redruth.merlincinemas.co.uk/film/109013-savage-hous
- e
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/109013-savage-house
-END:VEVENT
-BEGIN:VEVENT
-UID:75f7791cbaeb46fb368c07afc72f1ce083fea7b2@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Scary Movie @ Merlin Redruth
-DESCRIPTION:Scary Movie\nComedy, Horror\n\nTwenty-six years after outrunnin
- g a suspiciously familiar masked killer, the Core Four are back in the kil
- ler's crosshairs and no horror movie IP is safe.\n\nStarring: Marlon Wayan
- s, Shawn Wayans, Anna Faris, Regina Hall, Damon Wayans Jr., Gregg Wayans\n
- \nFilm release at Merlin Cinemas Redruth\nBook tickets: https://redruth.me
- rlincinemas.co.uk/film/109183-scary-movie
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/109183-scary-movie
-END:VEVENT
-BEGIN:VEVENT
 UID:a4c484f50e7c5d6f94f51f6e919b993a550c22d1@merlin-cinemas-calendar
 DTSTAMP:20260607T000000Z
 DTSTART;VALUE=DATE:20260607
@@ -88,21 +55,6 @@ DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nFilm release
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying-
  doctors-toddler-cinema
-END:VEVENT
-BEGIN:VEVENT
-UID:aec234759efac520860b797c755b5e855185b8a5@merlin-cinemas-calendar
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-SUMMARY:Disclosure Day @ Merlin Redruth
-DESCRIPTION:Disclosure Day\nMystery, Science Fiction, Thriller\n\nIf you fo
- und out we weren’t alone, if someone showed you, proved it to you, would t
- hat frighten you?\n\nStarring: Emily Blunt, Josh O'Connor, Colin Firth, Ev
- e Hewson, Colman Domingo, Wyatt Russell\n\nFilm release at Merlin Cinemas 
- Redruth\nBook tickets: https://redruth.merlincinemas.co.uk/film/106122-dis
- closure-day
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/106122-disclosure-day
 END:VEVENT
 BEGIN:VEVENT
 UID:93f56b86cedd23c41c33c894dfb7807bf0a9722d@merlin-cinemas-calendar

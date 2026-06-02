@@ -44,39 +44,6 @@ URL:https://falmouth.merlincinemas.co.uk/film/110320-the-amazing-digital-ci
  rcus-the-last-act
 END:VEVENT
 BEGIN:VEVENT
-UID:03d046f8206c0cdffde8dde1a060bcf715792b26@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Savage House @ Merlin Falmouth
-DESCRIPTION:Savage House\nDrama, Comedy\n\nAgainst the backdrop of 18th cen
- tury England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey
-  Savage and Lady Savage blindly pursue a better life. It's not without a t
- inge of irony that their family name is the Savages, for this is a Savage 
- House indeed, filled with duels, decadence, and bloodshed.\n\nStarring: Ri
- chard E. Grant, Claire Foy, Sebastian Armesto, Roger Ashton-Griffiths, Kíl
- a Lord Cassidy, Dominic Charman\n\nFilm release at Merlin Cinemas Falmouth
- \nBook tickets: https://falmouth.merlincinemas.co.uk/film/109013-savage-ho
- use
-LOCATION:Merlin Cinemas Falmouth
-URL:https://falmouth.merlincinemas.co.uk/film/109013-savage-house
-END:VEVENT
-BEGIN:VEVENT
-UID:daecccedefc48ccb819d65f09e042597b615db37@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Scary Movie @ Merlin Falmouth
-DESCRIPTION:Scary Movie\nComedy, Horror\n\nTwenty-six years after outrunnin
- g a suspiciously familiar masked killer, the Core Four are back in the kil
- ler's crosshairs and no horror movie IP is safe.\n\nStarring: Marlon Wayan
- s, Shawn Wayans, Anna Faris, Regina Hall, Damon Wayans Jr., Gregg Wayans\n
- \nFilm release at Merlin Cinemas Falmouth\nBook tickets: https://falmouth.
- merlincinemas.co.uk/film/109183-scary-movie
-LOCATION:Merlin Cinemas Falmouth
-URL:https://falmouth.merlincinemas.co.uk/film/109183-scary-movie
-END:VEVENT
-BEGIN:VEVENT
 UID:3e07f4b0685feaf240166af879b5fa0696a648c8@merlin-cinemas-calendar
 DTSTAMP:20260607T000000Z
 DTSTART;VALUE=DATE:20260607
@@ -88,21 +55,6 @@ DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nFilm release
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying
  -doctors-toddler-cinema
-END:VEVENT
-BEGIN:VEVENT
-UID:d1050aaadd90fb127da68335b6bca109782a792e@merlin-cinemas-calendar
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-SUMMARY:Disclosure Day @ Merlin Falmouth
-DESCRIPTION:Disclosure Day\nMystery, Science Fiction, Thriller\n\nIf you fo
- und out we weren’t alone, if someone showed you, proved it to you, would t
- hat frighten you?\n\nStarring: Emily Blunt, Josh O'Connor, Colin Firth, Ev
- e Hewson, Colman Domingo, Wyatt Russell\n\nFilm release at Merlin Cinemas 
- Falmouth\nBook tickets: https://falmouth.merlincinemas.co.uk/film/106122-d
- isclosure-day
-LOCATION:Merlin Cinemas Falmouth
-URL:https://falmouth.merlincinemas.co.uk/film/106122-disclosure-day
 END:VEVENT
 BEGIN:VEVENT
 UID:82cf008aa0d9a7b9d46b1a652cec178e554d43dc@merlin-cinemas-calendar
