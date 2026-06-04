@@ -7,22 +7,6 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:0f2b9a2c0eafca77bccdc9e819fb405e84915c46@merlin-cinemas-calendar
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260604
-SUMMARY:Bonnie & Clive with The Jive Aces Double Bill @ Merlin Savoy Cinema
- , Penzance
-DESCRIPTION:Bonnie & Clive with The Jive Aces Double Bill\n\nPrivate Luxury
-  Boxes are available for some performances,look out for the balcony icon w
- hen hovering over times.\n\nStarring: Starring Ben 2026\n\nFilm release at
-  Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.mer
- lincinemas.co.uk/film/110073-bonnie-clive-with-the-jive-aces-double-bill
-LOCATION:Merlin Cinemas Savoy Cinema, Penzance
-URL:https://penzance.merlincinemas.co.uk/film/110073-bonnie-clive-with-the-
- jive-aces-double-bill
-END:VEVENT
-BEGIN:VEVENT
 UID:0b32e9a4933c4eb2a41eb3b7c14e06c612903560@merlin-cinemas-calendar
 DTSTAMP:20260604T000000Z
 DTSTART;VALUE=DATE:20260604
@@ -114,12 +98,12 @@ DTSTAMP:20260626T000000Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Jackass: Best And Last @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe 5th 
- and final installment to Jackass franchise where the crew go on one last i
- nsane crusade.\n\nStarring: Johnny Knoxville, Steve-O, Chris Pontius, Jaso
- n 'Wee Man' Acuña, Dave England, Preston Lacy\n\nFilm release at Merlin Ci
- nemas Savoy Cinema, Penzance\nBook tickets: https://penzance.merlincinemas
- .co.uk/film/110402-jackass-best-and-last
+DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe fift
+ h and final installment to Jackass franchise where the crew go on one last
+  insane crusade.\n\nStarring: Johnny Knoxville, Steve-O, Chris Pontius, Ja
+ son 'Wee Man' Acuña, Dave England, Preston Lacy\n\nFilm release at Merlin 
+ Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.merlincinem
+ as.co.uk/film/110402-jackass-best-and-last
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110402-jackass-best-and-last
 END:VEVENT
@@ -309,12 +293,12 @@ DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Resident Evil @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:Resident Evil\nHorror, Science Fiction\n\nBryan, a medical cour
- ier, is in the process of making a delivery when a sudden outbreak occurs,
-  forcing him to fight for survival.\n\nStarring: Austin Abrams, Zach Cherr
- y, Kali Reis, Paul Walter Hauser, Johnno Wilson\n\nFilm release at Merlin 
- Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.merlincinem
- as.co.uk/film/110404-resident-evil
+DESCRIPTION:Resident Evil\nHorror, Science Fiction, Action\n\nBryan, a medi
+ cal courier, is in the process of making a delivery when a sudden outbreak
+  occurs, forcing him to fight for survival.\n\nStarring: Austin Abrams, Za
+ ch Cherry, Kali Reis, Paul Walter Hauser, Johnno Wilson\n\nFilm release at
+  Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.mer
+ lincinemas.co.uk/film/110404-resident-evil
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110404-resident-evil
 END:VEVENT
@@ -345,16 +329,13 @@ DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Verity @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:Verity\nMystery, Thriller\n\nStruggling writer Lowen Ashleigh r
- elocates to the remote Crawford estate to ghostwrite for Verity Crawford. 
- After Lowen uncovers what appears to be Verity's chilling autobiographical
-  notes, she wrestles with the disturbing and twisted confessions about Ver
- ity’s husband Jeremy, and finds it hard to separate fiction from reality, 
- manipulation from attraction, and opportunity from obsession.\n\nStarring:
-  Dakota Johnson, Anne Hathaway, Josh Hartnett, Ismael Cruz Cordova, Brady 
- Wagner, Irina Dvorovenko\n\nFilm release at Merlin Cinemas Savoy Cinema, P
- enzance\nBook tickets: https://penzance.merlincinemas.co.uk/film/110405-ve
- rity
+DESCRIPTION:Verity\nMystery, Thriller\n\nLowen Ashleigh gets hired by Jerem
+ y Crawford to ghostwrite novels for his bestselling author wife Verity, wh
+ o's unable to finish after an accident. Lowen uncovers Verity's disturbing
+  truths while residing at the Crawfords' home to work.\n\nStarring: Dakota
+  Johnson, Anne Hathaway, Josh Hartnett, Ismael Cruz Cordova, Brady Wagner,
+  Irina Dvorovenko\n\nFilm release at Merlin Cinemas Savoy Cinema, Penzance
+ \nBook tickets: https://penzance.merlincinemas.co.uk/film/110405-verity
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110405-verity
 END:VEVENT
