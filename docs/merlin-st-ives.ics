@@ -7,28 +7,6 @@ X-WR-CALNAME:Merlin St Ives Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas St Ives
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:9f6ea2b953391d02d0fae9b9f6490021f9143d7b@merlin-cinemas-calendar
-DTSTAMP:20260604T000000Z
-DTSTART;VALUE=DATE:20260604
-DTEND;VALUE=DATE:20260605
-SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin St Ives
-DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
- ence Fiction, Thriller\n\nWith Caine gone and the circus dark, the cast ar
- e left with only the mistakes and traumas of their pasts to keep them comp
- any. As the prospect of eternity closes in around them, they discover the 
- truth about the Digital Circus and its history. Will they come to terms wi
- th what they uncover, or will they make… the other choice? Also, presumabl
- y at some point someone says something funny, because this ending can’t be
-  THAT depressing, can it? A theatrical screening of episode 8 and the all 
- new, hour-long episode 9.\n\nStarring: Lizzie Freeman, Michael Kovach, Ama
- nda Hufford, Marissa Lenti, Sean Chiplock, Ashley Nichols\n\nFilm release 
- at Merlin Cinemas St Ives\nBook tickets: https://st-ives.merlincinemas.co.
- uk/film/110320-the-amazing-digital-circus-the-last-act
-LOCATION:Merlin Cinemas St Ives
-URL:https://st-ives.merlincinemas.co.uk/film/110320-the-amazing-digital-cir
- cus-the-last-act
-END:VEVENT
-BEGIN:VEVENT
 UID:3af5420a390e9755566ad51e798637c1b10337a9@merlin-cinemas-calendar
 DTSTAMP:20260607T000000Z
 DTSTART;VALUE=DATE:20260607

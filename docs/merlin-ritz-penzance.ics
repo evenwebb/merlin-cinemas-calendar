@@ -7,29 +7,6 @@ X-WR-CALNAME:Merlin The Ritz, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas The Ritz, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:9fac9201260a5dc9413ecbeaf64f2db6d8ddf461@merlin-cinemas-calendar
-DTSTAMP:20260604T000000Z
-DTSTART;VALUE=DATE:20260604
-DTEND;VALUE=DATE:20260605
-SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin The Ritz, Penzanc
- e
-DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
- ence Fiction, Thriller\n\nWith Caine gone and the circus dark, the cast ar
- e left with only the mistakes and traumas of their pasts to keep them comp
- any. As the prospect of eternity closes in around them, they discover the 
- truth about the Digital Circus and its history. Will they come to terms wi
- th what they uncover, or will they make… the other choice? Also, presumabl
- y at some point someone says something funny, because this ending can’t be
-  THAT depressing, can it? A theatrical screening of episode 8 and the all 
- new, hour-long episode 9.\n\nStarring: Lizzie Freeman, Michael Kovach, Ama
- nda Hufford, Marissa Lenti, Sean Chiplock, Ashley Nichols\n\nFilm release 
- at Merlin Cinemas The Ritz, Penzance\nBook tickets: https://ritz.merlincin
- emas.co.uk/film/110320-the-amazing-digital-circus-the-last-act
-LOCATION:Merlin Cinemas The Ritz, Penzance
-URL:https://ritz.merlincinemas.co.uk/film/110320-the-amazing-digital-circus
- -the-last-act
-END:VEVENT
-BEGIN:VEVENT
 UID:ab4987bb48b4eeba04bd0972cfd2842f8d2509de@merlin-cinemas-calendar
 DTSTAMP:20260606T000000Z
 DTSTART;VALUE=DATE:20260606
