@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Falmouth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Falmouth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:726a8b717a915922d15fa8c73ae8b6572451ec04@merlin-cinemas-calendar
-DTSTAMP:20260605T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
+UID:bf6fc20ec3dee6a1babe67678a5f9d2f138b1408@merlin-cinemas-calendar
+DTSTAMP:20260606T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
 SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin Falmouth
 DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
  ence Fiction, Thriller\n\nWith Caine gone and the circus dark, the cast ar

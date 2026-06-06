@@ -1,95 +1,4 @@
 {
-  "merlin:/film/110837-zog-zog-and-the-flying-doctors-toddler-cinema": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-29T12:08:12.801999"
-  },
-  "merlin:/film/106122-disclosure-day": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-30T10:43:16.914875"
-  },
-  "merlin:/film/105258-toy-story-5": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-30T10:43:20.282678"
-  },
-  "merlin:/film/106024-supergirl": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-05-30T10:43:21.576728"
-  },
-  "merlin:/film/110835-minions-monsters": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-30T10:43:25.579673"
-  },
-  "merlin:/film/105535-moana": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-05-30T10:43:27.074508"
-  },
-  "merlin:/film/106038-the-odyssey": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-30T10:43:29.190331"
-  },
-  "merlin:/film/109808-insidious-out-of-the-further": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-05-30T10:43:32.527916"
-  },
-  "merlin:/film/108998-shaun-the-sheep-the-beast-of-mossy-bottom": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-30T10:43:33.995980"
-  },
-  "merlin:/film/109884-street-fighter": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-05-30T10:43:37.378077"
-  },
-  "merlin:/film/105537-the-hunger-games-sunrise-on-the-reaping": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-30T10:43:37.542890"
-  },
-  "merlin:/film/109883-fockerinlaw": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-05-30T10:43:42.340750"
-  },
-  "merlin:/film/106451-avengers-doomsday": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-05-30T10:43:43.365990"
-  },
   "merlin:/film/110402-jackass-best-and-last": {
     "runtime": "",
     "cast": "",
@@ -194,5 +103,89 @@
     "synopsis": "",
     "director": "",
     "cached_at": "2026-06-05T11:56:03.982507"
+  },
+  "merlin:/film/110837-zog-zog-and-the-flying-doctors-toddler-cinema": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-06-06T10:49:04.039372"
+  },
+  "merlin:/film/105258-toy-story-5": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-06-06T10:49:10.199948"
+  },
+  "merlin:/film/106024-supergirl": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-06-06T10:49:12.027140"
+  },
+  "merlin:/film/110835-minions-monsters": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-06-06T10:49:16.750181"
+  },
+  "merlin:/film/105535-moana": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-06-06T10:49:17.612445"
+  },
+  "merlin:/film/106038-the-odyssey": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-06-06T10:49:22.662953"
+  },
+  "merlin:/film/109808-insidious-out-of-the-further": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-06-06T10:49:25.119301"
+  },
+  "merlin:/film/108998-shaun-the-sheep-the-beast-of-mossy-bottom": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-06-06T10:49:29.833462"
+  },
+  "merlin:/film/109884-street-fighter": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-06-06T10:49:30.011651"
+  },
+  "merlin:/film/105537-the-hunger-games-sunrise-on-the-reaping": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-06-06T10:49:36.323735"
+  },
+  "merlin:/film/109883-fockerinlaw": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-06-06T10:49:38.816669"
+  },
+  "merlin:/film/106451-avengers-doomsday": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-06-06T10:49:42.333279"
   }
 }
