@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:66905a2f709f7cc2a816fe05b039343cb439056e@merlin-cinemas-calendar
-DTSTAMP:20260606T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
+UID:2091d4507dd6fd7ada2c2a3754753cb5e7c870a1@merlin-cinemas-calendar
+DTSTAMP:20260607T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
 SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin Bodmin
 DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
  ence Fiction, Thriller\n\nWith Caine gone and the circus dark, the cast ar
@@ -34,9 +34,11 @@ DTSTAMP:20260607T000000Z
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
 SUMMARY:Zog & Zog And The Flying Doctors Toddler Cinema @ Merlin Bodmin
-DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nFilm release
-  at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.u
- k/film/110837-zog-zog-and-the-flying-doctors-toddler-cinema
+DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nPrivate Luxu
+ ry Boxes are available for some performances,look out for the balcony icon
+  when hovering over times.\n\nStarring: Starring Ben 2026\n\nFilm release 
+ at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk
+ /film/110837-zog-zog-and-the-flying-doctors-toddler-cinema
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying-d
  octors-toddler-cinema

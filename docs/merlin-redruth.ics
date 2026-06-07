@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:83766e6bd2bf91c1e4f3de0a9da3a97986c94c31@merlin-cinemas-calendar
-DTSTAMP:20260606T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
+UID:9543dd3ad9f791244655a16908b1e1e3080abf33@merlin-cinemas-calendar
+DTSTAMP:20260607T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
 SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin Redruth
 DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
  ence Fiction, Thriller\n\nWith Caine gone and the circus dark, the cast ar

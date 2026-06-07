@@ -7,25 +7,6 @@ X-WR-CALNAME:Merlin The Ritz, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas The Ritz, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:ab4987bb48b4eeba04bd0972cfd2842f8d2509de@merlin-cinemas-calendar
-DTSTAMP:20260606T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:Zog & Zog And The Flying Doctors Toddler Cinema @ Merlin The Ritz, 
- Penzance
-DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nThe original
-  date has been rescheduled by the promoter, and this event will now take p
- lace on 3rd August. We have emailed all bookings, and all tickets will be 
- valid for the new date. Please contact action@merlincinemas.co.uk if you n
- eed any further assistance\n\nStarring: The Elvis 68’ Recreation - Starrin
- g Emilio Santoro\n\nFilm release at Merlin Cinemas The Ritz, Penzance\nBoo
- k tickets: https://ritz.merlincinemas.co.uk/film/110837-zog-zog-and-the-fl
- ying-doctors-toddler-cinema
-LOCATION:Merlin Cinemas The Ritz, Penzance
-URL:https://ritz.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying-doc
- tors-toddler-cinema
-END:VEVENT
-BEGIN:VEVENT
 UID:59bb46b5f5bf3727914cb275cc0e5537993fd779@merlin-cinemas-calendar
 DTSTAMP:20260619T000000Z
 DTSTART;VALUE=DATE:20260619

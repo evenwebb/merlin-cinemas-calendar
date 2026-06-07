@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:7e3a2344911f181db5adf36ce02743f98facb3de@merlin-cinemas-calendar
-DTSTAMP:20260606T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
+UID:e8eb97339a16ba0a34481de22b0aa7c4aaeb017e@merlin-cinemas-calendar
+DTSTAMP:20260607T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
 SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin Savoy Cinema, Pen
  zance
 DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
@@ -36,10 +36,12 @@ DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
 SUMMARY:Zog & Zog And The Flying Doctors Toddler Cinema @ Merlin Savoy Cine
  ma, Penzance
-DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nFilm release
-  at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.
- merlincinemas.co.uk/film/110837-zog-zog-and-the-flying-doctors-toddler-cin
- ema
+DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nPrivate Luxu
+ ry Boxes are available for some performances,look out for the balcony icon
+  when hovering over times.\n\nStarring: Starring Ben 2026\n\nFilm release 
+ at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.m
+ erlincinemas.co.uk/film/110837-zog-zog-and-the-flying-doctors-toddler-cine
+ ma
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying
  -doctors-toddler-cinema
