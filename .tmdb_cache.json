@@ -363,5 +363,41 @@
     "director": "James Watkins",
     "cast": "Tom Rhys Harries, Naomi Ackie, David Dencik, Max Minghella, Eddie Marsan, Nancy Carroll",
     "cached_at": "2026-06-04T11:43:44.196681"
+  },
+  "the-end-of-oak-street": {
+    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+    "genres": [
+      "Science Fiction",
+      "Mystery",
+      "Thriller"
+    ],
+    "vote_average": null,
+    "director": "David Robert Mitchell",
+    "cast": "Anne Hathaway, Ewan McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis, P.J. Byrne",
+    "cached_at": "2026-06-08T12:57:25.267433"
+  },
+  "how-to-rob-a-bank": {
+    "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "vote_average": null,
+    "director": "David Leitch",
+    "cast": "Nicholas Hoult, Zoë Kravitz, Anna Sawai, Rhenzy Feliz, Pete Davidson, John C. Reilly",
+    "cached_at": "2026-06-08T12:57:25.788250"
+  },
+  "ice-age-boiling-point": {
+    "overview": "A madcap adventure filled with dinosaurs and lava that takes Manny, Sid, Diego, Ellie, Scrat and the herd through the uncharted regions of the dangerous Lost World.",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "vote_average": null,
+    "director": "John C. Donkin",
+    "cast": "Ray Romano, Denis Leary, John Leguizamo, Simon Pegg, Queen Latifah, Seann William Scott",
+    "cached_at": "2026-06-08T12:57:26.309709"
   }
 }

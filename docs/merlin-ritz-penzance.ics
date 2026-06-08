@@ -181,6 +181,23 @@ LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-movie
 END:VEVENT
 BEGIN:VEVENT
+UID:783ad7c1cb8589814a626f0f7316372851ac154a@merlin-cinemas-calendar
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:The End Of Oak Street @ Merlin The Ritz, Penzance
+DESCRIPTION:The End Of Oak Street\nScience Fiction, Mystery, Thriller\n\nAf
+ ter a mysterious cosmic event rips Oak Street from suburbia and transports
+  their neighborhood to someplace unknown, the Platt family soon discovers 
+ that their very survival depends on them sticking together as they navigat
+ e their now unrecognizable surroundings.\n\nStarring: Anne Hathaway, Ewan 
+ McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis, P.J. Byrne\
+ n\nFilm release at Merlin Cinemas The Ritz, Penzance\nBook tickets: https:
+ //ritz.merlincinemas.co.uk/film/111887-the-end-of-oak-street
+LOCATION:Merlin Cinemas The Ritz, Penzance
+URL:https://ritz.merlincinemas.co.uk/film/111887-the-end-of-oak-street
+END:VEVENT
+BEGIN:VEVENT
 UID:000752f750e5437b3744a0cd816814c2ba472936@merlin-cinemas-calendar
 DTSTAMP:20260821T000000Z
 DTSTART;VALUE=DATE:20260821
@@ -214,6 +231,24 @@ DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  28-the-dog-stars
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/109928-the-dog-stars
+END:VEVENT
+BEGIN:VEVENT
+UID:e10dcf0fa28ce395916e142beff85d877d1c4da3@merlin-cinemas-calendar
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:How To Rob A Bank @ Merlin The Ritz, Penzance
+DESCRIPTION:How To Rob A Bank\nCrime, Thriller\n\nA crew of social media-sa
+ vvy bank robbers broadcasts their daring heists, unaware that their growin
+ g viral fame has put them in the crosshairs of a veteran FBI agent and a b
+ rilliant software engineer. Despite the unlikely duo closing in, the crime
+  ring pushes past their limits, putting everything on the line for their m
+ ost ambitious heist yet.\n\nStarring: Nicholas Hoult, Zoë Kravitz, Anna Sa
+ wai, Rhenzy Feliz, Pete Davidson, John C. Reilly\n\nFilm release at Merlin
+  Cinemas The Ritz, Penzance\nBook tickets: https://ritz.merlincinemas.co.u
+ k/film/111888-how-to-rob-a-bank
+LOCATION:Merlin Cinemas The Ritz, Penzance
+URL:https://ritz.merlincinemas.co.uk/film/111888-how-to-rob-a-bank
 END:VEVENT
 BEGIN:VEVENT
 UID:008d6fe99a66f1255bae71f0297dec15b5686e9c@merlin-cinemas-calendar
@@ -433,5 +468,21 @@ DESCRIPTION:Dune: Part Three\nScience Fiction, Adventure, Action\n\nAs Empe
  co.uk/film/109010-dune-part-three
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/109010-dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:82f11a7c34fa959c57a0e718e8c6c21bf6e07c6a@merlin-cinemas-calendar
+DTSTAMP:20270205T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Ice Age: Boiling Point @ Merlin The Ritz, Penzance
+DESCRIPTION:Ice Age: Boiling Point\nAdventure, Animation, Comedy, Family\n\
+ nA madcap adventure filled with dinosaurs and lava that takes Manny, Sid, 
+ Diego, Ellie, Scrat and the herd through the uncharted regions of the dang
+ erous Lost World.\n\nStarring: Ray Romano, Denis Leary, John Leguizamo, Si
+ mon Pegg, Queen Latifah, Seann William Scott\n\nFilm release at Merlin Cin
+ emas The Ritz, Penzance\nBook tickets: https://ritz.merlincinemas.co.uk/fi
+ lm/111889-ice-age-boiling-point
+LOCATION:Merlin Cinemas The Ritz, Penzance
+URL:https://ritz.merlincinemas.co.uk/film/111889-ice-age-boiling-point
 END:VEVENT
 END:VCALENDAR

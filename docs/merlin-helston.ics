@@ -7,21 +7,6 @@ X-WR-CALNAME:Merlin Helston Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Helston
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:365fe98f473f3138b9524ffddd3062d392829d07@merlin-cinemas-calendar
-DTSTAMP:20260607T000000Z
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-SUMMARY:Zog & Zog And The Flying Doctors Toddler Cinema @ Merlin Helston
-DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nPrivate Luxu
- ry Boxes are available for some performances,look out for the balcony icon
-  when hovering over times.\n\nStarring: Starring Ben 2026\n\nFilm release 
- at Merlin Cinemas Helston\nBook tickets: https://helston.merlincinemas.co.
- uk/film/110837-zog-zog-and-the-flying-doctors-toddler-cinema
-LOCATION:Merlin Cinemas Helston
-URL:https://helston.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying-
- doctors-toddler-cinema
-END:VEVENT
-BEGIN:VEVENT
 UID:93024c8dc99b305db03b5d8ddc91acde34001b1c@merlin-cinemas-calendar
 DTSTAMP:20260618T000000Z
 DTSTART;VALUE=DATE:20260618
@@ -196,6 +181,23 @@ URL:https://helston.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mov
  ie
 END:VEVENT
 BEGIN:VEVENT
+UID:7c0873231a22ac8577b61394909753f178e09ab9@merlin-cinemas-calendar
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:The End Of Oak Street @ Merlin Helston
+DESCRIPTION:The End Of Oak Street\nScience Fiction, Mystery, Thriller\n\nAf
+ ter a mysterious cosmic event rips Oak Street from suburbia and transports
+  their neighborhood to someplace unknown, the Platt family soon discovers 
+ that their very survival depends on them sticking together as they navigat
+ e their now unrecognizable surroundings.\n\nStarring: Anne Hathaway, Ewan 
+ McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis, P.J. Byrne\
+ n\nFilm release at Merlin Cinemas Helston\nBook tickets: https://helston.m
+ erlincinemas.co.uk/film/111887-the-end-of-oak-street
+LOCATION:Merlin Cinemas Helston
+URL:https://helston.merlincinemas.co.uk/film/111887-the-end-of-oak-street
+END:VEVENT
+BEGIN:VEVENT
 UID:faca8ed3f916c64cbbedb54d3638ad362a07f1de@merlin-cinemas-calendar
 DTSTAMP:20260821T000000Z
 DTSTART;VALUE=DATE:20260821
@@ -229,6 +231,24 @@ DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  og-stars
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109928-the-dog-stars
+END:VEVENT
+BEGIN:VEVENT
+UID:3e01aaa7b7ef193c384142f5d2dcd52366178b4f@merlin-cinemas-calendar
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:How To Rob A Bank @ Merlin Helston
+DESCRIPTION:How To Rob A Bank\nCrime, Thriller\n\nA crew of social media-sa
+ vvy bank robbers broadcasts their daring heists, unaware that their growin
+ g viral fame has put them in the crosshairs of a veteran FBI agent and a b
+ rilliant software engineer. Despite the unlikely duo closing in, the crime
+  ring pushes past their limits, putting everything on the line for their m
+ ost ambitious heist yet.\n\nStarring: Nicholas Hoult, Zoë Kravitz, Anna Sa
+ wai, Rhenzy Feliz, Pete Davidson, John C. Reilly\n\nFilm release at Merlin
+  Cinemas Helston\nBook tickets: https://helston.merlincinemas.co.uk/film/1
+ 11888-how-to-rob-a-bank
+LOCATION:Merlin Cinemas Helston
+URL:https://helston.merlincinemas.co.uk/film/111888-how-to-rob-a-bank
 END:VEVENT
 BEGIN:VEVENT
 UID:da01c81065bd3f8a35ed677aa5cce0ea995b3154@merlin-cinemas-calendar
@@ -444,5 +464,21 @@ DESCRIPTION:Dune: Part Three\nScience Fiction, Adventure, Action\n\nAs Empe
  lm/109010-dune-part-three
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109010-dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:fff08225fedebf8881b2d7da80cc62cf6b93fb23@merlin-cinemas-calendar
+DTSTAMP:20270205T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Ice Age: Boiling Point @ Merlin Helston
+DESCRIPTION:Ice Age: Boiling Point\nAdventure, Animation, Comedy, Family\n\
+ nA madcap adventure filled with dinosaurs and lava that takes Manny, Sid, 
+ Diego, Ellie, Scrat and the herd through the uncharted regions of the dang
+ erous Lost World.\n\nStarring: Ray Romano, Denis Leary, John Leguizamo, Si
+ mon Pegg, Queen Latifah, Seann William Scott\n\nFilm release at Merlin Cin
+ emas Helston\nBook tickets: https://helston.merlincinemas.co.uk/film/11188
+ 9-ice-age-boiling-point
+LOCATION:Merlin Cinemas Helston
+URL:https://helston.merlincinemas.co.uk/film/111889-ice-age-boiling-point
 END:VEVENT
 END:VCALENDAR

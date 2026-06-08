@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:e8eb97339a16ba0a34481de22b0aa7c4aaeb017e@merlin-cinemas-calendar
-DTSTAMP:20260607T000000Z
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
+UID:7925f490e88703e6a8221d27c87ce510f633f256@merlin-cinemas-calendar
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
 SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin Savoy Cinema, Pen
  zance
 DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
@@ -28,23 +28,6 @@ DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110320-the-amazing-digital-ci
  rcus-the-last-act
-END:VEVENT
-BEGIN:VEVENT
-UID:a6cbd8a50bea9c75d46ab4b15d22e11c969c429c@merlin-cinemas-calendar
-DTSTAMP:20260607T000000Z
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-SUMMARY:Zog & Zog And The Flying Doctors Toddler Cinema @ Merlin Savoy Cine
- ma, Penzance
-DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nPrivate Luxu
- ry Boxes are available for some performances,look out for the balcony icon
-  when hovering over times.\n\nStarring: Starring Ben 2026\n\nFilm release 
- at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.m
- erlincinemas.co.uk/film/110837-zog-zog-and-the-flying-doctors-toddler-cine
- ma
-LOCATION:Merlin Cinemas Savoy Cinema, Penzance
-URL:https://penzance.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying
- -doctors-toddler-cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:7e645447b4a6bb84422037c5be1221684e01288d@merlin-cinemas-calendar
@@ -223,6 +206,23 @@ URL:https://penzance.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mo
  vie
 END:VEVENT
 BEGIN:VEVENT
+UID:929a580846cb9b951e1ecd6f13705fbd0dfd855b@merlin-cinemas-calendar
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:The End Of Oak Street @ Merlin Savoy Cinema, Penzance
+DESCRIPTION:The End Of Oak Street\nScience Fiction, Mystery, Thriller\n\nAf
+ ter a mysterious cosmic event rips Oak Street from suburbia and transports
+  their neighborhood to someplace unknown, the Platt family soon discovers 
+ that their very survival depends on them sticking together as they navigat
+ e their now unrecognizable surroundings.\n\nStarring: Anne Hathaway, Ewan 
+ McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis, P.J. Byrne\
+ n\nFilm release at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets: ht
+ tps://penzance.merlincinemas.co.uk/film/111887-the-end-of-oak-street
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/111887-the-end-of-oak-street
+END:VEVENT
+BEGIN:VEVENT
 UID:9a2400bf013752ac443b00638ba62027743354bf@merlin-cinemas-calendar
 DTSTAMP:20260821T000000Z
 DTSTART;VALUE=DATE:20260821
@@ -256,6 +256,24 @@ DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  ilm/109928-the-dog-stars
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109928-the-dog-stars
+END:VEVENT
+BEGIN:VEVENT
+UID:8f55cb014274e21b5dfa01d1731b46355381c3f1@merlin-cinemas-calendar
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:How To Rob A Bank @ Merlin Savoy Cinema, Penzance
+DESCRIPTION:How To Rob A Bank\nCrime, Thriller\n\nA crew of social media-sa
+ vvy bank robbers broadcasts their daring heists, unaware that their growin
+ g viral fame has put them in the crosshairs of a veteran FBI agent and a b
+ rilliant software engineer. Despite the unlikely duo closing in, the crime
+  ring pushes past their limits, putting everything on the line for their m
+ ost ambitious heist yet.\n\nStarring: Nicholas Hoult, Zoë Kravitz, Anna Sa
+ wai, Rhenzy Feliz, Pete Davidson, John C. Reilly\n\nFilm release at Merlin
+  Cinemas Savoy Cinema, Penzance\nBook tickets: https://penzance.merlincine
+ mas.co.uk/film/111888-how-to-rob-a-bank
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/111888-how-to-rob-a-bank
 END:VEVENT
 BEGIN:VEVENT
 UID:086f1d7de4693673442e44d8d081a43560bec031@merlin-cinemas-calendar
@@ -475,5 +493,21 @@ DESCRIPTION:Dune: Part Three\nScience Fiction, Adventure, Action\n\nAs Empe
  cinemas.co.uk/film/109010-dune-part-three
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109010-dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:ee86739bfdfaf9c65282acc183d6921c3c5278b5@merlin-cinemas-calendar
+DTSTAMP:20270205T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Ice Age: Boiling Point @ Merlin Savoy Cinema, Penzance
+DESCRIPTION:Ice Age: Boiling Point\nAdventure, Animation, Comedy, Family\n\
+ nA madcap adventure filled with dinosaurs and lava that takes Manny, Sid, 
+ Diego, Ellie, Scrat and the herd through the uncharted regions of the dang
+ erous Lost World.\n\nStarring: Ray Romano, Denis Leary, John Leguizamo, Si
+ mon Pegg, Queen Latifah, Seann William Scott\n\nFilm release at Merlin Cin
+ emas Savoy Cinema, Penzance\nBook tickets: https://penzance.merlincinemas.
+ co.uk/film/111889-ice-age-boiling-point
+LOCATION:Merlin Cinemas Savoy Cinema, Penzance
+URL:https://penzance.merlincinemas.co.uk/film/111889-ice-age-boiling-point
 END:VEVENT
 END:VCALENDAR

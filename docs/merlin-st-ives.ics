@@ -7,21 +7,6 @@ X-WR-CALNAME:Merlin St Ives Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas St Ives
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:3af5420a390e9755566ad51e798637c1b10337a9@merlin-cinemas-calendar
-DTSTAMP:20260607T000000Z
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-SUMMARY:Zog & Zog And The Flying Doctors Toddler Cinema @ Merlin St Ives
-DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nPrivate Luxu
- ry Boxes are available for some performances,look out for the balcony icon
-  when hovering over times.\n\nStarring: Starring Ben 2026\n\nFilm release 
- at Merlin Cinemas St Ives\nBook tickets: https://st-ives.merlincinemas.co.
- uk/film/110837-zog-zog-and-the-flying-doctors-toddler-cinema
-LOCATION:Merlin Cinemas St Ives
-URL:https://st-ives.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying-
- doctors-toddler-cinema
-END:VEVENT
-BEGIN:VEVENT
 UID:ad232d415e61e234c08e5ad6bce6a5ba9c995a59@merlin-cinemas-calendar
 DTSTAMP:20260618T000000Z
 DTSTART;VALUE=DATE:20260618
@@ -196,6 +181,23 @@ URL:https://st-ives.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mov
  ie
 END:VEVENT
 BEGIN:VEVENT
+UID:b86b847ae0428ca531c103de5567cd078343a80f@merlin-cinemas-calendar
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:The End Of Oak Street @ Merlin St Ives
+DESCRIPTION:The End Of Oak Street\nScience Fiction, Mystery, Thriller\n\nAf
+ ter a mysterious cosmic event rips Oak Street from suburbia and transports
+  their neighborhood to someplace unknown, the Platt family soon discovers 
+ that their very survival depends on them sticking together as they navigat
+ e their now unrecognizable surroundings.\n\nStarring: Anne Hathaway, Ewan 
+ McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis, P.J. Byrne\
+ n\nFilm release at Merlin Cinemas St Ives\nBook tickets: https://st-ives.m
+ erlincinemas.co.uk/film/111887-the-end-of-oak-street
+LOCATION:Merlin Cinemas St Ives
+URL:https://st-ives.merlincinemas.co.uk/film/111887-the-end-of-oak-street
+END:VEVENT
+BEGIN:VEVENT
 UID:8ee3ffba95e12c0c385180add5a16775206bf7c8@merlin-cinemas-calendar
 DTSTAMP:20260821T000000Z
 DTSTART;VALUE=DATE:20260821
@@ -229,6 +231,24 @@ DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  og-stars
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109928-the-dog-stars
+END:VEVENT
+BEGIN:VEVENT
+UID:0cb7836098fcc74d3e2da1780d2b43539119731e@merlin-cinemas-calendar
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:How To Rob A Bank @ Merlin St Ives
+DESCRIPTION:How To Rob A Bank\nCrime, Thriller\n\nA crew of social media-sa
+ vvy bank robbers broadcasts their daring heists, unaware that their growin
+ g viral fame has put them in the crosshairs of a veteran FBI agent and a b
+ rilliant software engineer. Despite the unlikely duo closing in, the crime
+  ring pushes past their limits, putting everything on the line for their m
+ ost ambitious heist yet.\n\nStarring: Nicholas Hoult, Zoë Kravitz, Anna Sa
+ wai, Rhenzy Feliz, Pete Davidson, John C. Reilly\n\nFilm release at Merlin
+  Cinemas St Ives\nBook tickets: https://st-ives.merlincinemas.co.uk/film/1
+ 11888-how-to-rob-a-bank
+LOCATION:Merlin Cinemas St Ives
+URL:https://st-ives.merlincinemas.co.uk/film/111888-how-to-rob-a-bank
 END:VEVENT
 BEGIN:VEVENT
 UID:c8a299e4d48e33e76713bec1b51c08e14e479448@merlin-cinemas-calendar
@@ -444,5 +464,21 @@ DESCRIPTION:Dune: Part Three\nScience Fiction, Adventure, Action\n\nAs Empe
  lm/109010-dune-part-three
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109010-dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:563c6b12e3ee0d002c2a2fa4fdd2ed3e407b2e89@merlin-cinemas-calendar
+DTSTAMP:20270205T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Ice Age: Boiling Point @ Merlin St Ives
+DESCRIPTION:Ice Age: Boiling Point\nAdventure, Animation, Comedy, Family\n\
+ nA madcap adventure filled with dinosaurs and lava that takes Manny, Sid, 
+ Diego, Ellie, Scrat and the herd through the uncharted regions of the dang
+ erous Lost World.\n\nStarring: Ray Romano, Denis Leary, John Leguizamo, Si
+ mon Pegg, Queen Latifah, Seann William Scott\n\nFilm release at Merlin Cin
+ emas St Ives\nBook tickets: https://st-ives.merlincinemas.co.uk/film/11188
+ 9-ice-age-boiling-point
+LOCATION:Merlin Cinemas St Ives
+URL:https://st-ives.merlincinemas.co.uk/film/111889-ice-age-boiling-point
 END:VEVENT
 END:VCALENDAR

@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:2091d4507dd6fd7ada2c2a3754753cb5e7c870a1@merlin-cinemas-calendar
-DTSTAMP:20260607T000000Z
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
+UID:ebc568c65e36f006f5d7bc852bf5b974fe62f767@merlin-cinemas-calendar
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
 SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin Bodmin
 DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
  ence Fiction, Thriller\n\nWith Caine gone and the circus dark, the cast ar
@@ -27,21 +27,6 @@ DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110320-the-amazing-digital-circ
  us-the-last-act
-END:VEVENT
-BEGIN:VEVENT
-UID:8e7576fcaec0b2cd5c2f219e9932824f7a9df770@merlin-cinemas-calendar
-DTSTAMP:20260607T000000Z
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-SUMMARY:Zog & Zog And The Flying Doctors Toddler Cinema @ Merlin Bodmin
-DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nPrivate Luxu
- ry Boxes are available for some performances,look out for the balcony icon
-  when hovering over times.\n\nStarring: Starring Ben 2026\n\nFilm release 
- at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk
- /film/110837-zog-zog-and-the-flying-doctors-toddler-cinema
-LOCATION:Merlin Cinemas Bodmin
-URL:https://bodmin.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying-d
- octors-toddler-cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:8c1a3d6f7a754e6c300b626464e80b4a38884ab3@merlin-cinemas-calendar
@@ -218,6 +203,23 @@ URL:https://bodmin.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-movi
  e
 END:VEVENT
 BEGIN:VEVENT
+UID:1196c171cae8cd0b680153132ae63d121ed69378@merlin-cinemas-calendar
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:The End Of Oak Street @ Merlin Bodmin
+DESCRIPTION:The End Of Oak Street\nScience Fiction, Mystery, Thriller\n\nAf
+ ter a mysterious cosmic event rips Oak Street from suburbia and transports
+  their neighborhood to someplace unknown, the Platt family soon discovers 
+ that their very survival depends on them sticking together as they navigat
+ e their now unrecognizable surroundings.\n\nStarring: Anne Hathaway, Ewan 
+ McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis, P.J. Byrne\
+ n\nFilm release at Merlin Cinemas Bodmin\nBook tickets: https://bodmin.mer
+ lincinemas.co.uk/film/111887-the-end-of-oak-street
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/111887-the-end-of-oak-street
+END:VEVENT
+BEGIN:VEVENT
 UID:e1bebd75e1b258ce78e32cb7f8de189b11f1f11e@merlin-cinemas-calendar
 DTSTAMP:20260821T000000Z
 DTSTART;VALUE=DATE:20260821
@@ -251,6 +253,24 @@ DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  -stars
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109928-the-dog-stars
+END:VEVENT
+BEGIN:VEVENT
+UID:b817fb694c8bdb53d4772de20b4742e9e29be77d@merlin-cinemas-calendar
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:How To Rob A Bank @ Merlin Bodmin
+DESCRIPTION:How To Rob A Bank\nCrime, Thriller\n\nA crew of social media-sa
+ vvy bank robbers broadcasts their daring heists, unaware that their growin
+ g viral fame has put them in the crosshairs of a veteran FBI agent and a b
+ rilliant software engineer. Despite the unlikely duo closing in, the crime
+  ring pushes past their limits, putting everything on the line for their m
+ ost ambitious heist yet.\n\nStarring: Nicholas Hoult, Zoë Kravitz, Anna Sa
+ wai, Rhenzy Feliz, Pete Davidson, John C. Reilly\n\nFilm release at Merlin
+  Cinemas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/film/111
+ 888-how-to-rob-a-bank
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/111888-how-to-rob-a-bank
 END:VEVENT
 BEGIN:VEVENT
 UID:4cc9105c849a87f26964eb76f6e3e177159bf554@merlin-cinemas-calendar
@@ -465,5 +485,21 @@ DESCRIPTION:Dune: Part Three\nScience Fiction, Adventure, Action\n\nAs Empe
  /109010-dune-part-three
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109010-dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:3b0755d881d2e6ebcb889e570f024e55c995611e@merlin-cinemas-calendar
+DTSTAMP:20270205T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Ice Age: Boiling Point @ Merlin Bodmin
+DESCRIPTION:Ice Age: Boiling Point\nAdventure, Animation, Comedy, Family\n\
+ nA madcap adventure filled with dinosaurs and lava that takes Manny, Sid, 
+ Diego, Ellie, Scrat and the herd through the uncharted regions of the dang
+ erous Lost World.\n\nStarring: Ray Romano, Denis Leary, John Leguizamo, Si
+ mon Pegg, Queen Latifah, Seann William Scott\n\nFilm release at Merlin Cin
+ emas Bodmin\nBook tickets: https://bodmin.merlincinemas.co.uk/film/111889-
+ ice-age-boiling-point
+LOCATION:Merlin Cinemas Bodmin
+URL:https://bodmin.merlincinemas.co.uk/film/111889-ice-age-boiling-point
 END:VEVENT
 END:VCALENDAR

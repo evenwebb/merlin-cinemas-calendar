@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:9543dd3ad9f791244655a16908b1e1e3080abf33@merlin-cinemas-calendar
-DTSTAMP:20260607T000000Z
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
+UID:e80c7435905618eafedc2c4173ca0f2ebc9d4849@merlin-cinemas-calendar
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
 SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin Redruth
 DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
  ence Fiction, Thriller\n\nWith Caine gone and the circus dark, the cast ar
@@ -27,21 +27,6 @@ DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110320-the-amazing-digital-cir
  cus-the-last-act
-END:VEVENT
-BEGIN:VEVENT
-UID:a4c484f50e7c5d6f94f51f6e919b993a550c22d1@merlin-cinemas-calendar
-DTSTAMP:20260607T000000Z
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-SUMMARY:Zog & Zog And The Flying Doctors Toddler Cinema @ Merlin Redruth
-DESCRIPTION:Zog & Zog And The Flying Doctors Toddler Cinema\n\nPrivate Luxu
- ry Boxes are available for some performances,look out for the balcony icon
-  when hovering over times.\n\nStarring: Starring Ben 2026\n\nFilm release 
- at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.
- uk/film/110837-zog-zog-and-the-flying-doctors-toddler-cinema
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/110837-zog-zog-and-the-flying-
- doctors-toddler-cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:cfa342f39d0e35a4a5eb94360ed9e1306c73739a@merlin-cinemas-calendar
@@ -218,6 +203,23 @@ URL:https://redruth.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mov
  ie
 END:VEVENT
 BEGIN:VEVENT
+UID:6866b83b022b2c5c7322128d22e3263be08d1652@merlin-cinemas-calendar
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:The End Of Oak Street @ Merlin Redruth
+DESCRIPTION:The End Of Oak Street\nScience Fiction, Mystery, Thriller\n\nAf
+ ter a mysterious cosmic event rips Oak Street from suburbia and transports
+  their neighborhood to someplace unknown, the Platt family soon discovers 
+ that their very survival depends on them sticking together as they navigat
+ e their now unrecognizable surroundings.\n\nStarring: Anne Hathaway, Ewan 
+ McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis, P.J. Byrne\
+ n\nFilm release at Merlin Cinemas Redruth\nBook tickets: https://redruth.m
+ erlincinemas.co.uk/film/111887-the-end-of-oak-street
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/111887-the-end-of-oak-street
+END:VEVENT
+BEGIN:VEVENT
 UID:cd0e0d1ef1559a52b3481c91c2aeeb30731d6849@merlin-cinemas-calendar
 DTSTAMP:20260821T000000Z
 DTSTART;VALUE=DATE:20260821
@@ -251,6 +253,24 @@ DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  og-stars
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109928-the-dog-stars
+END:VEVENT
+BEGIN:VEVENT
+UID:b8f1378d24ed0630354d55aadf8e28e17bafa06a@merlin-cinemas-calendar
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:How To Rob A Bank @ Merlin Redruth
+DESCRIPTION:How To Rob A Bank\nCrime, Thriller\n\nA crew of social media-sa
+ vvy bank robbers broadcasts their daring heists, unaware that their growin
+ g viral fame has put them in the crosshairs of a veteran FBI agent and a b
+ rilliant software engineer. Despite the unlikely duo closing in, the crime
+  ring pushes past their limits, putting everything on the line for their m
+ ost ambitious heist yet.\n\nStarring: Nicholas Hoult, Zoë Kravitz, Anna Sa
+ wai, Rhenzy Feliz, Pete Davidson, John C. Reilly\n\nFilm release at Merlin
+  Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.uk/film/1
+ 11888-how-to-rob-a-bank
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/111888-how-to-rob-a-bank
 END:VEVENT
 BEGIN:VEVENT
 UID:a1bf6b87251ed4b85d81ceaf8bcf9e88c778fa76@merlin-cinemas-calendar
@@ -466,5 +486,21 @@ DESCRIPTION:Dune: Part Three\nScience Fiction, Adventure, Action\n\nAs Empe
  lm/109010-dune-part-three
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109010-dune-part-three
+END:VEVENT
+BEGIN:VEVENT
+UID:d63ce525e8282b3ab0183ec40a01c4241d58ede6@merlin-cinemas-calendar
+DTSTAMP:20270205T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Ice Age: Boiling Point @ Merlin Redruth
+DESCRIPTION:Ice Age: Boiling Point\nAdventure, Animation, Comedy, Family\n\
+ nA madcap adventure filled with dinosaurs and lava that takes Manny, Sid, 
+ Diego, Ellie, Scrat and the herd through the uncharted regions of the dang
+ erous Lost World.\n\nStarring: Ray Romano, Denis Leary, John Leguizamo, Si
+ mon Pegg, Queen Latifah, Seann William Scott\n\nFilm release at Merlin Cin
+ emas Redruth\nBook tickets: https://redruth.merlincinemas.co.uk/film/11188
+ 9-ice-age-boiling-point
+LOCATION:Merlin Cinemas Redruth
+URL:https://redruth.merlincinemas.co.uk/film/111889-ice-age-boiling-point
 END:VEVENT
 END:VCALENDAR
