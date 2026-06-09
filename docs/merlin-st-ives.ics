@@ -7,22 +7,6 @@ X-WR-CALNAME:Merlin St Ives Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas St Ives
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:ad232d415e61e234c08e5ad6bce6a5ba9c995a59@merlin-cinemas-calendar
-DTSTAMP:20260618T000000Z
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-SUMMARY:Toy Story 5 @ Merlin St Ives
-DESCRIPTION:Toy Story 5\nAnimation, Family, Comedy, Adventure\n\nWhen Bonni
- e receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, J
- essie and the rest of the gang's jobs become exponentially harder when the
- y have to go head to head with the all-new threat to playtime.\n\nStarring
- : Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien, Craig Robin
- son\n\nFilm release at Merlin Cinemas St Ives\nBook tickets: https://st-iv
- es.merlincinemas.co.uk/film/105258-toy-story-5
-LOCATION:Merlin Cinemas St Ives
-URL:https://st-ives.merlincinemas.co.uk/film/105258-toy-story-5
-END:VEVENT
-BEGIN:VEVENT
 UID:a83ffb9db28c0a88c797e21a3566d6cedff6dd77@merlin-cinemas-calendar
 DTSTAMP:20260625T000000Z
 DTSTART;VALUE=DATE:20260625
@@ -163,19 +147,19 @@ DTSTAMP:20260807T000000Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:PAW Patrol: The Dino Movie @ Merlin St Ives
-DESCRIPTION:PAW Patrol: The Dino Movie\nAction, Adventure, Animation, Comed
- y, Family\n\nThe PAW Patrol pups crash land on an uncharted tropical islan
- d filled with dinosaurs after their ship gets caught in a mysterious storm
- . They meet Rex, a pup who has been stranded on the island for years and h
- as become an expert in all things dino-related. When the Patrol’s archriva
- l, Mayor Humdinger, begins recklessly mining in hopes of exploiting the is
- land for its natural resources, he inadvertently causes a huge, dormant vo
- lcano to erupt. The pups are thrown into a series of high-stakes, dino-siz
- ed rescues bigger than anything they’ve done before, as they must stop Hum
- dinger before everything on the island goes extinct.\n\nStarring: Carter Y
- oung, Hayden Chamberlen, Mckenna Grace, Rain Janjua, Henry Bolan, Lucien D
- uncan-Reid\n\nFilm release at Merlin Cinemas St Ives\nBook tickets: https:
- //st-ives.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-movie
+DESCRIPTION:PAW Patrol: The Dino Movie\nAdventure, Animation, Comedy, Famil
+ y\n\nThe PAW Patrol pups crash land on an uncharted tropical island filled
+  with dinosaurs after their ship gets caught in a mysterious storm. They m
+ eet Rex, a pup who has been stranded on the island for years and has becom
+ e an expert in all things dino-related. When the Patrol’s archrival, Mayor
+  Humdinger, begins recklessly mining in hopes of exploiting the island for
+  its natural resources, he inadvertently causes a huge, dormant volcano to
+  erupt. The pups are thrown into a series of high-stakes, dino-sized rescu
+ es bigger than anything they’ve done before, as they must stop Humdinger b
+ efore everything on the island goes extinct.\n\nStarring: Carter Young, Ha
+ yden Chamberlen, Mckenna Grace, Rain Janjua, Henry Bolan, Lucien Duncan-Re
+ id\n\nFilm release at Merlin Cinemas St Ives\nBook tickets: https://st-ive
+ s.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-movie
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mov
  ie

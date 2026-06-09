@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:e80c7435905618eafedc2c4173ca0f2ebc9d4849@merlin-cinemas-calendar
-DTSTAMP:20260608T000000Z
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260609
+UID:0cef5a8365893bf8a620bcea1cd334e60723cdfc@merlin-cinemas-calendar
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
 SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin Redruth
 DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
  ence Fiction, Thriller\n\nWith Caine gone and the circus dark, the cast ar
@@ -27,22 +27,6 @@ DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110320-the-amazing-digital-cir
  cus-the-last-act
-END:VEVENT
-BEGIN:VEVENT
-UID:cfa342f39d0e35a4a5eb94360ed9e1306c73739a@merlin-cinemas-calendar
-DTSTAMP:20260618T000000Z
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-SUMMARY:Toy Story 5 @ Merlin Redruth
-DESCRIPTION:Toy Story 5\nAnimation, Family, Comedy, Adventure\n\nWhen Bonni
- e receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, J
- essie and the rest of the gang's jobs become exponentially harder when the
- y have to go head to head with the all-new threat to playtime.\n\nStarring
- : Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien, Craig Robin
- son\n\nFilm release at Merlin Cinemas Redruth\nBook tickets: https://redru
- th.merlincinemas.co.uk/film/105258-toy-story-5
-LOCATION:Merlin Cinemas Redruth
-URL:https://redruth.merlincinemas.co.uk/film/105258-toy-story-5
 END:VEVENT
 BEGIN:VEVENT
 UID:a02e6e850d63bca5fdb437f5bd21ec3e17503923@merlin-cinemas-calendar
@@ -185,19 +169,19 @@ DTSTAMP:20260807T000000Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:PAW Patrol: The Dino Movie @ Merlin Redruth
-DESCRIPTION:PAW Patrol: The Dino Movie\nAction, Adventure, Animation, Comed
- y, Family\n\nThe PAW Patrol pups crash land on an uncharted tropical islan
- d filled with dinosaurs after their ship gets caught in a mysterious storm
- . They meet Rex, a pup who has been stranded on the island for years and h
- as become an expert in all things dino-related. When the Patrol’s archriva
- l, Mayor Humdinger, begins recklessly mining in hopes of exploiting the is
- land for its natural resources, he inadvertently causes a huge, dormant vo
- lcano to erupt. The pups are thrown into a series of high-stakes, dino-siz
- ed rescues bigger than anything they’ve done before, as they must stop Hum
- dinger before everything on the island goes extinct.\n\nStarring: Carter Y
- oung, Hayden Chamberlen, Mckenna Grace, Rain Janjua, Henry Bolan, Lucien D
- uncan-Reid\n\nFilm release at Merlin Cinemas Redruth\nBook tickets: https:
- //redruth.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-movie
+DESCRIPTION:PAW Patrol: The Dino Movie\nAdventure, Animation, Comedy, Famil
+ y\n\nThe PAW Patrol pups crash land on an uncharted tropical island filled
+  with dinosaurs after their ship gets caught in a mysterious storm. They m
+ eet Rex, a pup who has been stranded on the island for years and has becom
+ e an expert in all things dino-related. When the Patrol’s archrival, Mayor
+  Humdinger, begins recklessly mining in hopes of exploiting the island for
+  its natural resources, he inadvertently causes a huge, dormant volcano to
+  erupt. The pups are thrown into a series of high-stakes, dino-sized rescu
+ es bigger than anything they’ve done before, as they must stop Humdinger b
+ efore everything on the island goes extinct.\n\nStarring: Carter Young, Ha
+ yden Chamberlen, Mckenna Grace, Rain Janjua, Henry Bolan, Lucien Duncan-Re
+ id\n\nFilm release at Merlin Cinemas Redruth\nBook tickets: https://redrut
+ h.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-movie
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mov
  ie

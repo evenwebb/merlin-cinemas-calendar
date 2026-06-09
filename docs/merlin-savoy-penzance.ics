@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:7925f490e88703e6a8221d27c87ce510f633f256@merlin-cinemas-calendar
-DTSTAMP:20260608T000000Z
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260609
+UID:d4a1d252ef752f342145e29916e88d1100931184@merlin-cinemas-calendar
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
 SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin Savoy Cinema, Pen
  zance
 DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
@@ -28,22 +28,6 @@ DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110320-the-amazing-digital-ci
  rcus-the-last-act
-END:VEVENT
-BEGIN:VEVENT
-UID:7e645447b4a6bb84422037c5be1221684e01288d@merlin-cinemas-calendar
-DTSTAMP:20260618T000000Z
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-SUMMARY:Toy Story 5 @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:Toy Story 5\nAnimation, Family, Comedy, Adventure\n\nWhen Bonni
- e receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, J
- essie and the rest of the gang's jobs become exponentially harder when the
- y have to go head to head with the all-new threat to playtime.\n\nStarring
- : Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien, Craig Robin
- son\n\nFilm release at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets
- : https://penzance.merlincinemas.co.uk/film/105258-toy-story-5
-LOCATION:Merlin Cinemas Savoy Cinema, Penzance
-URL:https://penzance.merlincinemas.co.uk/film/105258-toy-story-5
 END:VEVENT
 BEGIN:VEVENT
 UID:4409bf538ad5a15f4111582b97ae421994c6ca8a@merlin-cinemas-calendar
@@ -187,20 +171,20 @@ DTSTAMP:20260807T000000Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:PAW Patrol: The Dino Movie @ Merlin Savoy Cinema, Penzance
-DESCRIPTION:PAW Patrol: The Dino Movie\nAction, Adventure, Animation, Comed
- y, Family\n\nThe PAW Patrol pups crash land on an uncharted tropical islan
- d filled with dinosaurs after their ship gets caught in a mysterious storm
- . They meet Rex, a pup who has been stranded on the island for years and h
- as become an expert in all things dino-related. When the Patrol’s archriva
- l, Mayor Humdinger, begins recklessly mining in hopes of exploiting the is
- land for its natural resources, he inadvertently causes a huge, dormant vo
- lcano to erupt. The pups are thrown into a series of high-stakes, dino-siz
- ed rescues bigger than anything they’ve done before, as they must stop Hum
- dinger before everything on the island goes extinct.\n\nStarring: Carter Y
- oung, Hayden Chamberlen, Mckenna Grace, Rain Janjua, Henry Bolan, Lucien D
- uncan-Reid\n\nFilm release at Merlin Cinemas Savoy Cinema, Penzance\nBook 
- tickets: https://penzance.merlincinemas.co.uk/film/109428-paw-patrol-the-d
- ino-movie
+DESCRIPTION:PAW Patrol: The Dino Movie\nAdventure, Animation, Comedy, Famil
+ y\n\nThe PAW Patrol pups crash land on an uncharted tropical island filled
+  with dinosaurs after their ship gets caught in a mysterious storm. They m
+ eet Rex, a pup who has been stranded on the island for years and has becom
+ e an expert in all things dino-related. When the Patrol’s archrival, Mayor
+  Humdinger, begins recklessly mining in hopes of exploiting the island for
+  its natural resources, he inadvertently causes a huge, dormant volcano to
+  erupt. The pups are thrown into a series of high-stakes, dino-sized rescu
+ es bigger than anything they’ve done before, as they must stop Humdinger b
+ efore everything on the island goes extinct.\n\nStarring: Carter Young, Ha
+ yden Chamberlen, Mckenna Grace, Rain Janjua, Henry Bolan, Lucien Duncan-Re
+ id\n\nFilm release at Merlin Cinemas Savoy Cinema, Penzance\nBook tickets:
+  https://penzance.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-movi
+ e
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mo
  vie
