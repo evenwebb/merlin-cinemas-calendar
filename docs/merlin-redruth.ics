@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:0cef5a8365893bf8a620bcea1cd334e60723cdfc@merlin-cinemas-calendar
-DTSTAMP:20260609T000000Z
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260610
+UID:73f7118f0e494859ec09f2cc523fc911b4114229@merlin-cinemas-calendar
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
 SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin Redruth
 DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
  ence Fiction, Thriller\n\nWith Caine gone and the circus dark, the cast ar
@@ -98,14 +98,14 @@ DTSTAMP:20260710T000000Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Evil Dead Burn @ Merlin Redruth
-DESCRIPTION:Evil Dead Burn\nHorror\n\nAfter the loss of her husband, a woma
- n seeks solace with her in-laws in their secluded family home. As one by o
- ne they are transformed into Deadites—turning the gathering into a family 
- reunion from hell—she comes to discover that the vows she took in life... 
- live on even in death.\n\nStarring: Souheila Yacoub, Tandi Wright, Hunter 
- Doohan, Luciane Buchanan, Erroll Shand, Maude Davey\n\nFilm release at Mer
- lin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas.co.uk/fil
- m/110872-evil-dead-burn
+DESCRIPTION:Evil Dead Burn\nHorror, Thriller\n\nAfter the loss of her husba
+ nd, a woman seeks solace with her in-laws in their secluded family home. A
+ s one by one they are transformed into Deadites—turning the gathering into
+  a family reunion from hell—she comes to discover that the vows she took i
+ n life... live on even in death.\n\nStarring: Souheila Yacoub, Tandi Wrigh
+ t, Hunter Doohan, Luciane Buchanan, Erroll Shand, Maude Davey\n\nFilm rele
+ ase at Merlin Cinemas Redruth\nBook tickets: https://redruth.merlincinemas
+ .co.uk/film/110872-evil-dead-burn
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110872-evil-dead-burn
 END:VEVENT
