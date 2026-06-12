@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:d4a1d252ef752f342145e29916e88d1100931184@merlin-cinemas-calendar
-DTSTAMP:20260611T000000Z
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260612
+UID:a5a1698c4179ca0c8ee6cd43197e0cad9f3c9474@merlin-cinemas-calendar
+DTSTAMP:20260612T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
 SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin Savoy Cinema, Pen
  zance
 DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci

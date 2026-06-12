@@ -1,109 +1,4 @@
 {
-  "merlin:/film/110402-jackass-best-and-last": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-06-05T11:55:25.672012"
-  },
-  "merlin:/film/110320-the-amazing-digital-circus-the-last-act": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-06-05T11:55:27.072432"
-  },
-  "merlin:/film/110400-500-miles": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-06-05T11:55:33.502632"
-  },
-  "merlin:/film/110872-evil-dead-burn": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-06-05T11:55:33.675773"
-  },
-  "merlin:/film/109011-spiderman-brand-new-day": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-06-05T11:55:35.073878"
-  },
-  "merlin:/film/109428-paw-patrol-the-dino-movie": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-06-05T11:55:39.216082"
-  },
-  "merlin:/film/109928-the-dog-stars": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-06-05T11:55:41.691863"
-  },
-  "merlin:/film/109185-pressure": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-06-05T11:55:44.446905"
-  },
-  "merlin:/film/110125-practical-magic-2": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-06-05T11:55:47.825131"
-  },
-  "merlin:/film/110404-resident-evil": {
-    "runtime": "",
-    "cast": "Starring Ben 2026",
-    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
-    "director": "",
-    "cached_at": "2026-06-05T11:55:49.921325"
-  },
-  "merlin:/film/110405-verity": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-06-05T11:55:51.934734"
-  },
-  "merlin:/film/109186-forgotten-island": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-06-05T11:55:56.006847"
-  },
-  "merlin:/film/110406-clayface": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-06-05T11:55:57.749553"
-  },
-  "merlin:/film/109012-wild-horse-nine": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-06-05T11:56:01.262315"
-  },
-  "merlin:/film/109010-dune-part-three": {
-    "runtime": "",
-    "cast": "",
-    "synopsis": "",
-    "director": "",
-    "cached_at": "2026-06-05T11:56:03.982507"
-  },
   "merlin:/film/110837-zog-zog-and-the-flying-doctors-toddler-cinema": {
     "runtime": "",
     "cast": "Starring Ben 2026",
@@ -208,5 +103,110 @@
     "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
     "director": "",
     "cached_at": "2026-06-08T12:57:24.575737"
+  },
+  "merlin:/film/110402-jackass-best-and-last": {
+    "runtime": "",
+    "cast": "The Elvis 68’ Recreation - Starring Emilio Santoro",
+    "synopsis": "The original date has been rescheduled by the promoter, and this event will now take place on 3rd August. We have emailed all bookings, and all tickets will be valid for the new date. Please contact action@merlincinemas.co.uk if you need any further assistance",
+    "director": "",
+    "cached_at": "2026-06-12T12:10:29.264751"
+  },
+  "merlin:/film/110320-the-amazing-digital-circus-the-last-act": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-06-12T12:10:32.695661"
+  },
+  "merlin:/film/110400-500-miles": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-06-12T12:10:40.693393"
+  },
+  "merlin:/film/110872-evil-dead-burn": {
+    "runtime": "",
+    "cast": "The Elvis 68’ Recreation - Starring Emilio Santoro",
+    "synopsis": "The original date has been rescheduled by the promoter, and this event will now take place on 3rd August. We have emailed all bookings, and all tickets will be valid for the new date. Please contact action@merlincinemas.co.uk if you need any further assistance",
+    "director": "",
+    "cached_at": "2026-06-12T12:10:38.931372"
+  },
+  "merlin:/film/109011-spiderman-brand-new-day": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-06-12T12:10:46.626234"
+  },
+  "merlin:/film/109428-paw-patrol-the-dino-movie": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-06-12T12:10:47.266463"
+  },
+  "merlin:/film/109928-the-dog-stars": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-06-12T12:10:52.511138"
+  },
+  "merlin:/film/109185-pressure": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-06-12T12:10:54.653395"
+  },
+  "merlin:/film/110125-practical-magic-2": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-06-12T12:10:58.412089"
+  },
+  "merlin:/film/110404-resident-evil": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-06-12T12:10:59.473981"
+  },
+  "merlin:/film/110405-verity": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-06-12T12:11:04.628296"
+  },
+  "merlin:/film/109186-forgotten-island": {
+    "runtime": "",
+    "cast": "",
+    "synopsis": "",
+    "director": "",
+    "cached_at": "2026-06-12T12:11:05.283223"
+  },
+  "merlin:/film/110406-clayface": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-06-12T12:11:10.595316"
+  },
+  "merlin:/film/109012-wild-horse-nine": {
+    "runtime": "",
+    "cast": "The Elvis 68’ Recreation - Starring Emilio Santoro",
+    "synopsis": "The original date has been rescheduled by the promoter, and this event will now take place on 3rd August. We have emailed all bookings, and all tickets will be valid for the new date. Please contact action@merlincinemas.co.uk if you need any further assistance",
+    "director": "",
+    "cached_at": "2026-06-12T12:11:10.150418"
+  },
+  "merlin:/film/109010-dune-part-three": {
+    "runtime": "",
+    "cast": "Starring Ben 2026",
+    "synopsis": "Private Luxury Boxes are available for some performances,look out for the balcony icon when hovering over times.",
+    "director": "",
+    "cached_at": "2026-06-12T12:11:16.352427"
   }
 }

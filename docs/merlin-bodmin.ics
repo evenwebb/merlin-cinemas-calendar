@@ -7,10 +7,10 @@ X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:5be98bf13172cf6c6f39bf8ebfa8240adc68644c@merlin-cinemas-calendar
-DTSTAMP:20260611T000000Z
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260612
+UID:647ca33ce3c74753d9bcb3e006fe09f2dd85725c@merlin-cinemas-calendar
+DTSTAMP:20260612T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
 SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin Bodmin
 DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
  ence Fiction, Thriller\n\nWith Caine gone and the circus dark, the cast ar
