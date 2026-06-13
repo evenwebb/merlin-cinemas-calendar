@@ -6,6 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Merlin St Ives Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas St Ives
 X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:a83ffb9db28c0a88c797e21a3566d6cedff6dd77@merlin-cinemas-calendar
 DTSTAMP:20260625T000000Z
@@ -21,6 +23,7 @@ DESCRIPTION:Supergirl\nAction, Adventure, Science Fiction\n\nWhen an unexpe
  s.merlincinemas.co.uk/film/106024-supergirl
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/106024-supergirl
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:465e2d9ea115bb427a791d6e0d287a4a62f5bb00@merlin-cinemas-calendar
@@ -37,6 +40,7 @@ DESCRIPTION:500 Miles\nDrama\n\nA broken family is forced to come together
  incinemas.co.uk/film/110400-500-miles
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/110400-500-miles
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:036295623fbdc3987d49ab511c19535a1eeef35b@merlin-cinemas-calendar
@@ -52,6 +56,7 @@ DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe fift
  0402-jackass-best-and-last
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/110402-jackass-best-and-last
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:acf5107326d6d3af79e86febf738cd960d47edce@merlin-cinemas-calendar
@@ -69,6 +74,7 @@ DESCRIPTION:Minions & Monsters\nAdventure, Animation, Comedy, Family, Fanta
  .merlincinemas.co.uk/film/110835-minions-monsters
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/110835-minions-monsters
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:7c1cb8a48eb0a44ba3e8f6fd362ef41a1a739a10@merlin-cinemas-calendar
@@ -86,6 +92,7 @@ DESCRIPTION:Evil Dead Burn\nHorror, Thriller\n\nAfter the loss of her husba
  .co.uk/film/110872-evil-dead-burn
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/110872-evil-dead-burn
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:3ebf5561e9c84e25fc671d54a6e0c2ce20260f95@merlin-cinemas-calendar
@@ -102,6 +109,7 @@ DESCRIPTION:Moana\nFamily, Fantasy, Comedy, Adventure\n\nMoana answers the
  5-moana
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/105535-moana
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:1fe4a562304979fc732d27f0b68ce588d87ec04f@merlin-cinemas-calendar
@@ -119,6 +127,7 @@ DESCRIPTION:The Odyssey\nAdventure, Action, Fantasy\n\nOdysseus, the legend
  inemas.co.uk/film/106038-the-odyssey
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/106038-the-odyssey
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:f1ff70f71354cdad82591dd4051f5730b31a5e7f@merlin-cinemas-calendar
@@ -140,6 +149,7 @@ DESCRIPTION:Spider-Man: Brand New Day\nScience Fiction, Action, Adventure\n
  lm/109011-spiderman-brand-new-day
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109011-spiderman-brand-new-day
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:76a970504f37e538ac5011df369063afa886764f@merlin-cinemas-calendar
@@ -163,6 +173,7 @@ DESCRIPTION:PAW Patrol: The Dino Movie\nAdventure, Animation, Comedy, Famil
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mov
  ie
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:b86b847ae0428ca531c103de5567cd078343a80f@merlin-cinemas-calendar
@@ -180,6 +191,7 @@ DESCRIPTION:The End Of Oak Street\nScience Fiction, Mystery, Thriller\n\nAf
  erlincinemas.co.uk/film/111887-the-end-of-oak-street
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/111887-the-end-of-oak-street
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:8ee3ffba95e12c0c385180add5a16775206bf7c8@merlin-cinemas-calendar
@@ -197,6 +209,7 @@ DESCRIPTION:Insidious: Out Of The Further\nHorror, Thriller\n\nA trio of st
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109808-insidious-out-of-the-fu
  rther
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:b17a269cb6fa85f7d8d0373454e4b9306c0e167d@merlin-cinemas-calendar
@@ -215,6 +228,7 @@ DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  og-stars
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109928-the-dog-stars
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:0cb7836098fcc74d3e2da1780d2b43539119731e@merlin-cinemas-calendar
@@ -233,6 +247,7 @@ DESCRIPTION:How To Rob A Bank\nCrime, Thriller\n\nA crew of social media-sa
  11888-how-to-rob-a-bank
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/111888-how-to-rob-a-bank
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:c8a299e4d48e33e76713bec1b51c08e14e479448@merlin-cinemas-calendar
@@ -250,6 +265,7 @@ DESCRIPTION:Pressure\n★★★★☆\nThriller, History, War\n\nIn the tense 72
  ilm/109185-pressure
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109185-pressure
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:922406559e01c735698de9a279a20b49d1614c7d@merlin-cinemas-calendar
@@ -265,6 +281,7 @@ DESCRIPTION:Practical Magic 2\nFantasy, Drama, Comedy\n\nThe Owens sisters
  actical-magic-2
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/110125-practical-magic-2
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:4783fc56968e7084863d2fa7c5f38a2a0b20e9b9@merlin-cinemas-calendar
@@ -280,6 +297,7 @@ DESCRIPTION:Resident Evil\nHorror, Science Fiction, Action\n\nBryan, a medi
  /film/110404-resident-evil
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/110404-resident-evil
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:eddf797f1f0ef968a784f7b0c7fb23f279bc90e0@merlin-cinemas-calendar
@@ -300,6 +318,7 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-bea
  st-of-mossy-bottom
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:79da313e68acb4018ef182c2f4e6d5700f561cf0@merlin-cinemas-calendar
@@ -316,6 +335,7 @@ DESCRIPTION:Verity\nMystery, Thriller\n\nLowen Ashleigh gets hired by Jerem
   https://st-ives.merlincinemas.co.uk/film/110405-verity
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/110405-verity
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:6cdd2ce607fbedf62c9939d2a601c7be3f077ce8@merlin-cinemas-calendar
@@ -332,6 +352,7 @@ DESCRIPTION:Forgotten Island\nAdventure, Animation, Comedy, Family, Fantasy
  inemas.co.uk/film/109186-forgotten-island
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109186-forgotten-island
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:27180deaa6acec818e8d07931a1debc8c8ec659e@merlin-cinemas-calendar
@@ -350,6 +371,7 @@ DESCRIPTION:Street Fighter\nAction, Comedy, Fantasy\n\nIn 1993, estranged S
  st-ives.merlincinemas.co.uk/film/109884-street-fighter
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109884-street-fighter
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:8ca0bc8035206503b3b87bfb6744e82692ae28c2@merlin-cinemas-calendar
@@ -366,6 +388,7 @@ DESCRIPTION:Clayface\nHorror, Thriller, Science Fiction\n\nFollow the terri
  https://st-ives.merlincinemas.co.uk/film/110406-clayface
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/110406-clayface
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:2a451225742024baf9d5933630975b514d043868@merlin-cinemas-calendar
@@ -384,6 +407,7 @@ DESCRIPTION:Wild Horse Nine\nComedy, Crime, Thriller\n\nShortly before the
  kets: https://st-ives.merlincinemas.co.uk/film/109012-wild-horse-nine
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109012-wild-horse-nine
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:3807427524490e5b594a1ae2cada9f1c776f4563@merlin-cinemas-calendar
@@ -401,6 +425,7 @@ DESCRIPTION:The Hunger Games: Sunrise On The Reaping\nScience Fiction, Acti
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/105537-the-hunger-games-sunris
  e-on-the-reaping
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:51cf861326b9edc4232b0945eae539c5fe74677e@merlin-cinemas-calendar
@@ -416,6 +441,7 @@ DESCRIPTION:Focker-In-Law\nComedy, Romance\n\nHenry, son of Greg and Pam Fo
  o.uk/film/109883-fockerinlaw
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109883-fockerinlaw
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a3a07b2ce7a9adcfe6444d0be237fd2abcaeb461@merlin-cinemas-calendar
@@ -432,6 +458,7 @@ DESCRIPTION:Avengers: Doomsday\nScience Fiction, Action, Adventure\n\nBelov
  sday
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/106451-avengers-doomsday
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:f29db7cae8900b3e263437d5d41076f6d82b47e2@merlin-cinemas-calendar
@@ -448,6 +475,7 @@ DESCRIPTION:Dune: Part Three\nScience Fiction, Adventure, Action\n\nAs Empe
  lm/109010-dune-part-three
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/109010-dune-part-three
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:563c6b12e3ee0d002c2a2fa4fdd2ed3e407b2e89@merlin-cinemas-calendar
@@ -464,5 +492,6 @@ DESCRIPTION:Ice Age: Boiling Point\nAdventure, Animation, Comedy, Family\n\
  9-ice-age-boiling-point
 LOCATION:Merlin Cinemas St Ives
 URL:https://st-ives.merlincinemas.co.uk/film/111889-ice-age-boiling-point
+SEQUENCE:0
 END:VEVENT
 END:VCALENDAR

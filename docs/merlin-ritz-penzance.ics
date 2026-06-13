@@ -6,6 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Merlin The Ritz, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas The Ritz, Penzance
 X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:ba64bb2adb7a11c035375535b2d3431d252afed7@merlin-cinemas-calendar
 DTSTAMP:20260625T000000Z
@@ -21,6 +23,7 @@ DESCRIPTION:Supergirl\nAction, Adventure, Science Fiction\n\nWhen an unexpe
  ps://ritz.merlincinemas.co.uk/film/106024-supergirl
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/106024-supergirl
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:469add4c6ed86d27512892415bbb0e293de90098@merlin-cinemas-calendar
@@ -37,6 +40,7 @@ DESCRIPTION:500 Miles\nDrama\n\nA broken family is forced to come together
  itz.merlincinemas.co.uk/film/110400-500-miles
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/110400-500-miles
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:1ba46a1f3034311ccb877ec9427de91e02a3e6a1@merlin-cinemas-calendar
@@ -52,6 +56,7 @@ DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe fift
  /film/110402-jackass-best-and-last
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/110402-jackass-best-and-last
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:20cb1c22a360db454079c6c0ff34249a5190b50a@merlin-cinemas-calendar
@@ -69,6 +74,7 @@ DESCRIPTION:Minions & Monsters\nAdventure, Animation, Comedy, Family, Fanta
  s://ritz.merlincinemas.co.uk/film/110835-minions-monsters
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/110835-minions-monsters
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:e4ae451938cc24bf246ac8c04ee73d1d772a335b@merlin-cinemas-calendar
@@ -86,6 +92,7 @@ DESCRIPTION:Evil Dead Burn\nHorror, Thriller\n\nAfter the loss of her husba
  ncinemas.co.uk/film/110872-evil-dead-burn
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/110872-evil-dead-burn
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a27bd19d781413e2537f402b993e743f60b5b800@merlin-cinemas-calendar
@@ -102,6 +109,7 @@ DESCRIPTION:Moana\nFamily, Fantasy, Comedy, Adventure\n\nMoana answers the
  lm/105535-moana
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/105535-moana
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a785e4b1ed9a1ecaaf627894e8ceb1c5a50351e4@merlin-cinemas-calendar
@@ -119,6 +127,7 @@ DESCRIPTION:The Odyssey\nAdventure, Action, Fantasy\n\nOdysseus, the legend
  .merlincinemas.co.uk/film/106038-the-odyssey
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/106038-the-odyssey
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:fbdd0aa8590a48f3db3480e2745661ab991c7156@merlin-cinemas-calendar
@@ -140,6 +149,7 @@ DESCRIPTION:Spider-Man: Brand New Day\nScience Fiction, Action, Adventure\n
  co.uk/film/109011-spiderman-brand-new-day
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/109011-spiderman-brand-new-day
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:733a89467c0b443473c6f83fed595ead614de24c@merlin-cinemas-calendar
@@ -162,6 +172,7 @@ DESCRIPTION:PAW Patrol: The Dino Movie\nAdventure, Animation, Comedy, Famil
  ps://ritz.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-movie
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-movie
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:783ad7c1cb8589814a626f0f7316372851ac154a@merlin-cinemas-calendar
@@ -179,6 +190,7 @@ DESCRIPTION:The End Of Oak Street\nScience Fiction, Mystery, Thriller\n\nAf
  //ritz.merlincinemas.co.uk/film/111887-the-end-of-oak-street
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/111887-the-end-of-oak-street
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:000752f750e5437b3744a0cd816814c2ba472936@merlin-cinemas-calendar
@@ -196,6 +208,7 @@ DESCRIPTION:Insidious: Out Of The Further\nHorror, Thriller\n\nA trio of st
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/109808-insidious-out-of-the-furth
  er
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:f280cc90f0b3d0e7731dfc72124f744eed3acbe0@merlin-cinemas-calendar
@@ -214,6 +227,7 @@ DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  28-the-dog-stars
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/109928-the-dog-stars
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:e10dcf0fa28ce395916e142beff85d877d1c4da3@merlin-cinemas-calendar
@@ -232,6 +246,7 @@ DESCRIPTION:How To Rob A Bank\nCrime, Thriller\n\nA crew of social media-sa
  k/film/111888-how-to-rob-a-bank
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/111888-how-to-rob-a-bank
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:008d6fe99a66f1255bae71f0297dec15b5686e9c@merlin-cinemas-calendar
@@ -249,6 +264,7 @@ DESCRIPTION:Pressure\n★★★★☆\nThriller, History, War\n\nIn the tense 72
  .co.uk/film/109185-pressure
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/109185-pressure
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a12437fb622885806c3da792ac8fb62b76cd9688@merlin-cinemas-calendar
@@ -264,6 +280,7 @@ DESCRIPTION:Practical Magic 2\nFantasy, Drama, Comedy\n\nThe Owens sisters
  10125-practical-magic-2
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/110125-practical-magic-2
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:9adf032f81fe822c934e4a8d18f4041918445123@merlin-cinemas-calendar
@@ -279,6 +296,7 @@ DESCRIPTION:Resident Evil\nHorror, Science Fiction, Action\n\nBryan, a medi
  as.co.uk/film/110404-resident-evil
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/110404-resident-evil
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:8acbb98a00ef0ed6aa7eaa41d7c084e291b089fa@merlin-cinemas-calendar
@@ -300,6 +318,7 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-beast-
  of-mossy-bottom
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:5c9704d8c3f48a7b493553cb115d8a772407d8c0@merlin-cinemas-calendar
@@ -316,6 +335,7 @@ DESCRIPTION:Verity\nMystery, Thriller\n\nLowen Ashleigh gets hired by Jerem
  ok tickets: https://ritz.merlincinemas.co.uk/film/110405-verity
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/110405-verity
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:e6846df82bf1e09f87038ed78cb9239a953be687@merlin-cinemas-calendar
@@ -332,6 +352,7 @@ DESCRIPTION:Forgotten Island\nAdventure, Animation, Comedy, Family, Fantasy
  .merlincinemas.co.uk/film/109186-forgotten-island
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/109186-forgotten-island
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:f10407b8ea4644f8bac5df846d163eec8ed4157b@merlin-cinemas-calendar
@@ -350,6 +371,7 @@ DESCRIPTION:Street Fighter\nAction, Comedy, Fantasy\n\nIn 1993, estranged S
  s: https://ritz.merlincinemas.co.uk/film/109884-street-fighter
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/109884-street-fighter
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:6f22d9e6f7bf8018d3e176169a1c7960055d2c98@merlin-cinemas-calendar
@@ -366,6 +388,7 @@ DESCRIPTION:Clayface\nHorror, Thriller, Science Fiction\n\nFollow the terri
  k tickets: https://ritz.merlincinemas.co.uk/film/110406-clayface
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/110406-clayface
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:766c4a84496ab73237ccbee838a7726cddc42695@merlin-cinemas-calendar
@@ -385,6 +408,7 @@ DESCRIPTION:Wild Horse Nine\nComedy, Crime, Thriller\n\nShortly before the
  ine
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/109012-wild-horse-nine
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:03a0b7111f7b4c5f99accac8f504dd396855da4f@merlin-cinemas-calendar
@@ -404,6 +428,7 @@ DESCRIPTION:The Hunger Games: Sunrise On The Reaping\nScience Fiction, Acti
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/105537-the-hunger-games-sunrise-o
  n-the-reaping
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:21b2cd38621b434f7f64b8b20331febc95fa9c4a@merlin-cinemas-calendar
@@ -419,6 +444,7 @@ DESCRIPTION:Focker-In-Law\nComedy, Romance\n\nHenry, son of Greg and Pam Fo
  inemas.co.uk/film/109883-fockerinlaw
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/109883-fockerinlaw
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:86030e8558ee0fa1dc8b3ab74e05330467b85b59@merlin-cinemas-calendar
@@ -435,6 +461,7 @@ DESCRIPTION:Avengers: Doomsday\nScience Fiction, Action, Adventure\n\nBelov
  ers-doomsday
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/106451-avengers-doomsday
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:6e637abe9fd0b9bcc3185700f376d7e26fd73ed6@merlin-cinemas-calendar
@@ -451,6 +478,7 @@ DESCRIPTION:Dune: Part Three\nScience Fiction, Adventure, Action\n\nAs Empe
  co.uk/film/109010-dune-part-three
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/109010-dune-part-three
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:82f11a7c34fa959c57a0e718e8c6c21bf6e07c6a@merlin-cinemas-calendar
@@ -467,5 +495,6 @@ DESCRIPTION:Ice Age: Boiling Point\nAdventure, Animation, Comedy, Family\n\
  lm/111889-ice-age-boiling-point
 LOCATION:Merlin Cinemas The Ritz, Penzance
 URL:https://ritz.merlincinemas.co.uk/film/111889-ice-age-boiling-point
+SEQUENCE:0
 END:VEVENT
 END:VCALENDAR

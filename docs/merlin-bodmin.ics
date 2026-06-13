@@ -6,11 +6,13 @@ METHOD:PUBLISH
 X-WR-CALNAME:Merlin Bodmin Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Bodmin
 X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:647ca33ce3c74753d9bcb3e006fe09f2dd85725c@merlin-cinemas-calendar
-DTSTAMP:20260612T000000Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
+UID:4799150e937b81773a3da0fbcc7b003245de29f9@merlin-cinemas-calendar
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
 SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin Bodmin
 DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
  ence Fiction, Thriller\n\nWith Caine gone and the circus dark, the cast ar
@@ -27,6 +29,7 @@ DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110320-the-amazing-digital-circ
  us-the-last-act
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:e56c50b3a1f646b902ee58f744c2ef40b1071972@merlin-cinemas-calendar
@@ -43,6 +46,7 @@ DESCRIPTION:Supergirl\nAction, Adventure, Science Fiction\n\nWhen an unexpe
  merlincinemas.co.uk/film/106024-supergirl
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/106024-supergirl
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:4420b7a665e9e9872ee150fe3d0d0dd0310977fe@merlin-cinemas-calendar
@@ -59,6 +63,7 @@ DESCRIPTION:500 Miles\nDrama\n\nA broken family is forced to come together
  cinemas.co.uk/film/110400-500-miles
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110400-500-miles
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:5707459852fbf64b987f540b78ec0b1b1f769a21@merlin-cinemas-calendar
@@ -74,6 +79,7 @@ DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe fift
  02-jackass-best-and-last
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110402-jackass-best-and-last
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:26b1af22ca825120a3b5fd5839fd39934b9be441@merlin-cinemas-calendar
@@ -91,6 +97,7 @@ DESCRIPTION:Minions & Monsters\nAdventure, Animation, Comedy, Family, Fanta
  erlincinemas.co.uk/film/110835-minions-monsters
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110835-minions-monsters
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:905729db92f364eb3f71aece04429fed4cccf37f@merlin-cinemas-calendar
@@ -108,6 +115,7 @@ DESCRIPTION:Evil Dead Burn\nHorror, Thriller\n\nAfter the loss of her husba
  o.uk/film/110872-evil-dead-burn
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110872-evil-dead-burn
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a0cce910f3647bab212aeb6446291d6cf88859cf@merlin-cinemas-calendar
@@ -124,6 +132,7 @@ DESCRIPTION:Moana\nFamily, Fantasy, Comedy, Adventure\n\nMoana answers the
  moana
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/105535-moana
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:d86dfdee80684847b0340580c2e7e919546b4c14@merlin-cinemas-calendar
@@ -141,6 +150,7 @@ DESCRIPTION:The Odyssey\nAdventure, Action, Fantasy\n\nOdysseus, the legend
  emas.co.uk/film/106038-the-odyssey
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/106038-the-odyssey
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:29be449ba2ede0f78459e12af5ea54400608867c@merlin-cinemas-calendar
@@ -162,6 +172,7 @@ DESCRIPTION:Spider-Man: Brand New Day\nScience Fiction, Action, Adventure\n
  /109011-spiderman-brand-new-day
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109011-spiderman-brand-new-day
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:edd5038c149bb583435267d70fa6a19be7d56735@merlin-cinemas-calendar
@@ -185,6 +196,7 @@ DESCRIPTION:PAW Patrol: The Dino Movie\nAdventure, Animation, Comedy, Famil
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-movi
  e
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:1196c171cae8cd0b680153132ae63d121ed69378@merlin-cinemas-calendar
@@ -202,6 +214,7 @@ DESCRIPTION:The End Of Oak Street\nScience Fiction, Mystery, Thriller\n\nAf
  lincinemas.co.uk/film/111887-the-end-of-oak-street
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/111887-the-end-of-oak-street
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:e1bebd75e1b258ce78e32cb7f8de189b11f1f11e@merlin-cinemas-calendar
@@ -219,6 +232,7 @@ DESCRIPTION:Insidious: Out Of The Further\nHorror, Thriller\n\nA trio of st
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109808-insidious-out-of-the-fur
  ther
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:d33134566c56fdca2d3657585f70bd47b889dc1f@merlin-cinemas-calendar
@@ -237,6 +251,7 @@ DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  -stars
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109928-the-dog-stars
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:b817fb694c8bdb53d4772de20b4742e9e29be77d@merlin-cinemas-calendar
@@ -255,6 +270,7 @@ DESCRIPTION:How To Rob A Bank\nCrime, Thriller\n\nA crew of social media-sa
  888-how-to-rob-a-bank
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/111888-how-to-rob-a-bank
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:4cc9105c849a87f26964eb76f6e3e177159bf554@merlin-cinemas-calendar
@@ -272,6 +288,7 @@ DESCRIPTION:Pressure\n★★★★☆\nThriller, History, War\n\nIn the tense 72
  m/109185-pressure
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109185-pressure
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:7952eec5cd9d02995643404ff72d0832f97867d9@merlin-cinemas-calendar
@@ -287,6 +304,7 @@ DESCRIPTION:Practical Magic 2\nFantasy, Drama, Comedy\n\nThe Owens sisters
  tical-magic-2
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110125-practical-magic-2
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:fb362daa8e4a3976f1cf7fb19c327cd6cd2cec4c@merlin-cinemas-calendar
@@ -302,6 +320,7 @@ DESCRIPTION:Resident Evil\nHorror, Science Fiction, Action\n\nBryan, a medi
  ilm/110404-resident-evil
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110404-resident-evil
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:54b5bcf86bb3b17db3f3665216b85dfd23c73aa2@merlin-cinemas-calendar
@@ -321,6 +340,7 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-beas
  t-of-mossy-bottom
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:0958e52f6d23b0a2a13aec60beed93aa7f943e00@merlin-cinemas-calendar
@@ -337,6 +357,7 @@ DESCRIPTION:Verity\nMystery, Thriller\n\nLowen Ashleigh gets hired by Jerem
  https://bodmin.merlincinemas.co.uk/film/110405-verity
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110405-verity
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:22a65f76f500b34bce807210ad75b5a263db110d@merlin-cinemas-calendar
@@ -353,6 +374,7 @@ DESCRIPTION:Forgotten Island\nAdventure, Animation, Comedy, Family, Fantasy
  emas.co.uk/film/109186-forgotten-island
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109186-forgotten-island
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ae5f7fb7b51b0ff1f74d1f1eb1eb8c9357821077@merlin-cinemas-calendar
@@ -371,6 +393,7 @@ DESCRIPTION:Street Fighter\nAction, Comedy, Fantasy\n\nIn 1993, estranged S
  odmin.merlincinemas.co.uk/film/109884-street-fighter
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109884-street-fighter
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ea90a8d6dc265eba894bfa719309f6ea4474be58@merlin-cinemas-calendar
@@ -387,6 +410,7 @@ DESCRIPTION:Clayface\nHorror, Thriller, Science Fiction\n\nFollow the terri
  ttps://bodmin.merlincinemas.co.uk/film/110406-clayface
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/110406-clayface
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:6d43f422bf4024652c389ebbbde7e8e84cc51fd1@merlin-cinemas-calendar
@@ -405,6 +429,7 @@ DESCRIPTION:Wild Horse Nine\nComedy, Crime, Thriller\n\nShortly before the
  ets: https://bodmin.merlincinemas.co.uk/film/109012-wild-horse-nine
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109012-wild-horse-nine
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:d181a9f39f754588bffd8dad4a7373b811db8bb8@merlin-cinemas-calendar
@@ -422,6 +447,7 @@ DESCRIPTION:The Hunger Games: Sunrise On The Reaping\nScience Fiction, Acti
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/105537-the-hunger-games-sunrise
  -on-the-reaping
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:d4e1d59d01b3a9781b5050bc25491ca6a9eaff1a@merlin-cinemas-calendar
@@ -437,6 +463,7 @@ DESCRIPTION:Focker-In-Law\nComedy, Romance\n\nHenry, son of Greg and Pam Fo
  uk/film/109883-fockerinlaw
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109883-fockerinlaw
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:8c23725a01d5bc1c29fb364c197c42f1fa33e6cb@merlin-cinemas-calendar
@@ -453,6 +480,7 @@ DESCRIPTION:Avengers: Doomsday\nScience Fiction, Action, Adventure\n\nBelov
  ay
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/106451-avengers-doomsday
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:8ca52f5a5ee0896713e718f43692b36f3fc9c824@merlin-cinemas-calendar
@@ -469,6 +497,7 @@ DESCRIPTION:Dune: Part Three\nScience Fiction, Adventure, Action\n\nAs Empe
  /109010-dune-part-three
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/109010-dune-part-three
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:3b0755d881d2e6ebcb889e570f024e55c995611e@merlin-cinemas-calendar
@@ -485,5 +514,6 @@ DESCRIPTION:Ice Age: Boiling Point\nAdventure, Animation, Comedy, Family\n\
  ice-age-boiling-point
 LOCATION:Merlin Cinemas Bodmin
 URL:https://bodmin.merlincinemas.co.uk/film/111889-ice-age-boiling-point
+SEQUENCE:0
 END:VEVENT
 END:VCALENDAR

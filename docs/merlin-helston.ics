@@ -6,6 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Merlin Helston Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Helston
 X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:85aff4542e18ab9233aaa4a92ba21d30a06ca97d@merlin-cinemas-calendar
 DTSTAMP:20260625T000000Z
@@ -21,6 +23,7 @@ DESCRIPTION:Supergirl\nAction, Adventure, Science Fiction\n\nWhen an unexpe
  n.merlincinemas.co.uk/film/106024-supergirl
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/106024-supergirl
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:8cfb12531ef34268775bf93e42fe6c0c5085d9d8@merlin-cinemas-calendar
@@ -37,6 +40,7 @@ DESCRIPTION:500 Miles\nDrama\n\nA broken family is forced to come together
  incinemas.co.uk/film/110400-500-miles
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/110400-500-miles
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:6bca74a680df5fcfec222ea0b6b242aede461ac5@merlin-cinemas-calendar
@@ -52,6 +56,7 @@ DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe fift
  0402-jackass-best-and-last
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/110402-jackass-best-and-last
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:c36042c5c862f4b764b0f42da3ad5b3f5cfa005d@merlin-cinemas-calendar
@@ -69,6 +74,7 @@ DESCRIPTION:Minions & Monsters\nAdventure, Animation, Comedy, Family, Fanta
  .merlincinemas.co.uk/film/110835-minions-monsters
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/110835-minions-monsters
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:f460d3585de246621b83ff127d97a2508af91060@merlin-cinemas-calendar
@@ -86,6 +92,7 @@ DESCRIPTION:Evil Dead Burn\nHorror, Thriller\n\nAfter the loss of her husba
  .co.uk/film/110872-evil-dead-burn
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/110872-evil-dead-burn
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:1ecc0fbddee13eb902c9859fa0b076bd219cd247@merlin-cinemas-calendar
@@ -102,6 +109,7 @@ DESCRIPTION:Moana\nFamily, Fantasy, Comedy, Adventure\n\nMoana answers the
  5-moana
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/105535-moana
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:50a1843c7bdd4f7efca6e49383c8ba782e6b7438@merlin-cinemas-calendar
@@ -119,6 +127,7 @@ DESCRIPTION:The Odyssey\nAdventure, Action, Fantasy\n\nOdysseus, the legend
  inemas.co.uk/film/106038-the-odyssey
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/106038-the-odyssey
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:5c3fdf8a860ae822175c50fd6dc92be2759c6bd2@merlin-cinemas-calendar
@@ -140,6 +149,7 @@ DESCRIPTION:Spider-Man: Brand New Day\nScience Fiction, Action, Adventure\n
  lm/109011-spiderman-brand-new-day
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109011-spiderman-brand-new-day
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a2358272fc1451a4ed6f73e18f73ba256bbd4dab@merlin-cinemas-calendar
@@ -163,6 +173,7 @@ DESCRIPTION:PAW Patrol: The Dino Movie\nAdventure, Animation, Comedy, Famil
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mov
  ie
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:7c0873231a22ac8577b61394909753f178e09ab9@merlin-cinemas-calendar
@@ -180,6 +191,7 @@ DESCRIPTION:The End Of Oak Street\nScience Fiction, Mystery, Thriller\n\nAf
  erlincinemas.co.uk/film/111887-the-end-of-oak-street
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/111887-the-end-of-oak-street
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:faca8ed3f916c64cbbedb54d3638ad362a07f1de@merlin-cinemas-calendar
@@ -197,6 +209,7 @@ DESCRIPTION:Insidious: Out Of The Further\nHorror, Thriller\n\nA trio of st
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109808-insidious-out-of-the-fu
  rther
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:2da8eaf99c05b4d6c999f036ae313bf49f62347d@merlin-cinemas-calendar
@@ -215,6 +228,7 @@ DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  og-stars
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109928-the-dog-stars
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:3e01aaa7b7ef193c384142f5d2dcd52366178b4f@merlin-cinemas-calendar
@@ -233,6 +247,7 @@ DESCRIPTION:How To Rob A Bank\nCrime, Thriller\n\nA crew of social media-sa
  11888-how-to-rob-a-bank
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/111888-how-to-rob-a-bank
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:da01c81065bd3f8a35ed677aa5cce0ea995b3154@merlin-cinemas-calendar
@@ -250,6 +265,7 @@ DESCRIPTION:Pressure\n★★★★☆\nThriller, History, War\n\nIn the tense 72
  ilm/109185-pressure
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109185-pressure
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:4322f5b37affce87bc32fedf8de786be9f31cd26@merlin-cinemas-calendar
@@ -265,6 +281,7 @@ DESCRIPTION:Practical Magic 2\nFantasy, Drama, Comedy\n\nThe Owens sisters
  actical-magic-2
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/110125-practical-magic-2
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:60560bf6cf0223364ad0a99fdcafe541239c52ad@merlin-cinemas-calendar
@@ -280,6 +297,7 @@ DESCRIPTION:Resident Evil\nHorror, Science Fiction, Action\n\nBryan, a medi
  /film/110404-resident-evil
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/110404-resident-evil
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:d3e3985b7bebed3e0147cb4c1529ecd0c070bd49@merlin-cinemas-calendar
@@ -300,6 +318,7 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-bea
  st-of-mossy-bottom
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:4a8563a384915d434e2583db91d222f0065ceef6@merlin-cinemas-calendar
@@ -316,6 +335,7 @@ DESCRIPTION:Verity\nMystery, Thriller\n\nLowen Ashleigh gets hired by Jerem
   https://helston.merlincinemas.co.uk/film/110405-verity
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/110405-verity
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:e55589f774a10902b264ebd901b3967cf8dafa3d@merlin-cinemas-calendar
@@ -332,6 +352,7 @@ DESCRIPTION:Forgotten Island\nAdventure, Animation, Comedy, Family, Fantasy
  inemas.co.uk/film/109186-forgotten-island
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109186-forgotten-island
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:e8cb4835291a8fbfae8218bdd179739241519513@merlin-cinemas-calendar
@@ -350,6 +371,7 @@ DESCRIPTION:Street Fighter\nAction, Comedy, Fantasy\n\nIn 1993, estranged S
  helston.merlincinemas.co.uk/film/109884-street-fighter
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109884-street-fighter
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:f901c6ad133fb26b4757cdf08a9d750d91f3a1d8@merlin-cinemas-calendar
@@ -366,6 +388,7 @@ DESCRIPTION:Clayface\nHorror, Thriller, Science Fiction\n\nFollow the terri
  https://helston.merlincinemas.co.uk/film/110406-clayface
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/110406-clayface
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:e39dd585baa94869bd9a93e5f4ad85f9b3e9d52b@merlin-cinemas-calendar
@@ -384,6 +407,7 @@ DESCRIPTION:Wild Horse Nine\nComedy, Crime, Thriller\n\nShortly before the
  kets: https://helston.merlincinemas.co.uk/film/109012-wild-horse-nine
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109012-wild-horse-nine
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:66b7e67319a54d786cee1254d0cb14c495b2587e@merlin-cinemas-calendar
@@ -401,6 +425,7 @@ DESCRIPTION:The Hunger Games: Sunrise On The Reaping\nScience Fiction, Acti
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/105537-the-hunger-games-sunris
  e-on-the-reaping
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:c582951f3df8336e37bdb8fa024daac016698c8f@merlin-cinemas-calendar
@@ -416,6 +441,7 @@ DESCRIPTION:Focker-In-Law\nComedy, Romance\n\nHenry, son of Greg and Pam Fo
  o.uk/film/109883-fockerinlaw
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109883-fockerinlaw
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:847ab8cc338a0464a7bd528fc6ba03877071d9d7@merlin-cinemas-calendar
@@ -432,6 +458,7 @@ DESCRIPTION:Avengers: Doomsday\nScience Fiction, Action, Adventure\n\nBelov
  sday
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/106451-avengers-doomsday
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:c6a3ae3c3d67b716df78666826a26c2e7f22ce43@merlin-cinemas-calendar
@@ -448,6 +475,7 @@ DESCRIPTION:Dune: Part Three\nScience Fiction, Adventure, Action\n\nAs Empe
  lm/109010-dune-part-three
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/109010-dune-part-three
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:fff08225fedebf8881b2d7da80cc62cf6b93fb23@merlin-cinemas-calendar
@@ -464,5 +492,6 @@ DESCRIPTION:Ice Age: Boiling Point\nAdventure, Animation, Comedy, Family\n\
  9-ice-age-boiling-point
 LOCATION:Merlin Cinemas Helston
 URL:https://helston.merlincinemas.co.uk/film/111889-ice-age-boiling-point
+SEQUENCE:0
 END:VEVENT
 END:VCALENDAR

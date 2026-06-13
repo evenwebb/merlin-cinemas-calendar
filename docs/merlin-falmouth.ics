@@ -6,6 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Merlin Falmouth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Falmouth
 X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:ac597cb5d8e8f868e2d42a5ff3e30184d744f248@merlin-cinemas-calendar
 DTSTAMP:20260613T000000Z
@@ -27,6 +29,7 @@ DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/110320-the-amazing-digital-ci
  rcus-the-last-act
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:10b01cbd8568f7cde60039aff461ae0534358c95@merlin-cinemas-calendar
@@ -43,6 +46,7 @@ DESCRIPTION:Supergirl\nAction, Adventure, Science Fiction\n\nWhen an unexpe
  uth.merlincinemas.co.uk/film/106024-supergirl
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/106024-supergirl
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:31ae8c9e001b362d638a3edf0833df8fbfbe8878@merlin-cinemas-calendar
@@ -59,6 +63,7 @@ DESCRIPTION:500 Miles\nDrama\n\nA broken family is forced to come together
  rlincinemas.co.uk/film/110400-500-miles
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/110400-500-miles
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:97dd493f8c0d4a9d28e66d31906a1b8c95deddca@merlin-cinemas-calendar
@@ -74,6 +79,7 @@ DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe fift
  110402-jackass-best-and-last
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/110402-jackass-best-and-last
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:751e37face8b19bf28df81075d8e99fc40cd4035@merlin-cinemas-calendar
@@ -91,6 +97,7 @@ DESCRIPTION:Minions & Monsters\nAdventure, Animation, Comedy, Family, Fanta
  th.merlincinemas.co.uk/film/110835-minions-monsters
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/110835-minions-monsters
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:850659ffb6345dc06623bd68b45de16090ece9af@merlin-cinemas-calendar
@@ -108,6 +115,7 @@ DESCRIPTION:Evil Dead Burn\nHorror, Thriller\n\nAfter the loss of her husba
  as.co.uk/film/110872-evil-dead-burn
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/110872-evil-dead-burn
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:e8b5f757000862a897217ecaa08f3624593cd9eb@merlin-cinemas-calendar
@@ -124,6 +132,7 @@ DESCRIPTION:Moana\nFamily, Fantasy, Comedy, Adventure\n\nMoana answers the
  535-moana
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/105535-moana
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:950df944e6e99292b53cdbf064d624d19e513401@merlin-cinemas-calendar
@@ -141,6 +150,7 @@ DESCRIPTION:The Odyssey\nAdventure, Action, Fantasy\n\nOdysseus, the legend
  ncinemas.co.uk/film/106038-the-odyssey
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/106038-the-odyssey
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ff86dfdfd3701540a5ff063afe41e8a90e9c177e@merlin-cinemas-calendar
@@ -163,6 +173,7 @@ DESCRIPTION:Spider-Man: Brand New Day\nScience Fiction, Action, Adventure\n
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/109011-spiderman-brand-new-da
  y
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ccff421f58d027595e58ecec8d661e695490d993@merlin-cinemas-calendar
@@ -186,6 +197,7 @@ DESCRIPTION:PAW Patrol: The Dino Movie\nAdventure, Animation, Comedy, Famil
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mo
  vie
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:287399a134e0e303ec90ddb959b56970738ae6c6@merlin-cinemas-calendar
@@ -203,6 +215,7 @@ DESCRIPTION:The End Of Oak Street\nScience Fiction, Mystery, Thriller\n\nAf
  .merlincinemas.co.uk/film/111887-the-end-of-oak-street
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/111887-the-end-of-oak-street
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a458c33573434f4054df5eeb40b8941df217be41@merlin-cinemas-calendar
@@ -220,6 +233,7 @@ DESCRIPTION:Insidious: Out Of The Further\nHorror, Thriller\n\nA trio of st
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/109808-insidious-out-of-the-f
  urther
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:6e826180265f5d20ff5a0c198e8a909e4e2776b9@merlin-cinemas-calendar
@@ -238,6 +252,7 @@ DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  -dog-stars
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/109928-the-dog-stars
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:fdce01940dd623218bec7f59400a518df9f249d4@merlin-cinemas-calendar
@@ -256,6 +271,7 @@ DESCRIPTION:How To Rob A Bank\nCrime, Thriller\n\nA crew of social media-sa
  /111888-how-to-rob-a-bank
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/111888-how-to-rob-a-bank
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a96068bb02b4cb894a7c058bcdbeb82d57496829@merlin-cinemas-calendar
@@ -273,6 +289,7 @@ DESCRIPTION:Pressure\n★★★★☆\nThriller, History, War\n\nIn the tense 72
  /film/109185-pressure
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/109185-pressure
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:48aafebff326ca11daa111b89c90ad4194af871c@merlin-cinemas-calendar
@@ -288,6 +305,7 @@ DESCRIPTION:Practical Magic 2\nFantasy, Drama, Comedy\n\nThe Owens sisters
  practical-magic-2
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/110125-practical-magic-2
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:cb9117fda837eb0ec2d844ff83ed869662e99ea8@merlin-cinemas-calendar
@@ -303,6 +321,7 @@ DESCRIPTION:Resident Evil\nHorror, Science Fiction, Action\n\nBryan, a medi
  uk/film/110404-resident-evil
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/110404-resident-evil
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:2f3e68b812b599c2877cc50fc3f5759bbe1ce0af@merlin-cinemas-calendar
@@ -323,6 +342,7 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-be
  ast-of-mossy-bottom
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:b55ab21bbb59bbc73725cfa155a6b5cff232db1f@merlin-cinemas-calendar
@@ -339,6 +359,7 @@ DESCRIPTION:Verity\nMystery, Thriller\n\nLowen Ashleigh gets hired by Jerem
  : https://falmouth.merlincinemas.co.uk/film/110405-verity
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/110405-verity
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:f269beae8b80c4cfadf917f4bbdf934ba6fdc5bc@merlin-cinemas-calendar
@@ -355,6 +376,7 @@ DESCRIPTION:Forgotten Island\nAdventure, Animation, Comedy, Family, Fantasy
  ncinemas.co.uk/film/109186-forgotten-island
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/109186-forgotten-island
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:6c91eed6d0ff37868b0e013cf4fde402f6af0ae1@merlin-cinemas-calendar
@@ -373,6 +395,7 @@ DESCRIPTION:Street Fighter\nAction, Comedy, Fantasy\n\nIn 1993, estranged S
  /falmouth.merlincinemas.co.uk/film/109884-street-fighter
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/109884-street-fighter
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:0961396fd3bb85d7bafca5ae8c42adde18ad5e7e@merlin-cinemas-calendar
@@ -389,6 +412,7 @@ DESCRIPTION:Clayface\nHorror, Thriller, Science Fiction\n\nFollow the terri
   https://falmouth.merlincinemas.co.uk/film/110406-clayface
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/110406-clayface
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:04c9f145c8495b094c2cf408e11b255fbbce212d@merlin-cinemas-calendar
@@ -407,6 +431,7 @@ DESCRIPTION:Wild Horse Nine\nComedy, Crime, Thriller\n\nShortly before the
  ckets: https://falmouth.merlincinemas.co.uk/film/109012-wild-horse-nine
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/109012-wild-horse-nine
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:529123822679abc50ff1e8dd2a4ad7c655b89492@merlin-cinemas-calendar
@@ -424,6 +449,7 @@ DESCRIPTION:The Hunger Games: Sunrise On The Reaping\nScience Fiction, Acti
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/105537-the-hunger-games-sunri
  se-on-the-reaping
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:6b1d935a392535530f9d19ff5657c47a81a769cb@merlin-cinemas-calendar
@@ -439,6 +465,7 @@ DESCRIPTION:Focker-In-Law\nComedy, Romance\n\nHenry, son of Greg and Pam Fo
  .co.uk/film/109883-fockerinlaw
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/109883-fockerinlaw
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:56a7aab2ac2a8321a85ee8c393f9fee56b7e5388@merlin-cinemas-calendar
@@ -455,6 +482,7 @@ DESCRIPTION:Avengers: Doomsday\nScience Fiction, Action, Adventure\n\nBelov
  omsday
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/106451-avengers-doomsday
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:8e80a4f748691160dc66651f1f7997e7acf675f1@merlin-cinemas-calendar
@@ -471,6 +499,7 @@ DESCRIPTION:Dune: Part Three\nScience Fiction, Adventure, Action\n\nAs Empe
  film/109010-dune-part-three
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/109010-dune-part-three
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:f0bdf1b3f6aa07fb0cebdbf79c5067d10c4d1882@merlin-cinemas-calendar
@@ -487,5 +516,6 @@ DESCRIPTION:Ice Age: Boiling Point\nAdventure, Animation, Comedy, Family\n\
  889-ice-age-boiling-point
 LOCATION:Merlin Cinemas Falmouth
 URL:https://falmouth.merlincinemas.co.uk/film/111889-ice-age-boiling-point
+SEQUENCE:0
 END:VEVENT
 END:VCALENDAR

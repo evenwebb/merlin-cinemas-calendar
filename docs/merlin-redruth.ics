@@ -6,6 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Merlin Redruth Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Redruth
 X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:73f7118f0e494859ec09f2cc523fc911b4114229@merlin-cinemas-calendar
 DTSTAMP:20260613T000000Z
@@ -27,6 +29,7 @@ DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110320-the-amazing-digital-cir
  cus-the-last-act
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a02e6e850d63bca5fdb437f5bd21ec3e17503923@merlin-cinemas-calendar
@@ -43,6 +46,7 @@ DESCRIPTION:Supergirl\nAction, Adventure, Science Fiction\n\nWhen an unexpe
  h.merlincinemas.co.uk/film/106024-supergirl
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/106024-supergirl
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:91241ce9cacd32bdf990d143700c5624c3412816@merlin-cinemas-calendar
@@ -59,6 +63,7 @@ DESCRIPTION:500 Miles\nDrama\n\nA broken family is forced to come together
  incinemas.co.uk/film/110400-500-miles
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110400-500-miles
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:28252b3fd6126a8da71a8056a7f94e6bff8d2751@merlin-cinemas-calendar
@@ -74,6 +79,7 @@ DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe fift
  0402-jackass-best-and-last
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110402-jackass-best-and-last
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:fa6a09411f6a268726b045a78ee097cdf6e3c952@merlin-cinemas-calendar
@@ -91,6 +97,7 @@ DESCRIPTION:Minions & Monsters\nAdventure, Animation, Comedy, Family, Fanta
  .merlincinemas.co.uk/film/110835-minions-monsters
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110835-minions-monsters
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:9d49d02fbb5098cf90fea8697638cb799c23bf1e@merlin-cinemas-calendar
@@ -108,6 +115,7 @@ DESCRIPTION:Evil Dead Burn\nHorror, Thriller\n\nAfter the loss of her husba
  .co.uk/film/110872-evil-dead-burn
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110872-evil-dead-burn
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:13dc4edf7c83fa385f1147c962a4c8fa03d9589e@merlin-cinemas-calendar
@@ -124,6 +132,7 @@ DESCRIPTION:Moana\nFamily, Fantasy, Comedy, Adventure\n\nMoana answers the
  5-moana
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/105535-moana
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:e9f3f0d238b4eeddd8d96fc53a98f5b35aa837c2@merlin-cinemas-calendar
@@ -141,6 +150,7 @@ DESCRIPTION:The Odyssey\nAdventure, Action, Fantasy\n\nOdysseus, the legend
  inemas.co.uk/film/106038-the-odyssey
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/106038-the-odyssey
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:1440d6ea50841d5e93a2e55c110cc90c7961d63d@merlin-cinemas-calendar
@@ -162,6 +172,7 @@ DESCRIPTION:Spider-Man: Brand New Day\nScience Fiction, Action, Adventure\n
  lm/109011-spiderman-brand-new-day
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109011-spiderman-brand-new-day
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:4df8fe3d2f310181bc2794ac3e5781e09575e045@merlin-cinemas-calendar
@@ -185,6 +196,7 @@ DESCRIPTION:PAW Patrol: The Dino Movie\nAdventure, Animation, Comedy, Famil
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mov
  ie
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:6866b83b022b2c5c7322128d22e3263be08d1652@merlin-cinemas-calendar
@@ -202,6 +214,7 @@ DESCRIPTION:The End Of Oak Street\nScience Fiction, Mystery, Thriller\n\nAf
  erlincinemas.co.uk/film/111887-the-end-of-oak-street
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/111887-the-end-of-oak-street
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:cd0e0d1ef1559a52b3481c91c2aeeb30731d6849@merlin-cinemas-calendar
@@ -219,6 +232,7 @@ DESCRIPTION:Insidious: Out Of The Further\nHorror, Thriller\n\nA trio of st
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109808-insidious-out-of-the-fu
  rther
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:2ed1d8a8a9e83e0ab3ac77961f720f970a25c2c6@merlin-cinemas-calendar
@@ -237,6 +251,7 @@ DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  og-stars
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109928-the-dog-stars
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:b8f1378d24ed0630354d55aadf8e28e17bafa06a@merlin-cinemas-calendar
@@ -255,6 +270,7 @@ DESCRIPTION:How To Rob A Bank\nCrime, Thriller\n\nA crew of social media-sa
  11888-how-to-rob-a-bank
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/111888-how-to-rob-a-bank
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a1bf6b87251ed4b85d81ceaf8bcf9e88c778fa76@merlin-cinemas-calendar
@@ -272,6 +288,7 @@ DESCRIPTION:Pressure\n★★★★☆\nThriller, History, War\n\nIn the tense 72
  ilm/109185-pressure
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109185-pressure
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:e2a19f454e224916ca7fdbbca2d1ed1deea472fc@merlin-cinemas-calendar
@@ -287,6 +304,7 @@ DESCRIPTION:Practical Magic 2\nFantasy, Drama, Comedy\n\nThe Owens sisters
  actical-magic-2
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110125-practical-magic-2
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:09c6cbf6bd118aaa57f85eecbce445d402730b38@merlin-cinemas-calendar
@@ -302,6 +320,7 @@ DESCRIPTION:Resident Evil\nHorror, Science Fiction, Action\n\nBryan, a medi
  /film/110404-resident-evil
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110404-resident-evil
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ed60d4e9cd34b458a46b6c7a314fa17878513a1e@merlin-cinemas-calendar
@@ -322,6 +341,7 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-bea
  st-of-mossy-bottom
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:e6b524776827827006da3cb5c917154bf09b84df@merlin-cinemas-calendar
@@ -338,6 +358,7 @@ DESCRIPTION:Verity\nMystery, Thriller\n\nLowen Ashleigh gets hired by Jerem
   https://redruth.merlincinemas.co.uk/film/110405-verity
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110405-verity
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:64c38fe445a9549c59beee567c9f2b4f1b833ca0@merlin-cinemas-calendar
@@ -354,6 +375,7 @@ DESCRIPTION:Forgotten Island\nAdventure, Animation, Comedy, Family, Fantasy
  inemas.co.uk/film/109186-forgotten-island
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109186-forgotten-island
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:4b27d593e35dea8d89f89a77666e953cbb3f179b@merlin-cinemas-calendar
@@ -372,6 +394,7 @@ DESCRIPTION:Street Fighter\nAction, Comedy, Fantasy\n\nIn 1993, estranged S
  redruth.merlincinemas.co.uk/film/109884-street-fighter
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109884-street-fighter
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a0f0d70bcf15c44a8d57b369c891ba240e30d7c0@merlin-cinemas-calendar
@@ -388,6 +411,7 @@ DESCRIPTION:Clayface\nHorror, Thriller, Science Fiction\n\nFollow the terri
  https://redruth.merlincinemas.co.uk/film/110406-clayface
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/110406-clayface
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:22950af4bb9bc5fd172b7d54ec1aa00856e0730e@merlin-cinemas-calendar
@@ -406,6 +430,7 @@ DESCRIPTION:Wild Horse Nine\nComedy, Crime, Thriller\n\nShortly before the
  kets: https://redruth.merlincinemas.co.uk/film/109012-wild-horse-nine
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109012-wild-horse-nine
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:2ecf1f245b3d448ac8fc7379b2ccd2e9007becfc@merlin-cinemas-calendar
@@ -423,6 +448,7 @@ DESCRIPTION:The Hunger Games: Sunrise On The Reaping\nScience Fiction, Acti
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/105537-the-hunger-games-sunris
  e-on-the-reaping
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:52269a9f8e18fe1e2cc6e7ef55f5c2a0d438edf5@merlin-cinemas-calendar
@@ -438,6 +464,7 @@ DESCRIPTION:Focker-In-Law\nComedy, Romance\n\nHenry, son of Greg and Pam Fo
  o.uk/film/109883-fockerinlaw
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109883-fockerinlaw
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:c3ee7ac0d7815454606a77f2fc0de1077ec6c9f5@merlin-cinemas-calendar
@@ -454,6 +481,7 @@ DESCRIPTION:Avengers: Doomsday\nScience Fiction, Action, Adventure\n\nBelov
  sday
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/106451-avengers-doomsday
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:1ce89d812d8a962620ec1808142dded5144ae3d7@merlin-cinemas-calendar
@@ -470,6 +498,7 @@ DESCRIPTION:Dune: Part Three\nScience Fiction, Adventure, Action\n\nAs Empe
  lm/109010-dune-part-three
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/109010-dune-part-three
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:d63ce525e8282b3ab0183ec40a01c4241d58ede6@merlin-cinemas-calendar
@@ -486,5 +515,6 @@ DESCRIPTION:Ice Age: Boiling Point\nAdventure, Animation, Comedy, Family\n\
  9-ice-age-boiling-point
 LOCATION:Merlin Cinemas Redruth
 URL:https://redruth.merlincinemas.co.uk/film/111889-ice-age-boiling-point
+SEQUENCE:0
 END:VEVENT
 END:VCALENDAR

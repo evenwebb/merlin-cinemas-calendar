@@ -6,11 +6,13 @@ METHOD:PUBLISH
 X-WR-CALNAME:Merlin Savoy Cinema, Penzance Movie Premieres
 X-WR-CALDESC:Upcoming movie premieres at Merlin Cinemas Savoy Cinema, Penzance
 X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:a5a1698c4179ca0c8ee6cd43197e0cad9f3c9474@merlin-cinemas-calendar
-DTSTAMP:20260612T000000Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
+UID:f98c9db30287e2c7610fff8f38ed49ca352c364f@merlin-cinemas-calendar
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
 SUMMARY:The Amazing Digital Circus: The Last Act @ Merlin Savoy Cinema, Pen
  zance
 DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
@@ -28,6 +30,7 @@ DESCRIPTION:The Amazing Digital Circus: The Last Act\nAnimation, Drama, Sci
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110320-the-amazing-digital-ci
  rcus-the-last-act
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:4409bf538ad5a15f4111582b97ae421994c6ca8a@merlin-cinemas-calendar
@@ -44,6 +47,7 @@ DESCRIPTION:Supergirl\nAction, Adventure, Science Fiction\n\nWhen an unexpe
   https://penzance.merlincinemas.co.uk/film/106024-supergirl
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/106024-supergirl
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:4811fe46323f079108d70624335a087c084fa79f@merlin-cinemas-calendar
@@ -60,6 +64,7 @@ DESCRIPTION:500 Miles\nDrama\n\nA broken family is forced to come together
  ://penzance.merlincinemas.co.uk/film/110400-500-miles
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110400-500-miles
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:f5f25463632475ccd4bde0c33091b095657e1580@merlin-cinemas-calendar
@@ -75,6 +80,7 @@ DESCRIPTION:Jackass: Best And Last\nAction, Comedy, Documentary\n\nThe fift
  as.co.uk/film/110402-jackass-best-and-last
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110402-jackass-best-and-last
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a94dc1f99d816c4ccf6c1b24314fcf779e4aa94a@merlin-cinemas-calendar
@@ -92,6 +98,7 @@ DESCRIPTION:Minions & Monsters\nAdventure, Animation, Comedy, Family, Fanta
  https://penzance.merlincinemas.co.uk/film/110835-minions-monsters
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110835-minions-monsters
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a2ab886e93f91268ea5a1836cf4597bb8f5fe607@merlin-cinemas-calendar
@@ -109,6 +116,7 @@ DESCRIPTION:Evil Dead Burn\nHorror, Thriller\n\nAfter the loss of her husba
  ce.merlincinemas.co.uk/film/110872-evil-dead-burn
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110872-evil-dead-burn
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:8fd8023287825b0db40281652a8a7d26647117ca@merlin-cinemas-calendar
@@ -125,6 +133,7 @@ DESCRIPTION:Moana\nFamily, Fantasy, Comedy, Adventure\n\nMoana answers the
  co.uk/film/105535-moana
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/105535-moana
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:fad8d7415a7123534300d64079afd296ed36f1a5@merlin-cinemas-calendar
@@ -142,6 +151,7 @@ DESCRIPTION:The Odyssey\nAdventure, Action, Fantasy\n\nOdysseus, the legend
  penzance.merlincinemas.co.uk/film/106038-the-odyssey
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/106038-the-odyssey
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:46c50333cde3b5b362094a787f707d97d63798ca@merlin-cinemas-calendar
@@ -164,6 +174,7 @@ DESCRIPTION:Spider-Man: Brand New Day\nScience Fiction, Action, Adventure\n
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109011-spiderman-brand-new-da
  y
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:49515788217685197f8d6d3ed66ae523109f1efa@merlin-cinemas-calendar
@@ -188,6 +199,7 @@ DESCRIPTION:PAW Patrol: The Dino Movie\nAdventure, Animation, Comedy, Famil
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109428-paw-patrol-the-dino-mo
  vie
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:929a580846cb9b951e1ecd6f13705fbd0dfd855b@merlin-cinemas-calendar
@@ -205,6 +217,7 @@ DESCRIPTION:The End Of Oak Street\nScience Fiction, Mystery, Thriller\n\nAf
  tps://penzance.merlincinemas.co.uk/film/111887-the-end-of-oak-street
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/111887-the-end-of-oak-street
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:9a2400bf013752ac443b00638ba62027743354bf@merlin-cinemas-calendar
@@ -222,6 +235,7 @@ DESCRIPTION:Insidious: Out Of The Further\nHorror, Thriller\n\nA trio of st
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109808-insidious-out-of-the-f
  urther
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:7932fb17d3e3ab321da7d42760482e5b48958945@merlin-cinemas-calendar
@@ -240,6 +254,7 @@ DESCRIPTION:The Dog Stars\nAdventure, Science Fiction, Thriller\n\nAfter th
  ilm/109928-the-dog-stars
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109928-the-dog-stars
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:8f55cb014274e21b5dfa01d1731b46355381c3f1@merlin-cinemas-calendar
@@ -258,6 +273,7 @@ DESCRIPTION:How To Rob A Bank\nCrime, Thriller\n\nA crew of social media-sa
  mas.co.uk/film/111888-how-to-rob-a-bank
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/111888-how-to-rob-a-bank
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:086f1d7de4693673442e44d8d081a43560bec031@merlin-cinemas-calendar
@@ -275,6 +291,7 @@ DESCRIPTION:Pressure\n★★★★☆\nThriller, History, War\n\nIn the tense 72
  ncinemas.co.uk/film/109185-pressure
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109185-pressure
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:9961426c4f9978d674a186334fea9db74ef446fc@merlin-cinemas-calendar
@@ -290,6 +307,7 @@ DESCRIPTION:Practical Magic 2\nFantasy, Drama, Comedy\n\nThe Owens sisters
  k/film/110125-practical-magic-2
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110125-practical-magic-2
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:575a9284d8c81f8714b554a318654b8f73bfd52e@merlin-cinemas-calendar
@@ -305,6 +323,7 @@ DESCRIPTION:Resident Evil\nHorror, Science Fiction, Action\n\nBryan, a medi
  lincinemas.co.uk/film/110404-resident-evil
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110404-resident-evil
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:d7b6e4c432470c27b13d976e36b19406ad52f75e@merlin-cinemas-calendar
@@ -326,6 +345,7 @@ DESCRIPTION:Shaun The Sheep: The Beast Of Mossy Bottom\nFamily, Comedy, Adv
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/108998-shaun-the-sheep-the-be
  ast-of-mossy-bottom
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:20e0749c36df3cb394c533c2f533eb9102577fcc@merlin-cinemas-calendar
@@ -342,6 +362,7 @@ DESCRIPTION:Verity\nMystery, Thriller\n\nLowen Ashleigh gets hired by Jerem
  \nBook tickets: https://penzance.merlincinemas.co.uk/film/110405-verity
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110405-verity
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:3b914f62fe0fef48c77961e42212e78514259c96@merlin-cinemas-calendar
@@ -358,6 +379,7 @@ DESCRIPTION:Forgotten Island\nAdventure, Animation, Comedy, Family, Fantasy
  penzance.merlincinemas.co.uk/film/109186-forgotten-island
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109186-forgotten-island
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:b7095402b26e2a4bb45ee0d3a0112fecdba66cd9@merlin-cinemas-calendar
@@ -376,6 +398,7 @@ DESCRIPTION:Street Fighter\nAction, Comedy, Fantasy\n\nIn 1993, estranged S
  ckets: https://penzance.merlincinemas.co.uk/film/109884-street-fighter
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109884-street-fighter
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:cb6a52c1677bbcd68ec18e39f3e71606a6a246d6@merlin-cinemas-calendar
@@ -392,6 +415,7 @@ DESCRIPTION:Clayface\nHorror, Thriller, Science Fiction\n\nFollow the terri
  nBook tickets: https://penzance.merlincinemas.co.uk/film/110406-clayface
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/110406-clayface
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:993f503d9d7b813913a104b1a230507afdb48fe6@merlin-cinemas-calendar
@@ -411,6 +435,7 @@ DESCRIPTION:Wild Horse Nine\nComedy, Crime, Thriller\n\nShortly before the
  -horse-nine
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109012-wild-horse-nine
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:9d3fd0c37d40af368238789dfff79d61ab3ab441@merlin-cinemas-calendar
@@ -430,6 +455,7 @@ DESCRIPTION:The Hunger Games: Sunrise On The Reaping\nScience Fiction, Acti
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/105537-the-hunger-games-sunri
  se-on-the-reaping
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:561812ebf3a42e9758831f727fec584c13feed1f@merlin-cinemas-calendar
@@ -445,6 +471,7 @@ DESCRIPTION:Focker-In-Law\nComedy, Romance\n\nHenry, son of Greg and Pam Fo
  .merlincinemas.co.uk/film/109883-fockerinlaw
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109883-fockerinlaw
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:612565ac0606a1b0b25dc6c6a418e5bda4b93449@merlin-cinemas-calendar
@@ -461,6 +488,7 @@ DESCRIPTION:Avengers: Doomsday\nScience Fiction, Action, Adventure\n\nBelov
  51-avengers-doomsday
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/106451-avengers-doomsday
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:75b63fcd41f9b1e0caf609a8644c031c0ac314c6@merlin-cinemas-calendar
@@ -477,6 +505,7 @@ DESCRIPTION:Dune: Part Three\nScience Fiction, Adventure, Action\n\nAs Empe
  cinemas.co.uk/film/109010-dune-part-three
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/109010-dune-part-three
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ee86739bfdfaf9c65282acc183d6921c3c5278b5@merlin-cinemas-calendar
@@ -493,5 +522,6 @@ DESCRIPTION:Ice Age: Boiling Point\nAdventure, Animation, Comedy, Family\n\
  co.uk/film/111889-ice-age-boiling-point
 LOCATION:Merlin Cinemas Savoy Cinema, Penzance
 URL:https://penzance.merlincinemas.co.uk/film/111889-ice-age-boiling-point
+SEQUENCE:0
 END:VEVENT
 END:VCALENDAR
