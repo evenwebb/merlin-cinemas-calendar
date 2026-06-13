@@ -9,9 +9,7 @@ import logging
 import os
 import re
 import time
-import threading
 import warnings
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from itertools import groupby
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
