@@ -1,3 +1,5 @@
+> **Superseded** — This project has been replaced by **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)**. Kept for reference only.
+
 <div align="center">
 
 # 🎟️ Merlin Cinemas Calendar Scraper
